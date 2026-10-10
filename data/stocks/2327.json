@@ -1,0 +1,23 @@
+{
+  "ticker": "2327",
+  "company": "華邦電",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 1,
+  "neutral": 0,
+  "posts": [
+    {
+      "ticker": "2327",
+      "company": "華邦電",
+      "stance": "bearish",
+      "post_id": "2079089592385610023",
+      "text_preview": "Some updates on bottleneck timelines: \n\n- ABF substrates: 1 year \n/ eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates \n\n- HDI Boards: Over 6 months \n/ Victory G",
+      "created_at": "2026-07-20T06:22:41+00:00",
+      "likes": 638,
+      "retweets": 49,
+      "replies": 97,
+      "views": 204910,
+      "bookmarks": 282
+    }
+  ]
+}

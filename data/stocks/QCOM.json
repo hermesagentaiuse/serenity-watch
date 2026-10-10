@@ -1,0 +1,62 @@
+{
+  "ticker": "QCOM",
+  "company": "Qualcomm",
+  "total_mentions": 4,
+  "bullish": 0,
+  "bearish": 2,
+  "neutral": 2,
+  "posts": [
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "stance": "bearish",
+      "post_id": "2100735673561174047",
+      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
+      "created_at": "2026-09-17T23:56:29Z",
+      "likes": 374,
+      "retweets": 22,
+      "replies": 34,
+      "views": 63383,
+      "bookmarks": 116
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "stance": "neutral",
+      "post_id": "2094408196769423727",
+      "text_preview": "@balllvest With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next. \n\nI think the ASIC pie gets bigger for all of them though.",
+      "created_at": "2026-08-31T12:53:20+00:00",
+      "likes": 45,
+      "retweets": 4,
+      "replies": 4,
+      "views": 13212,
+      "bookmarks": 8
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "stance": "bearish",
+      "post_id": "2081472671129501729",
+      "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
+      "created_at": "2026-07-26T20:12:11+00:00",
+      "likes": 790,
+      "retweets": 55,
+      "replies": 119,
+      "views": 174657,
+      "bookmarks": 300
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "stance": "neutral",
+      "post_id": "2077753660592033828",
+      "text_preview": "Today, $MU announced it signed memory LTAs with $QCOM.\n\nInteresting reaction to see Micron proceeded to drop 5.37% right after.\n\nDoesn’t quite feel like there’s anything individually wrong with memory",
+      "created_at": "2026-07-16T13:54:10+00:00",
+      "likes": 1532,
+      "retweets": 88,
+      "replies": 265,
+      "views": 341021,
+      "bookmarks": 190
+    }
+  ]
+}

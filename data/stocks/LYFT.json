@@ -1,0 +1,23 @@
+{
+  "ticker": "LYFT",
+  "company": "Lyft",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "LYFT",
+      "company": "Lyft",
+      "stance": "neutral",
+      "post_id": "2080754547757391897",
+      "text_preview": "@OtsukimiOtsu Feels like every other car you see in SF is a Waymo.\n\nShort-medium term I see it as negligible impact to $UBER and $LYFT. \n\nLong term I see them cooked in US markets unless they act…\n\nSi",
+      "created_at": "2026-07-24T20:38:37+00:00",
+      "likes": 54,
+      "retweets": 1,
+      "replies": 4,
+      "views": 23757,
+      "bookmarks": 4
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CRWD",
+  "company": "CrowdStrike",
+  "total_mentions": 1,
+  "bullish": 1,
+  "bearish": 0,
+  "neutral": 0,
+  "posts": [
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "stance": "bullish",
+      "post_id": "2099659874892386678",
+      "text_preview": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if J",
+      "created_at": "2026-09-15T00:41:38Z",
+      "likes": 202,
+      "retweets": 12,
+      "replies": 20,
+      "views": 45875,
+      "bookmarks": 34
+    }
+  ]
+}

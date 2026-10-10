@@ -1,0 +1,23 @@
+{
+  "ticker": "CRM",
+  "company": "Salesforce",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "stance": "neutral",
+      "post_id": "2095495334722179152",
+      "text_preview": "@Shiboo9019 it's partly a defensive acquisition. $NVDA talks started after $CRM and other companies were reportedly approaching Hugging Face for an acquisition.",
+      "created_at": "2026-09-03T12:53:14+00:00",
+      "likes": 45,
+      "retweets": 0,
+      "replies": 3,
+      "views": 13394,
+      "bookmarks": 2
+    }
+  ]
+}

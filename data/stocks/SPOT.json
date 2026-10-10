@@ -1,0 +1,75 @@
+{
+  "ticker": "SPOT",
+  "company": "Spotify",
+  "total_mentions": 5,
+  "bullish": 1,
+  "bearish": 1,
+  "neutral": 3,
+  "posts": [
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "bullish",
+      "post_id": "2094828832977305981",
+      "text_preview": "@Matrix_B0SS @SiversSemicond I don’t want to be on any board or be an activist investor, pls stop recommending me lol!\n\nI’m just putting out my thoughts on how I see them become a $LITE type company, ",
+      "created_at": "2026-09-01T16:44:48+00:00",
+      "likes": 211,
+      "retweets": 4,
+      "replies": 16,
+      "views": 27661,
+      "bookmarks": 12
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "neutral",
+      "post_id": "2093990659866923407",
+      "text_preview": "@wannabepanacea So far, what I've seen is market volatility stemming from communication failures and noise. Thesis break would be \n\n1. issues with their foundry allocations, since that would affect su",
+      "created_at": "2026-08-30T09:14:12+00:00",
+      "likes": 110,
+      "retweets": 5,
+      "replies": 7,
+      "views": 13401,
+      "bookmarks": 13
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "neutral",
+      "post_id": "2092718416683819292",
+      "text_preview": "$NVDA earnings TLDR:\n\nRevenue: $96.22B vs. ~$92.17B (beat)\nAdj. EPS: $2.22 vs. $2.09-$2.10 (beat)\nDC: $89.0B vs. ~$86.3B (beat)\nAdj. gross margin: 75% vs. 75%\n\nHyperscaler Revenue: $48.71B from $43.05",
+      "created_at": "2026-08-26T20:58:46+00:00",
+      "likes": 992,
+      "retweets": 53,
+      "replies": 70,
+      "views": 379109,
+      "bookmarks": 143
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "bearish",
+      "post_id": "2081472671129501729",
+      "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
+      "created_at": "2026-07-26T20:12:11+00:00",
+      "likes": 790,
+      "retweets": 55,
+      "replies": 119,
+      "views": 174657,
+      "bookmarks": 300
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "neutral",
+      "post_id": "2077740809022296552",
+      "text_preview": "@XtineFang @nikitabier X is doing everything they can so I lose my spot to Elon Musk!",
+      "created_at": "2026-07-16T13:03:06+00:00",
+      "likes": 161,
+      "retweets": 0,
+      "replies": 17,
+      "views": 28873,
+      "bookmarks": 2
+    }
+  ]
+}

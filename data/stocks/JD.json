@@ -1,0 +1,36 @@
+{
+  "ticker": "JD",
+  "company": "JD.com",
+  "total_mentions": 2,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 2,
+  "posts": [
+    {
+      "ticker": "JD",
+      "company": "JD.com",
+      "stance": "neutral",
+      "post_id": "2073537674905055568",
+      "text_preview": "@fivepointscap Yep, $SE $MELI $JD $AMZN and the other e-commerce giants are the most obvious beneficiary of physical AI push that I can think of\n\nGiven they can optimizing opex immediately with roboti",
+      "created_at": "2026-07-04T22:41:20+00:00",
+      "likes": 84,
+      "retweets": 3,
+      "replies": 4,
+      "views": 27479,
+      "bookmarks": 42
+    },
+    {
+      "ticker": "JD",
+      "company": "JD.com",
+      "stance": "neutral",
+      "post_id": "2073523410643366242",
+      "text_preview": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by rob",
+      "created_at": "2026-07-04T21:44:39+00:00",
+      "likes": 869,
+      "retweets": 68,
+      "replies": 140,
+      "views": 379983,
+      "bookmarks": 169
+    }
+  ]
+}

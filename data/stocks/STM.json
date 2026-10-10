@@ -1,0 +1,36 @@
+{
+  "ticker": "STM",
+  "company": "STMicroelectronics",
+  "total_mentions": 2,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 2,
+  "posts": [
+    {
+      "ticker": "STM",
+      "company": "STMicroelectronics",
+      "stance": "neutral",
+      "post_id": "2095087925822190023",
+      "text_preview": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $",
+      "created_at": "2026-09-02T09:54:21+00:00",
+      "likes": 1248,
+      "retweets": 113,
+      "replies": 71,
+      "views": 314123,
+      "bookmarks": 679
+    },
+    {
+      "ticker": "STM",
+      "company": "STMicroelectronics",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    }
+  ]
+}

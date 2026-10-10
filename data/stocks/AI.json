@@ -1,0 +1,23 @@
+{
+  "ticker": "AI",
+  "company": "AI 相關",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "AI",
+      "company": "AI 相關",
+      "stance": "neutral",
+      "post_id": "2052311278778188106",
+      "text_preview": "For me, probably until start of H2 2027. \n\nI don't like long term holding equipment sellers like $ASML, $AIXA, even $TOWA etc.. Monopolies are usually exceptions since they retain valuations + keep go",
+      "created_at": "2026-05-07T08:55:13+00:00",
+      "likes": 145,
+      "retweets": 9,
+      "replies": 10,
+      "views": 40628,
+      "bookmarks": 104
+    }
+  ]
+}

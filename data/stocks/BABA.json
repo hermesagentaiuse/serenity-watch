@@ -1,0 +1,23 @@
+{
+  "ticker": "BABA",
+  "company": "Alibaba",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "BABA",
+      "company": "Alibaba",
+      "stance": "neutral",
+      "post_id": "2069938631817699588",
+      "text_preview": "Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its frontier AI models.\n\nBy creating thousands of fake accounts and over 28.8 million exchanges. \n\nFeels like this is kind of ",
+      "created_at": "2026-06-25T00:20:02+00:00",
+      "likes": 274,
+      "retweets": 22,
+      "replies": 62,
+      "views": 73345,
+      "bookmarks": 25
+    }
+  ]
+}

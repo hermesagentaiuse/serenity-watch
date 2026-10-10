@@ -1,0 +1,23 @@
+{
+  "ticker": "COIN",
+  "company": "Coinbase",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "stance": "neutral",
+      "post_id": "2086638639052955732",
+      "text_preview": "@00m00oo I think we already got too many hints from $AAOI earnings about demand 20-40% imbalance for optical transivers with lasers as a bottleneck.\n\nAnd $POET stating big 3 are completely sold out of",
+      "created_at": "2026-08-10T02:19:54+00:00",
+      "likes": 140,
+      "retweets": 5,
+      "replies": 14,
+      "views": 46633,
+      "bookmarks": 13
+    }
+  ]
+}

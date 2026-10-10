@@ -1,0 +1,23 @@
+{
+  "ticker": "3037",
+  "company": "台達電",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "3037",
+      "company": "台達電",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    }
+  ]
+}

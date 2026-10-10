@@ -1,0 +1,23 @@
+{
+  "ticker": "SPY",
+  "company": "S&P 500 ETF",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "SPY",
+      "company": "S&P 500 ETF",
+      "stance": "neutral",
+      "post_id": "2055266613059051695",
+      "text_preview": "@dominicpoks I mean SPY was down 5% a month ago but most of my picks were up triple digits still…\n\nBut they all went up even more after the index recovered",
+      "created_at": "2026-05-15T12:38:40+00:00",
+      "likes": 74,
+      "retweets": 0,
+      "replies": 6,
+      "views": 8860,
+      "bookmarks": 0
+    }
+  ]
+}

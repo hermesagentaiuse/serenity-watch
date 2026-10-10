@@ -1,0 +1,23 @@
+{
+  "ticker": "6531",
+  "company": "創意",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "6531",
+      "company": "創意",
+      "stance": "neutral",
+      "post_id": "2057759549478859144",
+      "text_preview": "For $INTC EMIB advanced packaging supply chains: \n\nIf you thought it couldn’t get worse after taking AP History or AP Chemistry:\n\nThere’s apparently a company called: AP Memory (6531). $4.8B MC that g",
+      "created_at": "2026-05-22T09:44:42+00:00",
+      "likes": 569,
+      "retweets": 7,
+      "replies": 58,
+      "views": 98621,
+      "bookmarks": 165
+    }
+  ]
+}

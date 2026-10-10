@@ -1,0 +1,23 @@
+{
+  "ticker": "QQQ",
+  "company": "NASDAQ 100 ETF",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "QQQ",
+      "company": "NASDAQ 100 ETF",
+      "stance": "neutral",
+      "post_id": "2094516012557427002",
+      "text_preview": "Interesting to see $QQQ spike when Trump gave a comment on potential rate hikes:\n\nAnswer: \"Trump: No, I have a lot of respect for him, and he'll do what he has to do.\n\nI think our interest rates are t",
+      "created_at": "2026-08-31T20:01:46+00:00",
+      "likes": 766,
+      "retweets": 19,
+      "replies": 64,
+      "views": 231092,
+      "bookmarks": 62
+    }
+  ]
+}

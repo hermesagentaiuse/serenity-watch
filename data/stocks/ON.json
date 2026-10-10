@@ -1,0 +1,23 @@
+{
+  "ticker": "ON",
+  "company": "ON Semiconductor",
+  "total_mentions": 1,
+  "bullish": 1,
+  "bearish": 0,
+  "neutral": 0,
+  "posts": [
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "stance": "bullish",
+      "post_id": "2088181416148562017",
+      "text_preview": "Donald Trump signs a proclamation to strengthen US supply chains for drones.\n\nBenefiting U.S. drone component suppliers like $UMAC to UAS manufacturers like $ONDS + $RCAT. \n\n TLDR, 100% tariffs on:\n- ",
+      "created_at": "2026-08-14T08:30:20+00:00",
+      "likes": 1181,
+      "retweets": 109,
+      "replies": 108,
+      "views": 259480,
+      "bookmarks": 230
+    }
+  ]
+}

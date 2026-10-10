@@ -1,0 +1,23 @@
+{
+  "ticker": "PLTR",
+  "company": "Palantir",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "PLTR",
+      "company": "Palantir",
+      "stance": "neutral",
+      "post_id": "2099126746390139042",
+      "text_preview": "Tech people in real life: I have shares in “ $TSLA, $GOOGL, $SPCX. “\n\nPeople on my X feed/comments:\n\n- Leveraged Micron, Sk Hynix calls all the way from $1M to $28M down to $4M\n\n- calls on short dated",
+      "created_at": "2026-09-13T13:23:10Z",
+      "likes": 1287,
+      "retweets": 50,
+      "replies": 93,
+      "views": 351702,
+      "bookmarks": 278
+    }
+  ]
+}

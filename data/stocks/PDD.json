@@ -1,0 +1,23 @@
+{
+  "ticker": "PDD",
+  "company": "PDD Holdings (Pinduoduo)",
+  "total_mentions": 1,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "PDD",
+      "company": "PDD Holdings (Pinduoduo)",
+      "stance": "neutral",
+      "post_id": "2057780545292308506",
+      "text_preview": "Feels like $FUTU and $TIGR are kinda screwed? The Chinese Gov is going after their historical revenues.\n\nThere's basically no fair law in China (esp. with IP), so if Gov wants something done, courts w",
+      "created_at": "2026-05-22T11:08:08+00:00",
+      "likes": 923,
+      "retweets": 86,
+      "replies": 103,
+      "views": 199609,
+      "bookmarks": 150
+    }
+  ]
+}

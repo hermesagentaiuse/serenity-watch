@@ -1,0 +1,49 @@
+{
+  "ticker": "U",
+  "company": "Unity Software",
+  "total_mentions": 3,
+  "bullish": 1,
+  "bearish": 1,
+  "neutral": 1,
+  "posts": [
+    {
+      "ticker": "U",
+      "company": "Unity Software",
+      "stance": "bullish",
+      "post_id": "2088181416148562017",
+      "text_preview": "Donald Trump signs a proclamation to strengthen US supply chains for drones.\n\nBenefiting U.S. drone component suppliers like $UMAC to UAS manufacturers like $ONDS + $RCAT. \n\n TLDR, 100% tariffs on:\n- ",
+      "created_at": "2026-08-14T08:30:20+00:00",
+      "likes": 1181,
+      "retweets": 109,
+      "replies": 108,
+      "views": 259480,
+      "bookmarks": 230
+    },
+    {
+      "ticker": "U",
+      "company": "Unity Software",
+      "stance": "neutral",
+      "post_id": "2080754547757391897",
+      "text_preview": "@OtsukimiOtsu Feels like every other car you see in SF is a Waymo.\n\nShort-medium term I see it as negligible impact to $UBER and $LYFT. \n\nLong term I see them cooked in US markets unless they act…\n\nSi",
+      "created_at": "2026-07-24T20:38:37+00:00",
+      "likes": 54,
+      "retweets": 1,
+      "replies": 4,
+      "views": 23757,
+      "bookmarks": 4
+    },
+    {
+      "ticker": "U",
+      "company": "Unity Software",
+      "stance": "bearish",
+      "post_id": "2080750537121874206",
+      "text_preview": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that G",
+      "created_at": "2026-07-24T20:22:41+00:00",
+      "likes": 777,
+      "retweets": 38,
+      "replies": 126,
+      "views": 395722,
+      "bookmarks": 87
+    }
+  ]
+}
