@@ -1,11 +1,24 @@
 {
   "ticker": "PLTR",
   "company": "Palantir",
-  "total_mentions": 1,
+  "total_mentions": 2,
   "bullish": 0,
   "bearish": 0,
-  "neutral": 1,
+  "neutral": 2,
   "posts": [
+    {
+      "ticker": "PLTR",
+      "company": "Palantir",
+      "stance": "neutral",
+      "post_id": "2097327653116363127",
+      "text_preview": "$NBIS is back, and coming in hot with a new partnership with $PLTR.\n\nPalantir also named Nebius its preferred sovereign AI infrastructure partner.\n\nThe implications are potentially significant conside",
+      "created_at": "2026-09-08T14:14:13+00:00",
+      "likes": 1466,
+      "retweets": 69,
+      "replies": 55,
+      "views": 350573,
+      "bookmarks": 0
+    },
     {
       "ticker": "PLTR",
       "company": "Palantir",

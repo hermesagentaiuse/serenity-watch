@@ -9,15 +9,15 @@
     {
       "ticker": "UBER",
       "company": "Uber",
-      "stance": "neutral",
-      "post_id": "2086157318065168490",
-      "text_preview": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:\n\nFirst, you look at hyperscaler earnings for AI cloud read through: \n\n> $GOOGL: reports record AI cloud demand + backlog + margin",
-      "created_at": "2026-08-08T18:27:18+00:00",
-      "likes": 1761,
-      "retweets": 79,
-      "replies": 174,
-      "views": 250416,
-      "bookmarks": 459
+      "stance": "bearish",
+      "post_id": "2080750537121874206",
+      "text_preview": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that G",
+      "created_at": "2026-07-24T20:22:41+00:00",
+      "likes": 777,
+      "retweets": 38,
+      "replies": 126,
+      "views": 395722,
+      "bookmarks": 87
     },
     {
       "ticker": "UBER",
@@ -35,15 +35,15 @@
     {
       "ticker": "UBER",
       "company": "Uber",
-      "stance": "bearish",
-      "post_id": "2080750537121874206",
-      "text_preview": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that G",
-      "created_at": "2026-07-24T20:22:41+00:00",
-      "likes": 777,
-      "retweets": 38,
-      "replies": 126,
-      "views": 395722,
-      "bookmarks": 87
+      "stance": "neutral",
+      "post_id": "2086157318065168490",
+      "text_preview": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:\n\nFirst, you look at hyperscaler earnings for AI cloud read through: \n\n> $GOOGL: reports record AI cloud demand + backlog + margin",
+      "created_at": "2026-08-08T18:27:18+00:00",
+      "likes": 1761,
+      "retweets": 79,
+      "replies": 174,
+      "views": 250416,
+      "bookmarks": 459
     }
   ]
 }

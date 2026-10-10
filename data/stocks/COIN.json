@@ -1,9 +1,9 @@
 {
   "ticker": "COIN",
   "company": "Coinbase",
-  "total_mentions": 1,
+  "total_mentions": 2,
   "bullish": 0,
-  "bearish": 0,
+  "bearish": 1,
   "neutral": 1,
   "posts": [
     {
@@ -18,6 +18,19 @@
       "replies": 14,
       "views": 46633,
       "bookmarks": 13
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase",
+      "stance": "bearish",
+      "post_id": "2102256045938852015",
+      "text_preview": "Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  \n\nLooks like $HOOD / $COIN / Crypto is back? \n\nOn-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for t",
+      "created_at": "2026-09-22T04:37:54+00:00",
+      "likes": 1092,
+      "retweets": 49,
+      "replies": 88,
+      "views": 306066,
+      "bookmarks": 0
     }
   ]
 }

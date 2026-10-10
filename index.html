@@ -94,7 +94,9 @@
     <select id="trend-ticker" onchange="renderTrend()"></select>
   </div>
   <div class="chart-wrap"><canvas id="trend-canvas" width="1040" height="260" style="width:100%;"></canvas>
-    <div id="trend-legend" style="font-size:12px;color:#90a4ae;margin-top:8px;"></div></div>
+    <div id="trend-legend" style="font-size:12px;color:#90a4ae;margin-top:8px;"></div>
+    <div style="font-size:12px;color:#607d8b;margin-top:6px;">怎麼看：每根柱子＝那一天 Serenity 提到這個標的的次數（柱高=次數）。柱子顏色組成：🟢看多話術 / 🔴看空話術 / ⚪中性。柱子變高變綠＝他最近更常提、更看好。</div>
+  </div>
   <h4 style="margin:18px 0 8px;color:#4fc3f7;font-size:14px;">提及熱度（近 30 天 × 標的，顏色=提及次數）</h4>
   <div id="heat" style="overflow-x:auto;"></div>
 </div>
@@ -124,10 +126,15 @@ async function boot(){
       fetch('manifest.json').then(r=>r.json()).catch(()=>({}))
     ]);
     MENTIONS=m.mentions||[]; STOCKS=m.stocks||{}; DIFF=d; MANIFEST=man;
-    if(man.last_updated) document.getElementById('updated').textContent=
-      '最後更新 '+man.last_updated.slice(0,16).replace('T',' ')+' UTC';
+    if(MANIFEST.last_updated) document.getElementById('updated').textContent=
+      '最後更新 '+MANIFEST.last_updated.slice(0,16).replace('T',' ')+' UTC';
+    // 資料新鮮度警告
+    if(MANIFEST.latest_post_age_days!=null && MANIFEST.latest_post_age_days>5){
+      document.body.insertAdjacentHTML('afterbegin',
+        `<div style="background:#4a3500;border:1px solid #ffb300;border-radius:8px;padding:10px 14px;margin-bottom:12px;font-size:13px;color:#ffe082;">⚠️ 注意：最新一則貼文已是 ${MANIFEST.latest_post_age_days} 天前（${(MANIFEST.latest_post_at||'').slice(0,10)}）。可能是他本人沒發文，或資料來源停止更新，并非系統壞掉。</div>`);
+    }
     document.getElementById('footer').textContent=
-      '資料來源：yan-labs/serenity-aleabitoreddit 公開貼文庫 · 本儀表板每日自動更新 · 非投資建議';
+      '資料來源：yan-labs 貼文庫 + BryanChanPokJyu scraper 備援合併 · 本儀表板每日自動更新 · 非投資建議';
     renderStats(); renderOverview(); renderNew(); setupTrends(); renderFeed();
   }catch(e){
     document.body.insertAdjacentHTML('beforeend','<div class="empty">載入資料失敗：'+e+'</div>');

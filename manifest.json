@@ -1,6 +1,8 @@
 {
-  "last_updated": "2026-10-10T07:38:46.783307+00:00",
+  "last_updated": "2026-10-10T08:54:33.492860+00:00",
   "dashboard": "dashboard_2026-10-10.html",
-  "total_stocks": 31,
-  "total_mentions": 410
+  "total_stocks": 33,
+  "total_mentions": 480,
+  "latest_post_at": "2026-10-05T16:20:16+00:00",
+  "latest_post_age_days": 4
 }
