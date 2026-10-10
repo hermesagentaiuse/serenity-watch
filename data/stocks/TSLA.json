@@ -1,10 +1,10 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 8,
+  "total_mentions": 7,
   "bullish": 2,
   "bearish": 0,
-  "neutral": 6,
+  "neutral": 5,
   "posts": [
     {
       "ticker": "TSLA",
@@ -96,19 +96,6 @@
       "replies": 177,
       "views": 358539,
       "bookmarks": 354
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "stance": "neutral",
-      "post_id": "2075896028323254679",
-      "text_preview": "@SpongeQuant He wouldn't have build a $1T company without pulling off all those moves.\n\n- Gets funding from Elon -&gt; Pisses off $TSLA going independent\n- Gets funding from $MSFT -&gt; Pisses of Micr",
-      "created_at": "2026-07-11T10:52:36+00:00",
-      "likes": 27,
-      "retweets": 1,
-      "replies": 3,
-      "views": 3411,
-      "bookmarks": 3
     }
   ]
 }

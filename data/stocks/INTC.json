@@ -1,8 +1,8 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 17,
-  "bullish": 3,
+  "total_mentions": 16,
+  "bullish": 2,
   "bearish": 3,
   "neutral": 11,
   "posts": [
@@ -213,19 +213,6 @@
       "replies": 7,
       "views": 14881,
       "bookmarks": 6
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "bullish",
-      "post_id": "2076030743655109063",
-      "text_preview": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, ",
-      "created_at": "2026-07-11T19:47:54+00:00",
-      "likes": 490,
-      "retweets": 28,
-      "replies": 59,
-      "views": 89119,
-      "bookmarks": 160
     }
   ]
 }

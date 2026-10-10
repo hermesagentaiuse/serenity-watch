@@ -1,10 +1,10 @@
 {
   "ticker": "AAPL",
   "company": "Apple",
-  "total_mentions": 10,
+  "total_mentions": 9,
   "bullish": 6,
   "bearish": 0,
-  "neutral": 4,
+  "neutral": 3,
   "posts": [
     {
       "ticker": "AAPL",
@@ -122,19 +122,6 @@
       "replies": 178,
       "views": 205116,
       "bookmarks": 91
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "stance": "neutral",
-      "post_id": "2075894311741440041",
-      "text_preview": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile ",
-      "created_at": "2026-07-11T10:45:46+00:00",
-      "likes": 221,
-      "retweets": 5,
-      "replies": 55,
-      "views": 38629,
-      "bookmarks": 13
     }
   ]
 }
