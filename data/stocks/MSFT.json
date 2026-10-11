@@ -1,9 +1,9 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 12,
+  "total_mentions": 13,
   "bullish": 4,
-  "bearish": 3,
+  "bearish": 4,
   "neutral": 5,
   "posts": [
     {
@@ -161,6 +161,19 @@
       "replies": 122,
       "views": 294463,
       "bookmarks": 347
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "stance": "bearish",
+      "post_id": "2108277973598232851",
+      "text_preview": "@ps_georg Hyperscalers are the ones ultimately funding the AI buildout. As seen with $AMZN to $GOOGL earnings commentary, the ROI is seen as wildly attractive.\n\nEven $MSFT said they’d be FCF positive ",
+      "created_at": "2026-10-08T19:26:53Z",
+      "likes": 120,
+      "retweets": 1,
+      "replies": 7,
+      "views": 32899,
+      "bookmarks": 19
     }
   ]
 }

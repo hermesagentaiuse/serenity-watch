@@ -1,8 +1,127 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T09:01:39.645944+00:00",
-  "has_baseline": false,
-  "new_mention_count": 0,
-  "new_posts": [],
-  "by_ticker": []
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T09:02:18.455178+00:00",
+  "has_baseline": true,
+  "new_mention_count": 32,
+  "new_posts": [
+    "2101737329270665523",
+    "2101820530139759017",
+    "2101821769443422492",
+    "2101909316957872324",
+    "2102067535915123156",
+    "2102070202779492802",
+    "2102569588433334309",
+    "2102793298561970218",
+    "2103156967053394241",
+    "2103233602721132744",
+    "2108272287908860377",
+    "2108275499772649882",
+    "2108277973598232851",
+    "2108412203514925165",
+    "2108416144428421459",
+    "2108896030326682074",
+    "2108900808956039390",
+    "2108908962397786280",
+    "2108916977616179207"
+  ],
+  "by_ticker": [
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "new": 6,
+      "bullish": 2,
+      "bearish": 0
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "new": 4,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "new": 4,
+      "bullish": 2,
+      "bearish": 0
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "new": 3,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 3,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "new": 3,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "new": 2,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "SNAP",
+      "company": "Snapchat",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
+    }
+  ]
 }

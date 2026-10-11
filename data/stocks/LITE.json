@@ -1,10 +1,10 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 85,
-  "bullish": 27,
+  "total_mentions": 91,
+  "bullish": 29,
   "bearish": 15,
-  "neutral": 43,
+  "neutral": 47,
   "posts": [
     {
       "ticker": "LITE",
@@ -1026,12 +1026,12 @@
       "stance": "neutral",
       "post_id": "2101730902615486643",
       "text_preview": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nB",
-      "created_at": "2026-09-20T17:51:10+00:00",
-      "likes": 1063,
+      "created_at": "2026-09-20T17:51:10Z",
+      "likes": 1065,
       "retweets": 16,
       "replies": 282,
-      "views": 445849,
-      "bookmarks": 0
+      "views": 447840,
+      "bookmarks": 87
     },
     {
       "ticker": "LITE",
@@ -1039,12 +1039,12 @@
       "stance": "neutral",
       "post_id": "2102427727987179692",
       "text_preview": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
-      "created_at": "2026-09-22T16:00:06+00:00",
-      "likes": 1003,
+      "created_at": "2026-09-22T16:00:06Z",
+      "likes": 1004,
       "retweets": 38,
-      "replies": 96,
-      "views": 330440,
-      "bookmarks": 0
+      "replies": 95,
+      "views": 337644,
+      "bookmarks": 75
     },
     {
       "ticker": "LITE",
@@ -1052,12 +1052,25 @@
       "stance": "bearish",
       "post_id": "2102763548715753927",
       "text_preview": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with m",
-      "created_at": "2026-09-23T14:14:32+00:00",
-      "likes": 889,
-      "retweets": 62,
+      "created_at": "2026-09-23T14:14:32Z",
+      "likes": 891,
+      "retweets": 63,
       "replies": 73,
-      "views": 290549,
-      "bookmarks": 0
+      "views": 298336,
+      "bookmarks": 170
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2103156967053394241",
+      "text_preview": "@ANoelGC I mean $LITE / $COHR did have $NVDA funding $2B for their buildout. \n\nBut Lumentum seems primarily self-funded from operating cash flow. So I'd expect $AAOI to follow suit once they start ram",
+      "created_at": "2026-09-24T16:17:50Z",
+      "likes": 105,
+      "retweets": 0,
+      "replies": 4,
+      "views": 33473,
+      "bookmarks": 9
     },
     {
       "ticker": "LITE",
@@ -1065,12 +1078,12 @@
       "stance": "neutral",
       "post_id": "2104698369591706069",
       "text_preview": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right ",
-      "created_at": "2026-09-28T22:22:49+00:00",
-      "likes": 1674,
-      "retweets": 43,
-      "replies": 236,
-      "views": 435129,
-      "bookmarks": 0
+      "created_at": "2026-09-28T22:22:49Z",
+      "likes": 1692,
+      "retweets": 44,
+      "replies": 237,
+      "views": 457207,
+      "bookmarks": 239
     },
     {
       "ticker": "LITE",
@@ -1078,12 +1091,12 @@
       "stance": "bearish",
       "post_id": "2105709782854435274",
       "text_preview": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T module",
-      "created_at": "2026-10-01T17:21:49+00:00",
-      "likes": 1444,
+      "created_at": "2026-10-01T17:21:49Z",
+      "likes": 1490,
       "retweets": 110,
-      "replies": 114,
-      "views": 413026,
-      "bookmarks": 0
+      "replies": 115,
+      "views": 480947,
+      "bookmarks": 456
     },
     {
       "ticker": "LITE",
@@ -1091,12 +1104,12 @@
       "stance": "neutral",
       "post_id": "2105943565918703696",
       "text_preview": "$LITE CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...\n\nBy 70%. Literally 70%. So we can only supply 30%. \n\nAnd this has caught us by sup",
-      "created_at": "2026-10-02T08:50:47+00:00",
-      "likes": 1869,
-      "retweets": 146,
-      "replies": 135,
-      "views": 424179,
-      "bookmarks": 0
+      "created_at": "2026-10-02T08:50:47Z",
+      "likes": 1936,
+      "retweets": 149,
+      "replies": 139,
+      "views": 513268,
+      "bookmarks": 427
     },
     {
       "ticker": "LITE",
@@ -1104,12 +1117,77 @@
       "stance": "bullish",
       "post_id": "2107143846027268373",
       "text_preview": "$AAOI is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms $LITE, as long as they stop filing these ATM programs. \n\nJust due to their s",
-      "created_at": "2026-10-05T16:20:16+00:00",
-      "likes": 268,
-      "retweets": 17,
-      "replies": 48,
-      "views": 43603,
-      "bookmarks": 0
+      "created_at": "2026-10-05T16:20:16Z",
+      "likes": 2359,
+      "retweets": 140,
+      "replies": 179,
+      "views": 621899,
+      "bookmarks": 421
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2108412203514925165",
+      "text_preview": "Woooow... $LITE CEO went out on Bloomberg today and stated:\n\nLumentum is \"effectively sold out through nearly 2029\".\n\nFrom our perspective, \"Completely Sold Out, there's no end in sight\".  With demand",
+      "created_at": "2026-10-09T04:20:16Z",
+      "likes": 2113,
+      "retweets": 193,
+      "replies": 112,
+      "views": 353764,
+      "bookmarks": 473
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2108416144428421459",
+      "text_preview": "@wosa42 Markets often miss second order implications until it shows up in direct statements. \n\n- If $LITE is completely sold out... (largely due to $NVDA bottlenecking everyone else, eg. securing Gree",
+      "created_at": "2026-10-09T04:35:55Z",
+      "likes": 336,
+      "retweets": 30,
+      "replies": 8,
+      "views": 57039,
+      "bookmarks": 75
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2108900808956039390",
+      "text_preview": "@HimarsoClock Someone did ask “How is Serenity” this time around! So I’m happy.\n\nI’m just personally excited about $LITE selling out into 2029 and implications for optical peers like $AAOI.\n\nNot advic",
+      "created_at": "2026-10-10T12:41:48Z",
+      "likes": 147,
+      "retweets": 4,
+      "replies": 9,
+      "views": 17983,
+      "bookmarks": 21
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2108908962397786280",
+      "text_preview": "@Rian_2026 Good question! Just some informal thoughts... there's three \"moats\" to look at for $SIVE:\n\n- Capacity \n- Qualifications (especially for custom DFB lasers)\n- Technological\n\n1. For capacity, ",
+      "created_at": "2026-10-10T13:14:12Z",
+      "likes": 137,
+      "retweets": 8,
+      "replies": 4,
+      "views": 13351,
+      "bookmarks": 49
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2108916977616179207",
+      "text_preview": "@StanleyShih8 I think almost everything about my $AXTI thesis from 2025 was validated? \n\nFrom AXT's position in the InP substrate bottleneck... Being able to threaten the hyperscaler buildout (per Reu",
+      "created_at": "2026-10-10T13:46:03Z",
+      "likes": 69,
+      "retweets": 2,
+      "replies": 2,
+      "views": 13138,
+      "bookmarks": 17
     }
   ]
 }

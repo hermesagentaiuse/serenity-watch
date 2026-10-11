@@ -1,10 +1,10 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 19,
+  "total_mentions": 21,
   "bullish": 4,
   "bearish": 3,
-  "neutral": 12,
+  "neutral": 14,
   "posts": [
     {
       "ticker": "AVGO",
@@ -246,12 +246,38 @@
       "stance": "neutral",
       "post_id": "2101402656845808007",
       "text_preview": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC compe",
-      "created_at": "2026-09-19T20:06:50+00:00",
+      "created_at": "2026-09-19T20:06:50Z",
       "likes": 1233,
       "retweets": 59,
       "replies": 69,
-      "views": 375983,
-      "bookmarks": 0
+      "views": 378253,
+      "bookmarks": 240
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "neutral",
+      "post_id": "2102569588433334309",
+      "text_preview": "@ardninja Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years.\n\n$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps ",
+      "created_at": "2026-09-23T01:23:48Z",
+      "likes": 186,
+      "retweets": 5,
+      "replies": 9,
+      "views": 27527,
+      "bookmarks": 37
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "neutral",
+      "post_id": "2108908962397786280",
+      "text_preview": "@Rian_2026 Good question! Just some informal thoughts... there's three \"moats\" to look at for $SIVE:\n\n- Capacity \n- Qualifications (especially for custom DFB lasers)\n- Technological\n\n1. For capacity, ",
+      "created_at": "2026-10-10T13:14:12Z",
+      "likes": 137,
+      "retweets": 8,
+      "replies": 4,
+      "views": 13351,
+      "bookmarks": 49
     }
   ]
 }

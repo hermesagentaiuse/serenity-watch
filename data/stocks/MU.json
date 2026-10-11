@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 36,
+  "total_mentions": 39,
   "bullish": 9,
-  "bearish": 11,
-  "neutral": 16,
+  "bearish": 12,
+  "neutral": 18,
   "posts": [
     {
       "ticker": "MU",
@@ -402,12 +402,12 @@
       "stance": "bearish",
       "post_id": "2100938001077674262",
       "text_preview": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex ",
-      "created_at": "2026-09-18T13:20:27+00:00",
+      "created_at": "2026-09-18T13:20:27Z",
       "likes": 1155,
       "retweets": 106,
       "replies": 73,
-      "views": 538528,
-      "bookmarks": 0
+      "views": 540679,
+      "bookmarks": 408
     },
     {
       "ticker": "MU",
@@ -415,12 +415,12 @@
       "stance": "neutral",
       "post_id": "2101906175046635887",
       "text_preview": "The main duo $SKHY and Samsung are having a fun day. \n\nI'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is",
-      "created_at": "2026-09-21T05:27:38+00:00",
-      "likes": 1041,
-      "retweets": 37,
+      "created_at": "2026-09-21T05:27:38Z",
+      "likes": 1045,
+      "retweets": 36,
       "replies": 93,
-      "views": 785905,
-      "bookmarks": 0
+      "views": 791567,
+      "bookmarks": 238
     },
     {
       "ticker": "MU",
@@ -428,12 +428,12 @@
       "stance": "neutral",
       "post_id": "2102062423499047004",
       "text_preview": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61",
-      "created_at": "2026-09-21T15:48:30+00:00",
-      "likes": 1699,
+      "created_at": "2026-09-21T15:48:30Z",
+      "likes": 1698,
       "retweets": 79,
       "replies": 168,
-      "views": 545492,
-      "bookmarks": 0
+      "views": 548997,
+      "bookmarks": 334
     },
     {
       "ticker": "MU",
@@ -441,12 +441,25 @@
       "stance": "neutral",
       "post_id": "2102790422007550083",
       "text_preview": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty in",
-      "created_at": "2026-09-23T16:01:19+00:00",
-      "likes": 1075,
-      "retweets": 48,
-      "replies": 89,
-      "views": 486205,
-      "bookmarks": 0
+      "created_at": "2026-09-23T16:01:19Z",
+      "likes": 1080,
+      "retweets": 49,
+      "replies": 88,
+      "views": 494143,
+      "bookmarks": 372
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2102793298561970218",
+      "text_preview": "@degenlurker_ It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS\n\nOnly two recent ones were $ESMT for legacy memory",
+      "created_at": "2026-09-23T16:12:45Z",
+      "likes": 159,
+      "retweets": 10,
+      "replies": 5,
+      "views": 42377,
+      "bookmarks": 63
     },
     {
       "ticker": "MU",
@@ -454,12 +467,25 @@
       "stance": "neutral",
       "post_id": "2103232350348001701",
       "text_preview": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commi",
-      "created_at": "2026-09-24T21:17:23+00:00",
-      "likes": 809,
-      "retweets": 36,
+      "created_at": "2026-09-24T21:17:23Z",
+      "likes": 816,
+      "retweets": 37,
       "replies": 66,
-      "views": 296085,
-      "bookmarks": 0
+      "views": 310248,
+      "bookmarks": 131
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2103233602721132744",
+      "text_preview": "@blkslymn Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1.\n\nSo your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung ",
+      "created_at": "2026-09-24T21:22:21Z",
+      "likes": 68,
+      "retweets": 0,
+      "replies": 6,
+      "views": 26470,
+      "bookmarks": 15
     },
     {
       "ticker": "MU",
@@ -467,12 +493,25 @@
       "stance": "bearish",
       "post_id": "2105397070681248021",
       "text_preview": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Goog",
-      "created_at": "2026-09-30T20:39:12+00:00",
-      "likes": 1217,
-      "retweets": 55,
+      "created_at": "2026-09-30T20:39:12Z",
+      "likes": 1244,
+      "retweets": 56,
       "replies": 143,
-      "views": 346366,
-      "bookmarks": 0
+      "views": 399226,
+      "bookmarks": 106
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bearish",
+      "post_id": "2108272287908860377",
+      "text_preview": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortag",
+      "created_at": "2026-10-08T19:04:17Z",
+      "likes": 2556,
+      "retweets": 125,
+      "replies": 196,
+      "views": 648380,
+      "bookmarks": 313
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 25,
+  "total_mentions": 26,
   "bullish": 6,
-  "bearish": 8,
+  "bearish": 9,
   "neutral": 11,
   "posts": [
     {
@@ -324,12 +324,25 @@
       "stance": "bearish",
       "post_id": "2105397070681248021",
       "text_preview": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Goog",
-      "created_at": "2026-09-30T20:39:12+00:00",
-      "likes": 1217,
-      "retweets": 55,
+      "created_at": "2026-09-30T20:39:12Z",
+      "likes": 1244,
+      "retweets": 56,
       "replies": 143,
-      "views": 346366,
-      "bookmarks": 0
+      "views": 399226,
+      "bookmarks": 106
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "bearish",
+      "post_id": "2108277973598232851",
+      "text_preview": "@ps_georg Hyperscalers are the ones ultimately funding the AI buildout. As seen with $AMZN to $GOOGL earnings commentary, the ROI is seen as wildly attractive.\n\nEven $MSFT said they’d be FCF positive ",
+      "created_at": "2026-10-08T19:26:53Z",
+      "likes": 120,
+      "retweets": 1,
+      "replies": 7,
+      "views": 32899,
+      "bookmarks": 19
     }
   ]
 }

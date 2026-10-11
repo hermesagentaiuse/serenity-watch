@@ -1,10 +1,10 @@
 {
   "ticker": "UBER",
   "company": "Uber",
-  "total_mentions": 3,
+  "total_mentions": 4,
   "bullish": 0,
   "bearish": 1,
-  "neutral": 2,
+  "neutral": 3,
   "posts": [
     {
       "ticker": "UBER",
@@ -44,6 +44,19 @@
       "replies": 174,
       "views": 250416,
       "bookmarks": 459
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber",
+      "stance": "neutral",
+      "post_id": "2102070202779492802",
+      "text_preview": "@mengxiong715781 ridiculous report. The way $NBIS does financing is much more sustainable than $CRWV and other neoclouds.\n\nThere were also claims about falling GPU pricing but Nebius hiked rates by li",
+      "created_at": "2026-09-21T16:19:25Z",
+      "likes": 85,
+      "retweets": 1,
+      "replies": 1,
+      "views": 22817,
+      "bookmarks": 10
     }
   ]
 }

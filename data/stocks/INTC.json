@@ -1,10 +1,10 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 20,
+  "total_mentions": 24,
   "bullish": 3,
   "bearish": 3,
-  "neutral": 14,
+  "neutral": 18,
   "posts": [
     {
       "ticker": "INTC",
@@ -244,14 +244,40 @@
       "ticker": "INTC",
       "company": "Intel",
       "stance": "neutral",
+      "post_id": "2101737329270665523",
+      "text_preview": "@Temptemo95 Thanks for following all this time! Entire training arc from $RDDT to 1M followers on X has been quite a rollercoaster.\n\nGuess like I need to start drawing anime and league characters on t",
+      "created_at": "2026-09-20T18:16:42Z",
+      "likes": 65,
+      "retweets": 1,
+      "replies": 6,
+      "views": 22423,
+      "bookmarks": 2
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "neutral",
       "post_id": "2102062423499047004",
       "text_preview": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61",
-      "created_at": "2026-09-21T15:48:30+00:00",
-      "likes": 1699,
+      "created_at": "2026-09-21T15:48:30Z",
+      "likes": 1698,
       "retweets": 79,
       "replies": 168,
-      "views": 545492,
-      "bookmarks": 0
+      "views": 548997,
+      "bookmarks": 334
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "neutral",
+      "post_id": "2102067535915123156",
+      "text_preview": "@wannabepanacea $SIVE and $AAOI, yes for a 2027 timeframe. That's the nuance. \n\nSivers you're coming on with 100M CW DFB laser capacity + 2 external foundries (maybe 300M in total), and all my supply ",
+      "created_at": "2026-09-21T16:08:49Z",
+      "likes": 180,
+      "retweets": 11,
+      "replies": 2,
+      "views": 27627,
+      "bookmarks": 63
     },
     {
       "ticker": "INTC",
@@ -259,12 +285,38 @@
       "stance": "bullish",
       "post_id": "2102247915251224980",
       "text_preview": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhe",
-      "created_at": "2026-09-22T04:05:35+00:00",
+      "created_at": "2026-09-22T04:05:35Z",
       "likes": 1460,
-      "retweets": 57,
+      "retweets": 58,
       "replies": 84,
-      "views": 316907,
-      "bookmarks": 0
+      "views": 319883,
+      "bookmarks": 264
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "neutral",
+      "post_id": "2102793298561970218",
+      "text_preview": "@degenlurker_ It’s mainly thesis tracking mode now since I layed out most of my ideas H1 from $INTC, $ARM to $MU. Or $SIVE to $AAOI or $AXTI or $NBIS\n\nOnly two recent ones were $ESMT for legacy memory",
+      "created_at": "2026-09-23T16:12:45Z",
+      "likes": 159,
+      "retweets": 10,
+      "replies": 5,
+      "views": 42377,
+      "bookmarks": 63
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "neutral",
+      "post_id": "2103233602721132744",
+      "text_preview": "@blkslymn Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1.\n\nSo your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung ",
+      "created_at": "2026-09-24T21:22:21Z",
+      "likes": 68,
+      "retweets": 0,
+      "replies": 6,
+      "views": 26470,
+      "bookmarks": 15
     }
   ]
 }

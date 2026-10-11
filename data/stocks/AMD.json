@@ -1,24 +1,11 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 39,
-  "bullish": 12,
+  "total_mentions": 41,
+  "bullish": 13,
   "bearish": 5,
-  "neutral": 22,
+  "neutral": 23,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2076284746385240101",
-      "text_preview": "@softmaxedx My friend at $AMD tripped on a rock and had to spend a few hours at home.\n\nSo we’ll likely see a major delay at AMD’s entire GPU program.",
-      "created_at": "2026-07-12T12:37:13+00:00",
-      "likes": 126,
-      "retweets": 2,
-      "replies": 15,
-      "views": 16724,
-      "bookmarks": 4
-    },
     {
       "ticker": "AMD",
       "company": "AMD",
@@ -467,12 +454,25 @@
       "stance": "neutral",
       "post_id": "2102062423499047004",
       "text_preview": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61",
-      "created_at": "2026-09-21T15:48:30+00:00",
-      "likes": 1699,
+      "created_at": "2026-09-21T15:48:30Z",
+      "likes": 1698,
       "retweets": 79,
       "replies": 168,
-      "views": 545492,
-      "bookmarks": 0
+      "views": 548997,
+      "bookmarks": 334
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "neutral",
+      "post_id": "2102067535915123156",
+      "text_preview": "@wannabepanacea $SIVE and $AAOI, yes for a 2027 timeframe. That's the nuance. \n\nSivers you're coming on with 100M CW DFB laser capacity + 2 external foundries (maybe 300M in total), and all my supply ",
+      "created_at": "2026-09-21T16:08:49Z",
+      "likes": 180,
+      "retweets": 11,
+      "replies": 2,
+      "views": 27627,
+      "bookmarks": 63
     },
     {
       "ticker": "AMD",
@@ -480,12 +480,12 @@
       "stance": "bullish",
       "post_id": "2102247915251224980",
       "text_preview": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhe",
-      "created_at": "2026-09-22T04:05:35+00:00",
+      "created_at": "2026-09-22T04:05:35Z",
       "likes": 1460,
-      "retweets": 57,
+      "retweets": 58,
       "replies": 84,
-      "views": 316907,
-      "bookmarks": 0
+      "views": 319883,
+      "bookmarks": 264
     },
     {
       "ticker": "AMD",
@@ -493,12 +493,25 @@
       "stance": "neutral",
       "post_id": "2103232350348001701",
       "text_preview": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commi",
-      "created_at": "2026-09-24T21:17:23+00:00",
-      "likes": 809,
-      "retweets": 36,
+      "created_at": "2026-09-24T21:17:23Z",
+      "likes": 816,
+      "retweets": 37,
       "replies": 66,
-      "views": 296085,
-      "bookmarks": 0
+      "views": 310248,
+      "bookmarks": 131
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "neutral",
+      "post_id": "2103233602721132744",
+      "text_preview": "@blkslymn Nope for $AKAM. But if you look at what’s needed probably CPUs/Memory #1.\n\nSo your $ARM / $INTC / $AMD thematically (AMD probably higher beta to this company in specific). Then your Samsung ",
+      "created_at": "2026-09-24T21:22:21Z",
+      "likes": 68,
+      "retweets": 0,
+      "replies": 6,
+      "views": 26470,
+      "bookmarks": 15
     },
     {
       "ticker": "AMD",
@@ -506,12 +519,25 @@
       "stance": "neutral",
       "post_id": "2104698369591706069",
       "text_preview": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right ",
-      "created_at": "2026-09-28T22:22:49+00:00",
-      "likes": 1674,
-      "retweets": 43,
-      "replies": 236,
-      "views": 435129,
-      "bookmarks": 0
+      "created_at": "2026-09-28T22:22:49Z",
+      "likes": 1692,
+      "retweets": 44,
+      "replies": 237,
+      "views": 457207,
+      "bookmarks": 239
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "bullish",
+      "post_id": "2108416144428421459",
+      "text_preview": "@wosa42 Markets often miss second order implications until it shows up in direct statements. \n\n- If $LITE is completely sold out... (largely due to $NVDA bottlenecking everyone else, eg. securing Gree",
+      "created_at": "2026-10-09T04:35:55Z",
+      "likes": 336,
+      "retweets": 30,
+      "replies": 8,
+      "views": 57039,
+      "bookmarks": 75
     }
   ]
 }

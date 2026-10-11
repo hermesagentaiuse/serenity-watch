@@ -1,10 +1,10 @@
 {
   "ticker": "RDDT",
   "company": "Reddit",
-  "total_mentions": 10,
-  "bullish": 0,
+  "total_mentions": 14,
+  "bullish": 2,
   "bearish": 4,
-  "neutral": 6,
+  "neutral": 8,
   "posts": [
     {
       "ticker": "RDDT",
@@ -126,15 +126,67 @@
     {
       "ticker": "RDDT",
       "company": "Reddit",
+      "stance": "neutral",
+      "post_id": "2101737329270665523",
+      "text_preview": "@Temptemo95 Thanks for following all this time! Entire training arc from $RDDT to 1M followers on X has been quite a rollercoaster.\n\nGuess like I need to start drawing anime and league characters on t",
+      "created_at": "2026-09-20T18:16:42Z",
+      "likes": 65,
+      "retweets": 1,
+      "replies": 6,
+      "views": 22423,
+      "bookmarks": 2
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
       "stance": "bearish",
       "post_id": "2101818303216013812",
       "text_preview": "The internet is now cooked soon?\n\nWith $RDDT to other social media like X more at risk due to AI.\n\nYou can have new decision models like Jev making autonomous computer interaction at near $0 cost. (Wi",
-      "created_at": "2026-09-20T23:38:28+00:00",
+      "created_at": "2026-09-20T23:38:28Z",
       "likes": 890,
       "retweets": 29,
       "replies": 103,
-      "views": 260732,
-      "bookmarks": 0
+      "views": 262891,
+      "bookmarks": 145
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "stance": "neutral",
+      "post_id": "2101820530139759017",
+      "text_preview": "@cchronobreakk I mean Sam Altman was working on iris scan with his World project, so he probably saw it coming.\n\nBut human verification is probably needed across the board now for each account.\n\n$RDDT",
+      "created_at": "2026-09-20T23:47:18Z",
+      "likes": 61,
+      "retweets": 1,
+      "replies": 3,
+      "views": 16002,
+      "bookmarks": 6
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "stance": "bullish",
+      "post_id": "2101821769443422492",
+      "text_preview": "@Pau1R0b $RDDT will probably get more accounts + revenue from AI bots that act like human so I’d guess earnings beat.\n\nChanging public opinion with AI is really bad for democracy and long term platfor",
+      "created_at": "2026-09-20T23:52:14Z",
+      "likes": 79,
+      "retweets": 0,
+      "replies": 2,
+      "views": 16316,
+      "bookmarks": 5
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "stance": "bullish",
+      "post_id": "2108896030326682074",
+      "text_preview": "Looks like one of you posted on $RDDT WSB… with a $1M $AAOI position.\n\nI’m laughing at the comments, even more amusing when my name pops up\n\nMight still be early if people think there’s “no moat” in l",
+      "created_at": "2026-10-10T12:22:49Z",
+      "likes": 112,
+      "retweets": 2,
+      "replies": 16,
+      "views": 19782,
+      "bookmarks": 11
     }
   ]
 }
