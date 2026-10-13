@@ -10,19 +10,6 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "stance": "neutral",
-      "post_id": "2076846994614792663",
-      "text_preview": "So Jensen himself went out to do damage control with $NVDA delays reports apparently:\n\n1. Jensen Huang said no delays: \n\n- 800V and rack-to-rack optical interconnects is progressing fully in line with",
-      "created_at": "2026-07-14T01:51:24+00:00",
-      "likes": 1518,
-      "retweets": 118,
-      "replies": 113,
-      "views": 585527,
-      "bookmarks": 277
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
       "post_id": "2077406548012466390",
       "text_preview": "$NVDA CEO, Jensen Huang in Tokyo today said:\n\n\"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\"\n\nAs a flat denial to the accusation that their AI se",
       "created_at": "2026-07-15T14:54:52+00:00",
@@ -754,10 +741,10 @@
       "post_id": "2097321349555306512",
       "text_preview": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants.\n\nAt this rate.. Amazon will be more of a semi ETF than $NVDA?\n\nGiven their existing equity/",
       "created_at": "2026-09-08T13:49:10+00:00",
-      "likes": 804,
+      "likes": 806,
       "retweets": 42,
       "replies": 55,
-      "views": 208894,
+      "views": 209715,
       "bookmarks": 0
     },
     {
@@ -783,7 +770,7 @@
       "likes": 1336,
       "retweets": 98,
       "replies": 100,
-      "views": 447562,
+      "views": 449039,
       "bookmarks": 0
     },
     {
@@ -993,6 +980,19 @@
       "replies": 8,
       "views": 57039,
       "bookmarks": 75
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2109789664622322081",
+      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
+      "created_at": "2026-10-12T23:33:48Z",
+      "likes": 436,
+      "retweets": 39,
+      "replies": 95,
+      "views": 94591,
+      "bookmarks": 159
     }
   ]
 }

@@ -1,96 +1,44 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T09:02:18.455178+00:00",
-  "has_baseline": true,
-  "new_mention_count": 32,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T09:00:33.430748+00:00",
+  "has_baseline": false,
+  "new_mention_count": 11,
   "new_posts": [
-    "2101737329270665523",
-    "2101820530139759017",
-    "2101821769443422492",
-    "2101909316957872324",
-    "2102067535915123156",
-    "2102070202779492802",
-    "2102569588433334309",
-    "2102793298561970218",
-    "2103156967053394241",
-    "2103233602721132744",
-    "2108272287908860377",
-    "2108275499772649882",
-    "2108277973598232851",
-    "2108412203514925165",
-    "2108416144428421459",
-    "2108896030326682074",
-    "2108900808956039390",
-    "2108908962397786280",
-    "2108916977616179207"
+    "2109789664622322081",
+    "2109798495838425208"
   ],
   "by_ticker": [
     {
       "ticker": "LITE",
       "company": "Lumentum",
-      "new": 6,
-      "bullish": 2,
-      "bearish": 0
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "new": 4,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "new": 4,
-      "bullish": 2,
-      "bearish": 0
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "new": 3,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 3,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "new": 3,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
       "new": 2,
       "bullish": 0,
       "bearish": 0
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "new": 1,
       "bullish": 0,
       "bearish": 0
     },
     {
-      "ticker": "UBER",
-      "company": "Uber",
+      "ticker": "PLTR",
+      "company": "Palantir",
       "new": 1,
       "bullish": 0,
       "bearish": 0
     },
     {
-      "ticker": "SNAP",
-      "company": "Snapchat",
+      "ticker": "INTC",
+      "company": "Intel",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
       "new": 1,
       "bullish": 0,
       "bearish": 0
@@ -100,28 +48,35 @@
       "company": "Microsoft",
       "new": 1,
       "bullish": 0,
-      "bearish": 1
+      "bearish": 0
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "new": 1,
       "bullish": 0,
-      "bearish": 1
+      "bearish": 0
     },
     {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "new": 1,
       "bullish": 0,
-      "bearish": 1
+      "bearish": 0
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
+      "ticker": "AVGO",
+      "company": "Broadcom",
       "new": 1,
       "bullish": 0,
-      "bearish": 1
+      "bearish": 0
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
     }
   ]
 }

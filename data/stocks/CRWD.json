@@ -1,10 +1,10 @@
 {
   "ticker": "CRWD",
   "company": "CrowdStrike",
-  "total_mentions": 1,
+  "total_mentions": 2,
   "bullish": 1,
   "bearish": 0,
-  "neutral": 0,
+  "neutral": 1,
   "posts": [
     {
       "ticker": "CRWD",
@@ -18,6 +18,19 @@
       "replies": 20,
       "views": 45875,
       "bookmarks": 34
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "stance": "neutral",
+      "post_id": "2109789664622322081",
+      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
+      "created_at": "2026-10-12T23:33:48Z",
+      "likes": 436,
+      "retweets": 39,
+      "replies": 95,
+      "views": 94591,
+      "bookmarks": 159
     }
   ]
 }

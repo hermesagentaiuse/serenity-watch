@@ -1,10 +1,10 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 17,
+  "total_mentions": 18,
   "bullish": 5,
   "bearish": 8,
-  "neutral": 4,
+  "neutral": 5,
   "posts": [
     {
       "ticker": "META",
@@ -198,7 +198,7 @@
       "likes": 1336,
       "retweets": 98,
       "replies": 100,
-      "views": 447562,
+      "views": 449039,
       "bookmarks": 0
     },
     {
@@ -226,6 +226,19 @@
       "replies": 84,
       "views": 319883,
       "bookmarks": 264
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "neutral",
+      "post_id": "2109789664622322081",
+      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
+      "created_at": "2026-10-12T23:33:48Z",
+      "likes": 436,
+      "retweets": 39,
+      "replies": 95,
+      "views": 94591,
+      "bookmarks": 159
     }
   ]
 }

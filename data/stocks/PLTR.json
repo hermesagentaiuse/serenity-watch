@@ -1,10 +1,10 @@
 {
   "ticker": "PLTR",
   "company": "Palantir",
-  "total_mentions": 2,
+  "total_mentions": 3,
   "bullish": 0,
   "bearish": 0,
-  "neutral": 2,
+  "neutral": 3,
   "posts": [
     {
       "ticker": "PLTR",
@@ -13,10 +13,10 @@
       "post_id": "2097327653116363127",
       "text_preview": "$NBIS is back, and coming in hot with a new partnership with $PLTR.\n\nPalantir also named Nebius its preferred sovereign AI infrastructure partner.\n\nThe implications are potentially significant conside",
       "created_at": "2026-09-08T14:14:13+00:00",
-      "likes": 1466,
+      "likes": 1464,
       "retweets": 69,
       "replies": 55,
-      "views": 350573,
+      "views": 351308,
       "bookmarks": 0
     },
     {
@@ -31,6 +31,19 @@
       "replies": 93,
       "views": 351702,
       "bookmarks": 278
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir",
+      "stance": "neutral",
+      "post_id": "2109789664622322081",
+      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
+      "created_at": "2026-10-12T23:33:48Z",
+      "likes": 436,
+      "retweets": 39,
+      "replies": 95,
+      "views": 94591,
+      "bookmarks": 159
     }
   ]
 }

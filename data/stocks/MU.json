@@ -9,19 +9,6 @@
     {
       "ticker": "MU",
       "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2077228758491386121",
-      "text_preview": "Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. \n\nThere's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be:\n\n1. Winbond (2344): ",
-      "created_at": "2026-07-15T03:08:23+00:00",
-      "likes": 963,
-      "retweets": 71,
-      "replies": 118,
-      "views": 320842,
-      "bookmarks": 324
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
       "stance": "bearish",
       "post_id": "2077423269066784942",
       "text_preview": "@michaelsikand DRAM 20%+ hike for next quarter, $SNDK LTAs with $META, $MU 16+ LTAs.\n\nMarket: proceeds to sell off memory.\n\n800G transceiver revision sharply upward? Lasers completely sold out into ea",
@@ -315,7 +302,7 @@
       "likes": 2207,
       "retweets": 172,
       "replies": 97,
-      "views": 461055,
+      "views": 462574,
       "bookmarks": 0
     },
     {
@@ -325,10 +312,10 @@
       "post_id": "2096858276290015563",
       "text_preview": "Is there any other industry... Where every investor is cheering for shortages and price hikes? \n\nSED reported today that: Samsung / $SKHY \"stockpiles have fallen to less than 10 days of supply, and a ",
       "created_at": "2026-09-07T07:09:05+00:00",
-      "likes": 779,
+      "likes": 778,
       "retweets": 56,
       "replies": 81,
-      "views": 393081,
+      "views": 393523,
       "bookmarks": 0
     },
     {
@@ -339,9 +326,9 @@
       "text_preview": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% ab",
       "created_at": "2026-09-10T06:38:22+00:00",
       "likes": 986,
-      "retweets": 56,
+      "retweets": 55,
       "replies": 67,
-      "views": 302433,
+      "views": 304100,
       "bookmarks": 0
     },
     {
@@ -354,7 +341,7 @@
       "likes": 1336,
       "retweets": 98,
       "replies": 100,
-      "views": 447562,
+      "views": 449039,
       "bookmarks": 0
     },
     {
@@ -380,7 +367,7 @@
       "likes": 1206,
       "retweets": 104,
       "replies": 82,
-      "views": 293460,
+      "views": 294710,
       "bookmarks": 0
     },
     {
@@ -512,6 +499,19 @@
       "replies": 196,
       "views": 648380,
       "bookmarks": 313
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2109789664622322081",
+      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
+      "created_at": "2026-10-12T23:33:48Z",
+      "likes": 436,
+      "retweets": 39,
+      "replies": 95,
+      "views": 94591,
+      "bookmarks": 159
     }
   ]
 }
