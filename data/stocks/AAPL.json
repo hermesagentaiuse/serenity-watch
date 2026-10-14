@@ -1,50 +1,11 @@
 {
   "ticker": "AAPL",
   "company": "Apple",
-  "total_mentions": 10,
-  "bullish": 6,
+  "total_mentions": 7,
+  "bullish": 4,
   "bearish": 0,
-  "neutral": 4,
+  "neutral": 3,
   "posts": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "stance": "bullish",
-      "post_id": "2077421268991926703",
-      "text_preview": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? ",
-      "created_at": "2026-07-15T15:53:21+00:00",
-      "likes": 781,
-      "retweets": 58,
-      "replies": 178,
-      "views": 205116,
-      "bookmarks": 91
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "stance": "neutral",
-      "post_id": "2077422416482250990",
-      "text_preview": "@shopaholicdivas Maybe something like Sambanova or other inference companies is my guess. \n\n$AAPL is sitting on an absolute warchest right now.",
-      "created_at": "2026-07-15T15:57:55+00:00",
-      "likes": 45,
-      "retweets": 0,
-      "replies": 7,
-      "views": 11353,
-      "bookmarks": 4
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "stance": "bullish",
-      "post_id": "2077423502119026841",
-      "text_preview": "@SVTrivo No leaks yet on what companies $AAPL is buying. \n\nRegardless, my guess is that they're trying to become more self-reliant after what happened with $GOOGL + $META and OpenAI.\n\nWhich would sign",
-      "created_at": "2026-07-15T16:02:14+00:00",
-      "likes": 66,
-      "retweets": 2,
-      "replies": 13,
-      "views": 15292,
-      "bookmarks": 5
-    },
     {
       "ticker": "AAPL",
       "company": "Apple",

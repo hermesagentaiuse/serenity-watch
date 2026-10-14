@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 19,
-  "bullish": 8,
+  "total_mentions": 20,
+  "bullish": 9,
   "bearish": 4,
   "neutral": 7,
   "posts": [
@@ -252,6 +252,19 @@
       "replies": 7,
       "views": 32899,
       "bookmarks": 19
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2110145100085150052",
+      "text_preview": "@AllTheWayRay8 I have positions in Agility! I do want to see US humanoid programs succeed, even if they’re behind Unitree and others now.\n\nSo I have a personal preference in funding US players over fo",
+      "created_at": "2026-10-13T23:06:11Z",
+      "likes": 34,
+      "retweets": 0,
+      "replies": 0,
+      "views": 4743,
+      "bookmarks": 1
     }
   ]
 }

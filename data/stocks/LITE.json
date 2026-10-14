@@ -3,22 +3,9 @@
   "company": "Lumentum",
   "total_mentions": 91,
   "bullish": 29,
-  "bearish": 15,
-  "neutral": 47,
+  "bearish": 16,
+  "neutral": 46,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2077409813496250522",
-      "text_preview": "@meikozz_2026 I don't see any fundamentally wrong. There's probably going to be large corrections from time to time flush out margin/leverage before things move higher. \n\nAnd this month seems like tha",
-      "created_at": "2026-07-15T15:07:50+00:00",
-      "likes": 220,
-      "retweets": 11,
-      "replies": 12,
-      "views": 23884,
-      "bookmarks": 41
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1188,6 +1175,19 @@
       "replies": 2,
       "views": 7821,
       "bookmarks": 5
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2109906912989028547",
+      "text_preview": "@SidkMena Samsung has LTAs covering 70% of memory capacity spanning until 2031. \n\n$LITE is completely sold out into 2029 and with customers starting to lock in orders for 2030. \n\nThere's the actual de",
+      "created_at": "2026-10-13T07:19:42Z",
+      "likes": 129,
+      "retweets": 10,
+      "replies": 4,
+      "views": 13629,
+      "bookmarks": 6
     }
   ]
 }

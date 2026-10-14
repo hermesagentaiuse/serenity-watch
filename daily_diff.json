@@ -1,31 +1,27 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T09:00:33.430748+00:00",
-  "has_baseline": false,
-  "new_mention_count": 11,
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:00:28.303205+00:00",
+  "has_baseline": true,
+  "new_mention_count": 9,
   "new_posts": [
-    "2109789664622322081",
-    "2109798495838425208"
+    "2109852646484201736",
+    "2109900353349300590",
+    "2109906912989028547",
+    "2109937773440577755",
+    "2110145100085150052"
   ],
   "by_ticker": [
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
+      "new": 3,
+      "bullish": 2,
+      "bearish": 1
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir",
-      "new": 1,
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "new": 2,
       "bullish": 0,
       "bearish": 0
     },
@@ -37,45 +33,24 @@
       "bearish": 0
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "new": 1,
       "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "new": 1,
+      "bullish": 1,
       "bearish": 0
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "AMZN",
+      "company": "Amazon",
       "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "new": 1,
-      "bullish": 0,
+      "bullish": 1,
       "bearish": 0
     }
   ]

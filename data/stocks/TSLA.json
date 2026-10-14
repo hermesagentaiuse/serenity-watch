@@ -1,8 +1,8 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 7,
-  "bullish": 2,
+  "total_mentions": 8,
+  "bullish": 3,
   "bearish": 0,
   "neutral": 5,
   "posts": [
@@ -96,6 +96,19 @@
       "replies": 93,
       "views": 351702,
       "bookmarks": 278
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "stance": "bullish",
+      "post_id": "2109937773440577755",
+      "text_preview": "Physical AI + Humanoids are the next progression of AI.\n\n$NVDA CES 2025 projections and Elon's prediction on $TSLA + 1 Billion humanoids in the next decade, seems to be speeding up. \n\nNew statement fr",
+      "created_at": "2026-10-13T09:22:20Z",
+      "likes": 895,
+      "retweets": 60,
+      "replies": 105,
+      "views": 177968,
+      "bookmarks": 218
     }
   ]
 }

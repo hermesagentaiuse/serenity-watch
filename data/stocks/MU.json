@@ -1,24 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 39,
+  "total_mentions": 38,
   "bullish": 9,
-  "bearish": 12,
+  "bearish": 11,
   "neutral": 18,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bearish",
-      "post_id": "2077423269066784942",
-      "text_preview": "@michaelsikand DRAM 20%+ hike for next quarter, $SNDK LTAs with $META, $MU 16+ LTAs.\n\nMarket: proceeds to sell off memory.\n\n800G transceiver revision sharply upward? Lasers completely sold out into ea",
-      "created_at": "2026-07-15T16:01:18+00:00",
-      "likes": 295,
-      "retweets": 7,
-      "replies": 14,
-      "views": 31223,
-      "bookmarks": 27
-    },
     {
       "ticker": "MU",
       "company": "Micron",

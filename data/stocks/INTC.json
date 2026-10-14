@@ -1,10 +1,10 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 24,
+  "total_mentions": 25,
   "bullish": 3,
   "bearish": 3,
-  "neutral": 18,
+  "neutral": 19,
   "posts": [
     {
       "ticker": "INTC",
@@ -317,6 +317,19 @@
       "replies": 95,
       "views": 94591,
       "bookmarks": 159
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "neutral",
+      "post_id": "2109900353349300590",
+      "text_preview": "So spent some more time to look at more DBS conference material: \n\n- \"Two semiconductor giants, $AVGO and $INTC, both stated that breakthroughs in AI will keep demand for chip investment elevated for ",
+      "created_at": "2026-10-13T06:53:38Z",
+      "likes": 1226,
+      "retweets": 116,
+      "replies": 94,
+      "views": 288996,
+      "bookmarks": 319
     }
   ]
 }
