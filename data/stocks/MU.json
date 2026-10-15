@@ -1,37 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 38,
+  "total_mentions": 36,
   "bullish": 9,
-  "bearish": 11,
-  "neutral": 18,
+  "bearish": 10,
+  "neutral": 17,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2077753660592033828",
-      "text_preview": "Today, $MU announced it signed memory LTAs with $QCOM.\n\nInteresting reaction to see Micron proceeded to drop 5.37% right after.\n\nDoesn’t quite feel like there’s anything individually wrong with memory",
-      "created_at": "2026-07-16T13:54:10+00:00",
-      "likes": 1532,
-      "retweets": 88,
-      "replies": 265,
-      "views": 341021,
-      "bookmarks": 190
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bearish",
-      "post_id": "2077955479742173422",
-      "text_preview": "Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\"\n\nThey claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will",
-      "created_at": "2026-07-17T03:16:07+00:00",
-      "likes": 1599,
-      "retweets": 145,
-      "replies": 191,
-      "views": 481840,
-      "bookmarks": 303
-    },
     {
       "ticker": "MU",
       "company": "Micron",

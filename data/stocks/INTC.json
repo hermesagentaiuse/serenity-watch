@@ -1,37 +1,11 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 25,
+  "total_mentions": 23,
   "bullish": 3,
-  "bearish": 3,
-  "neutral": 19,
+  "bearish": 2,
+  "neutral": 18,
   "posts": [
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2077784594959725056",
-      "text_preview": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
-      "created_at": "2026-07-16T15:57:05+00:00",
-      "likes": 1581,
-      "retweets": 64,
-      "replies": 215,
-      "views": 216783,
-      "bookmarks": 234
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "bearish",
-      "post_id": "2077955479742173422",
-      "text_preview": "Kim Sunwoo of Meritz Securities: \"This Is Not the Time to Sell Samsung Electronics and $SKHY\"\n\nThey claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will",
-      "created_at": "2026-07-17T03:16:07+00:00",
-      "likes": 1599,
-      "retweets": 145,
-      "replies": 191,
-      "views": 481840,
-      "bookmarks": 303
-    },
     {
       "ticker": "INTC",
       "company": "Intel",

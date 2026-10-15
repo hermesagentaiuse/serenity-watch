@@ -1,24 +1,11 @@
 {
   "ticker": "RDDT",
   "company": "Reddit",
-  "total_mentions": 14,
+  "total_mentions": 13,
   "bullish": 2,
   "bearish": 4,
-  "neutral": 8,
+  "neutral": 7,
   "posts": [
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "neutral",
-      "post_id": "2077784594959725056",
-      "text_preview": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
-      "created_at": "2026-07-16T15:57:05+00:00",
-      "likes": 1581,
-      "retweets": 64,
-      "replies": 215,
-      "views": 216783,
-      "bookmarks": 234
-    },
     {
       "ticker": "RDDT",
       "company": "Reddit",

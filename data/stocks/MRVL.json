@@ -1,24 +1,11 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 31,
+  "total_mentions": 30,
   "bullish": 7,
   "bearish": 1,
-  "neutral": 23,
+  "neutral": 22,
   "posts": [
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2077779117114626132",
-      "text_preview": "@blkslymn I’m not sure if you’re aware but the entire AI sector is dropping indiscriminately right now.\n\nA $1T company like Samsung is down -26% this month. $MRVL is down -31%.\n\nSo higher beta names t",
-      "created_at": "2026-07-16T15:35:19+00:00",
-      "likes": 153,
-      "retweets": 3,
-      "replies": 7,
-      "views": 12482,
-      "bookmarks": 12
-    },
     {
       "ticker": "MRVL",
       "company": "Marvell",

@@ -1,24 +1,11 @@
 {
   "ticker": "SPOT",
   "company": "Spotify",
-  "total_mentions": 5,
+  "total_mentions": 4,
   "bullish": 1,
   "bearish": 1,
-  "neutral": 3,
+  "neutral": 2,
   "posts": [
-    {
-      "ticker": "SPOT",
-      "company": "Spotify",
-      "stance": "neutral",
-      "post_id": "2077740809022296552",
-      "text_preview": "@XtineFang @nikitabier X is doing everything they can so I lose my spot to Elon Musk!",
-      "created_at": "2026-07-16T13:03:06+00:00",
-      "likes": 161,
-      "retweets": 0,
-      "replies": 17,
-      "views": 28873,
-      "bookmarks": 2
-    },
     {
       "ticker": "SPOT",
       "company": "Spotify",
