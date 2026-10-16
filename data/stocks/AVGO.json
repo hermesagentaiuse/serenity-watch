@@ -1,8 +1,8 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 24,
-  "bullish": 4,
+  "total_mentions": 25,
+  "bullish": 5,
   "bearish": 3,
   "neutral": 17,
   "posts": [
@@ -317,6 +317,19 @@
       "replies": 94,
       "views": 288996,
       "bookmarks": 319
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "bullish",
+      "post_id": "2110615506474651804",
+      "text_preview": "It's interesting to see Elon interacting with finance X accounts out of the blue. \n\nThen amplifying $CRWV financing concerns, Chinese memory flooding, to AI investors being gamblers recently. \n\nWith $",
+      "created_at": "2026-10-15T06:15:24Z",
+      "likes": 1451,
+      "retweets": 66,
+      "replies": 126,
+      "views": 340414,
+      "bookmarks": 268
     }
   ]
 }

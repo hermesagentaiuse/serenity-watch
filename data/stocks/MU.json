@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 36,
+  "total_mentions": 37,
   "bullish": 9,
   "bearish": 10,
-  "neutral": 17,
+  "neutral": 18,
   "posts": [
     {
       "ticker": "MU",
@@ -473,6 +473,19 @@
       "replies": 95,
       "views": 94591,
       "bookmarks": 159
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2110823066595131768",
+      "text_preview": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a m",
+      "created_at": "2026-10-15T20:00:10Z",
+      "likes": 812,
+      "retweets": 68,
+      "replies": 54,
+      "views": 112329,
+      "bookmarks": 137
     }
   ]
 }

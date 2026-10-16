@@ -1,37 +1,11 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 15,
+  "total_mentions": 13,
   "bullish": 3,
-  "bearish": 7,
-  "neutral": 5,
+  "bearish": 6,
+  "neutral": 4,
   "posts": [
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "stance": "bearish",
-      "post_id": "2078150537074373117",
-      "text_preview": "Feels bad, -49.4% drawdown this month after the recent crash.\n\nMy portfolio is mainly AI chokepoints and bottlenecks. \n\nIn the memory, photonics, robotics, and upstream semis, (on margin) which all te",
-      "created_at": "2026-07-17T16:11:12+00:00",
-      "likes": 6956,
-      "retweets": 284,
-      "replies": 767,
-      "views": 1600104,
-      "bookmarks": 1131
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "stance": "neutral",
-      "post_id": "2078175882620059719",
-      "text_preview": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $I",
-      "created_at": "2026-07-17T17:51:55+00:00",
-      "likes": 1020,
-      "retweets": 64,
-      "replies": 263,
-      "views": 224559,
-      "bookmarks": 100
-    },
     {
       "ticker": "META",
       "company": "Meta (Facebook)",

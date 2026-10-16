@@ -1,8 +1,8 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 8,
-  "bullish": 3,
+  "total_mentions": 9,
+  "bullish": 4,
   "bearish": 0,
   "neutral": 5,
   "posts": [
@@ -109,6 +109,19 @@
       "replies": 105,
       "views": 177968,
       "bookmarks": 218
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "stance": "bullish",
+      "post_id": "2110615506474651804",
+      "text_preview": "It's interesting to see Elon interacting with finance X accounts out of the blue. \n\nThen amplifying $CRWV financing concerns, Chinese memory flooding, to AI investors being gamblers recently. \n\nWith $",
+      "created_at": "2026-10-15T06:15:24Z",
+      "likes": 1451,
+      "retweets": 66,
+      "replies": 126,
+      "views": 340414,
+      "bookmarks": 268
     }
   ]
 }

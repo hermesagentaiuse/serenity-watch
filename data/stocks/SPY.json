@@ -1,8 +1,8 @@
 {
   "ticker": "SPY",
   "company": "S&P 500 ETF",
-  "total_mentions": 2,
-  "bullish": 0,
+  "total_mentions": 3,
+  "bullish": 1,
   "bearish": 0,
   "neutral": 2,
   "posts": [
@@ -31,6 +31,19 @@
       "replies": 231,
       "views": 539376,
       "bookmarks": 91
+    },
+    {
+      "ticker": "SPY",
+      "company": "S&P 500 ETF",
+      "stance": "bullish",
+      "post_id": "2110621448272577019",
+      "text_preview": "@HenilPatel20864 Clearly a macro related drop after CPI numbers came out today and further US rate hike anticipation. Since $KOSPI, $SPY, and Nikkei ended up plummeting. \n\nThere's too many potential s",
+      "created_at": "2026-10-15T06:39:01Z",
+      "likes": 125,
+      "retweets": 4,
+      "replies": 3,
+      "views": 19902,
+      "bookmarks": 19
     }
   ]
 }

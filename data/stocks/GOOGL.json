@@ -1,10 +1,10 @@
 {
   "ticker": "GOOGL",
   "company": "Alphabet (Google)",
-  "total_mentions": 25,
-  "bullish": 5,
+  "total_mentions": 28,
+  "bullish": 6,
   "bearish": 9,
-  "neutral": 11,
+  "neutral": 13,
   "posts": [
     {
       "ticker": "GOOGL",
@@ -330,6 +330,45 @@
       "replies": 7,
       "views": 32899,
       "bookmarks": 19
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "neutral",
+      "post_id": "2110823066595131768",
+      "text_preview": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a m",
+      "created_at": "2026-10-15T20:00:10Z",
+      "likes": 812,
+      "retweets": 68,
+      "replies": 54,
+      "views": 112329,
+      "bookmarks": 137
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "bullish",
+      "post_id": "2110825405611671559",
+      "text_preview": "@BullishWiener I'm happy $GOOGL is being more aggressive with supply procurement like $NVDA was.\n\nThey've been way too complacent and let others bottleneck their own supply chain. \n\nCSPs and hyperscal",
+      "created_at": "2026-10-15T20:09:28Z",
+      "likes": 46,
+      "retweets": 1,
+      "replies": 4,
+      "views": 7983,
+      "bookmarks": 3
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "neutral",
+      "post_id": "2110843876600922451",
+      "text_preview": "@EscapeTheLab I mean it's probably more important to look at the actions over words... I'm sure $GOOGL trying to secure supply until 2035, would spark other hyperscalers to follow suit as well. \n\nThey",
+      "created_at": "2026-10-15T21:22:52Z",
+      "likes": 36,
+      "retweets": 1,
+      "replies": 2,
+      "views": 6102,
+      "bookmarks": 3
     }
   ]
 }

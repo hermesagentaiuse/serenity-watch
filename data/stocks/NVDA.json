@@ -1,24 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 78,
-  "bullish": 18,
-  "bearish": 17,
-  "neutral": 43,
+  "total_mentions": 79,
+  "bullish": 19,
+  "bearish": 18,
+  "neutral": 42,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2078130772121399553",
-      "text_preview": "Agreed! It’s nice to remember your thesis during a market crash.\n\nFrom my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. \n\nIs it “",
-      "created_at": "2026-07-17T14:52:40+00:00",
-      "likes": 1428,
-      "retweets": 79,
-      "replies": 413,
-      "views": 1225608,
-      "bookmarks": 379
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1019,6 +1006,32 @@
       "replies": 0,
       "views": 4743,
       "bookmarks": 1
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2110825405611671559",
+      "text_preview": "@BullishWiener I'm happy $GOOGL is being more aggressive with supply procurement like $NVDA was.\n\nThey've been way too complacent and let others bottleneck their own supply chain. \n\nCSPs and hyperscal",
+      "created_at": "2026-10-15T20:09:28Z",
+      "likes": 46,
+      "retweets": 1,
+      "replies": 4,
+      "views": 7983,
+      "bookmarks": 3
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2110848740559126575",
+      "text_preview": "Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...\n\nAbout $CRWV amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen",
+      "created_at": "2026-10-15T21:42:12Z",
+      "likes": 427,
+      "retweets": 20,
+      "replies": 41,
+      "views": 102634,
+      "bookmarks": 64
     }
   ]
 }
