@@ -1,9 +1,9 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 28,
+  "total_mentions": 29,
   "bullish": 6,
-  "bearish": 9,
+  "bearish": 10,
   "neutral": 13,
   "posts": [
     {
@@ -369,6 +369,19 @@
       "replies": 2,
       "views": 6102,
       "bookmarks": 3
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "bearish",
+      "post_id": "2111206827790885288",
+      "text_preview": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. \n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 yea",
+      "created_at": "2026-10-16T21:25:06Z",
+      "likes": 844,
+      "retweets": 53,
+      "replies": 84,
+      "views": 132796,
+      "bookmarks": 139
     }
   ]
 }

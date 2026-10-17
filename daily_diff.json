@@ -1,87 +1,40 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T09:00:25.665952+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T09:00:18.789482+00:00",
   "has_baseline": true,
-  "new_mention_count": 16,
+  "new_mention_count": 4,
   "new_posts": [
-    "2110615506474651804",
-    "2110621448272577019",
-    "2110823066595131768",
-    "2110825405611671559",
-    "2110835574458442200",
-    "2110843876600922451",
-    "2110848740559126575"
+    "2110934540252512696",
+    "2111206827790885288"
   ],
   "by_ticker": [
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "new": 3,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "new": 3,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 2,
-      "bullish": 2,
-      "bearish": 0
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 2,
-      "bullish": 1,
-      "bearish": 1
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
       "new": 1,
-      "bullish": 1,
+      "bullish": 0,
       "bearish": 0
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
       "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "SPY",
-      "company": "S&P 500 ETF",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
+      "bullish": 0,
+      "bearish": 1
     },
     {
       "ticker": "MU",
       "company": "Micron",
       "new": 1,
       "bullish": 0,
-      "bearish": 0
+      "bearish": 1
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
     }
   ]
 }

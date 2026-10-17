@@ -1,9 +1,9 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 37,
+  "total_mentions": 38,
   "bullish": 9,
-  "bearish": 10,
+  "bearish": 11,
   "neutral": 18,
   "posts": [
     {
@@ -486,6 +486,19 @@
       "replies": 54,
       "views": 112329,
       "bookmarks": 137
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bearish",
+      "post_id": "2111206827790885288",
+      "text_preview": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. \n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 yea",
+      "created_at": "2026-10-16T21:25:06Z",
+      "likes": 844,
+      "retweets": 53,
+      "replies": 84,
+      "views": 132796,
+      "bookmarks": 139
     }
   ]
 }
