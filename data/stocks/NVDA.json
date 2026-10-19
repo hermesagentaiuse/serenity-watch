@@ -1,24 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 79,
-  "bullish": 19,
+  "total_mentions": 78,
+  "bullish": 18,
   "bearish": 18,
   "neutral": 42,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2079319999915925938",
-      "text_preview": "If you’re curious why $NBIS is up after hours.\n\n$NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings.\n\nNot exactly too new since it dates back to Nvidia’s existing share positio",
-      "created_at": "2026-07-20T21:38:14+00:00",
-      "likes": 1097,
-      "retweets": 71,
-      "replies": 178,
-      "views": 160886,
-      "bookmarks": 118
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",

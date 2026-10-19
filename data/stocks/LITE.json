@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 88,
+  "total_mentions": 87,
   "bullish": 28,
   "bearish": 16,
-  "neutral": 44,
+  "neutral": 43,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2079479755481776221",
-      "text_preview": "Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. \n\nOptical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+. \n\nNeoclouds from $NBIS to $IREN",
-      "created_at": "2026-07-21T08:13:03+00:00",
-      "likes": 2070,
-      "retweets": 106,
-      "replies": 122,
-      "views": 461491,
-      "bookmarks": 204
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
