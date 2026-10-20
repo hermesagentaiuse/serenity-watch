@@ -3,22 +3,9 @@
   "company": "Broadcom",
   "total_mentions": 25,
   "bullish": 5,
-  "bearish": 3,
-  "neutral": 17,
+  "bearish": 4,
+  "neutral": 16,
   "posts": [
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "stance": "neutral",
-      "post_id": "2079495178793201678",
-      "text_preview": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23).\n\nFrom Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up C",
-      "created_at": "2026-07-21T09:14:20+00:00",
-      "likes": 890,
-      "retweets": 51,
-      "replies": 129,
-      "views": 356537,
-      "bookmarks": 132
-    },
     {
       "ticker": "AVGO",
       "company": "Broadcom",
@@ -330,6 +317,19 @@
       "replies": 126,
       "views": 340414,
       "bookmarks": 268
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "bearish",
+      "post_id": "2112080246895976755",
+      "text_preview": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased o",
+      "created_at": "2026-10-19T07:15:46Z",
+      "likes": 830,
+      "retweets": 66,
+      "replies": 73,
+      "views": 194966,
+      "bookmarks": 144
     }
   ]
 }

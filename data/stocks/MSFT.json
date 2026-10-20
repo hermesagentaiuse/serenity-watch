@@ -1,10 +1,10 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 14,
+  "total_mentions": 15,
   "bullish": 4,
   "bearish": 4,
-  "neutral": 6,
+  "neutral": 7,
   "posts": [
     {
       "ticker": "MSFT",
@@ -187,6 +187,19 @@
       "replies": 3,
       "views": 19902,
       "bookmarks": 19
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "stance": "neutral",
+      "post_id": "2112130322683072617",
+      "text_preview": "Feels like the public interpretation is all wrong… \n\nI’m pretty sure $MSFT backing out on NScale deal is bullish for Neoclouds like $NBIS or even $IREN with energized capacity with Microsoft?\n\nPretend",
+      "created_at": "2026-10-19T10:34:45Z",
+      "likes": 1800,
+      "retweets": 65,
+      "replies": 145,
+      "views": 265116,
+      "bookmarks": 168
     }
   ]
 }

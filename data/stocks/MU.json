@@ -1,24 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 38,
+  "total_mentions": 37,
   "bullish": 9,
   "bearish": 11,
-  "neutral": 18,
+  "neutral": 17,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2079622706572804368",
-      "text_preview": "Wow, a historic single day recovery.\n\n$SIVEF +30.89%\n$IQEF +28.6%\n$AEHR +26.53%\n$CIFR +17.82%\n$NBIS +17.3%\n$AAOI +15.6%\n$LPK +14.48%\n$AXTI +14.12%\n$MU +12.54%\n$SNDK +12.8%\n$SOI +11.1%\n$TSEM +10.39%\n$L",
-      "created_at": "2026-07-21T17:41:05+00:00",
-      "likes": 3590,
-      "retweets": 196,
-      "replies": 542,
-      "views": 345337,
-      "bookmarks": 507
-    },
     {
       "ticker": "MU",
       "company": "Micron",
@@ -260,10 +247,10 @@
       "post_id": "2096814311306129776",
       "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
       "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2207,
+      "likes": 2206,
       "retweets": 172,
       "replies": 97,
-      "views": 462574,
+      "views": 463933,
       "bookmarks": 0
     },
     {
@@ -275,8 +262,8 @@
       "created_at": "2026-09-07T07:09:05+00:00",
       "likes": 778,
       "retweets": 56,
-      "replies": 81,
-      "views": 393523,
+      "replies": 80,
+      "views": 393883,
       "bookmarks": 0
     },
     {
@@ -288,8 +275,8 @@
       "created_at": "2026-09-10T06:38:22+00:00",
       "likes": 986,
       "retweets": 55,
-      "replies": 67,
-      "views": 304100,
+      "replies": 66,
+      "views": 305020,
       "bookmarks": 0
     },
     {
@@ -299,10 +286,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1336,
+      "likes": 1335,
       "retweets": 98,
       "replies": 100,
-      "views": 449039,
+      "views": 449697,
       "bookmarks": 0
     },
     {
@@ -325,10 +312,10 @@
       "post_id": "2099674926697545849",
       "text_preview": "Some color on current memory environments for the $MU / $SKHY bros:\n\n\"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. \n\n- Memory module makers have received notices warning",
       "created_at": "2026-09-15T01:41:27+00:00",
-      "likes": 1206,
-      "retweets": 104,
-      "replies": 82,
-      "views": 294710,
+      "likes": 1204,
+      "retweets": 103,
+      "replies": 81,
+      "views": 297012,
       "bookmarks": 0
     },
     {

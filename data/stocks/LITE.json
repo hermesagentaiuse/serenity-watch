@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 87,
+  "total_mentions": 90,
   "bullish": 28,
-  "bearish": 16,
+  "bearish": 19,
   "neutral": 43,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2079622706572804368",
-      "text_preview": "Wow, a historic single day recovery.\n\n$SIVEF +30.89%\n$IQEF +28.6%\n$AEHR +26.53%\n$CIFR +17.82%\n$NBIS +17.3%\n$AAOI +15.6%\n$LPK +14.48%\n$AXTI +14.12%\n$MU +12.54%\n$SNDK +12.8%\n$SOI +11.1%\n$TSEM +10.39%\n$L",
-      "created_at": "2026-07-21T17:41:05+00:00",
-      "likes": 3590,
-      "retweets": 196,
-      "replies": 542,
-      "views": 345337,
-      "bookmarks": 507
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -819,10 +806,10 @@
       "post_id": "2096814311306129776",
       "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
       "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2207,
+      "likes": 2206,
       "retweets": 172,
       "replies": 97,
-      "views": 462574,
+      "views": 463933,
       "bookmarks": 0
     },
     {
@@ -832,10 +819,10 @@
       "post_id": "2096890295128625153",
       "text_preview": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies",
       "created_at": "2026-09-07T09:16:19+00:00",
-      "likes": 671,
-      "retweets": 40,
+      "likes": 670,
+      "retweets": 39,
       "replies": 40,
-      "views": 298298,
+      "views": 298718,
       "bookmarks": 0
     },
     {
@@ -845,10 +832,10 @@
       "post_id": "2097200456090952096",
       "text_preview": "Glad $SIVE is attending CIOE Shenzen and hope my followers can go too!\n\nIf you want my read on current landscape:\n\n-> Chinese pluggable makers like CIG (剑桥科技) are facing severe shortages in 70mW-200mW",
       "created_at": "2026-09-08T05:48:47+00:00",
-      "likes": 765,
-      "retweets": 55,
+      "likes": 766,
+      "retweets": 54,
       "replies": 63,
-      "views": 313584,
+      "views": 314162,
       "bookmarks": 0
     },
     {
@@ -871,10 +858,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1336,
+      "likes": 1335,
       "retweets": 98,
       "replies": 100,
-      "views": 449039,
+      "views": 449697,
       "bookmarks": 0
     },
     {
@@ -1136,6 +1123,58 @@
       "replies": 8,
       "views": 10025,
       "bookmarks": 18
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2112080246895976755",
+      "text_preview": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased o",
+      "created_at": "2026-10-19T07:15:46Z",
+      "likes": 830,
+      "retweets": 66,
+      "replies": 73,
+      "views": 194966,
+      "bookmarks": 144
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2112087774845407493",
+      "text_preview": "@gogolp9527 I can't give advice on what others should do but from what I'm seeing from $AAOI revenue ramp, it looks something like this from disclosed capacity. \n\n-> $858M Q1 2027\n-> $1.29B Q2 2027\n->",
+      "created_at": "2026-10-19T07:45:40Z",
+      "likes": 156,
+      "retweets": 13,
+      "replies": 10,
+      "views": 16365,
+      "bookmarks": 24
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2112093252962705579",
+      "text_preview": "@qtdevlop Last time I've seen \"It's all over\" type posts was... 3 months ago during the situational awareness liquidation. \n\nAnd... 3 months ago before that... with Iran tensions + Oil + Helium + LNG ",
+      "created_at": "2026-10-19T08:07:26Z",
+      "likes": 102,
+      "retweets": 6,
+      "replies": 8,
+      "views": 12232,
+      "bookmarks": 12
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2112102623721505098",
+      "text_preview": "Last major $SIVE disclosure was 100M CW DFB laser capacity Q4 2027. And a new foundry partner (that makes 2 including Win Semi).\n\nExpected $JBL revenue coming in H1 2027 (with lasers for Jabil's 1.6T ",
+      "created_at": "2026-10-19T08:44:41Z",
+      "likes": 789,
+      "retweets": 42,
+      "replies": 62,
+      "views": 192689,
+      "bookmarks": 170
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 29,
+  "total_mentions": 30,
   "bullish": 6,
-  "bearish": 10,
+  "bearish": 11,
   "neutral": 13,
   "posts": [
     {
@@ -273,10 +273,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1336,
+      "likes": 1335,
       "retweets": 98,
       "replies": 100,
-      "views": 449039,
+      "views": 449697,
       "bookmarks": 0
     },
     {
@@ -382,6 +382,19 @@
       "replies": 84,
       "views": 132796,
       "bookmarks": 139
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "bearish",
+      "post_id": "2112080246895976755",
+      "text_preview": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased o",
+      "created_at": "2026-10-19T07:15:46Z",
+      "likes": 830,
+      "retweets": 66,
+      "replies": 73,
+      "views": 194966,
+      "bookmarks": 144
     }
   ]
 }

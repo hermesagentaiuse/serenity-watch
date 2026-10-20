@@ -1,50 +1,11 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 39,
+  "total_mentions": 36,
   "bullish": 12,
   "bearish": 5,
-  "neutral": 22,
+  "neutral": 19,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2079495178793201678",
-      "text_preview": "It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23).\n\nFrom Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up C",
-      "created_at": "2026-07-21T09:14:20+00:00",
-      "likes": 890,
-      "retweets": 51,
-      "replies": 129,
-      "views": 356537,
-      "bookmarks": 132
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2079502019933732884",
-      "text_preview": "@CarterChen18 Think $AMD was in talks of being a customer of $AAOI, from Rosenblatt channel checks. \n\nCould be an option, I'll ask around in the event. https://t.co/8eDrSw9tCe",
-      "created_at": "2026-07-21T09:41:31+00:00",
-      "likes": 146,
-      "retweets": 5,
-      "replies": 14,
-      "views": 20573,
-      "bookmarks": 10
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2079622706572804368",
-      "text_preview": "Wow, a historic single day recovery.\n\n$SIVEF +30.89%\n$IQEF +28.6%\n$AEHR +26.53%\n$CIFR +17.82%\n$NBIS +17.3%\n$AAOI +15.6%\n$LPK +14.48%\n$AXTI +14.12%\n$MU +12.54%\n$SNDK +12.8%\n$SOI +11.1%\n$TSEM +10.39%\n$L",
-      "created_at": "2026-07-21T17:41:05+00:00",
-      "likes": 3590,
-      "retweets": 196,
-      "replies": 542,
-      "views": 345337,
-      "bookmarks": 507
-    },
     {
       "ticker": "AMD",
       "company": "AMD",
@@ -377,10 +338,10 @@
       "post_id": "2097200456090952096",
       "text_preview": "Glad $SIVE is attending CIOE Shenzen and hope my followers can go too!\n\nIf you want my read on current landscape:\n\n-> Chinese pluggable makers like CIG (剑桥科技) are facing severe shortages in 70mW-200mW",
       "created_at": "2026-09-08T05:48:47+00:00",
-      "likes": 765,
-      "retweets": 55,
+      "likes": 766,
+      "retweets": 54,
       "replies": 63,
-      "views": 313584,
+      "views": 314162,
       "bookmarks": 0
     },
     {
