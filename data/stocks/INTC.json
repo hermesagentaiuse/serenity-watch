@@ -1,24 +1,11 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 21,
+  "total_mentions": 20,
   "bullish": 3,
   "bearish": 2,
-  "neutral": 16,
+  "neutral": 15,
   "posts": [
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2080153334888182065",
-      "text_preview": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-mo",
-      "created_at": "2026-07-23T04:49:37+00:00",
-      "likes": 1118,
-      "retweets": 80,
-      "replies": 150,
-      "views": 312364,
-      "bookmarks": 155
-    },
     {
       "ticker": "INTC",
       "company": "Intel",

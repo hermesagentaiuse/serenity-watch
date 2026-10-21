@@ -1,37 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 37,
-  "bullish": 9,
+  "total_mentions": 35,
+  "bullish": 8,
   "bearish": 11,
-  "neutral": 17,
+  "neutral": 16,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bullish",
-      "post_id": "2080149813065396454",
-      "text_preview": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest pr",
-      "created_at": "2026-07-23T04:35:37+00:00",
-      "likes": 1687,
-      "retweets": 111,
-      "replies": 177,
-      "views": 358539,
-      "bookmarks": 354
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2080153334888182065",
-      "text_preview": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-mo",
-      "created_at": "2026-07-23T04:49:37+00:00",
-      "likes": 1118,
-      "retweets": 80,
-      "replies": 150,
-      "views": 312364,
-      "bookmarks": 155
-    },
     {
       "ticker": "MU",
       "company": "Micron",

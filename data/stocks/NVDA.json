@@ -1,24 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 77,
-  "bullish": 18,
+  "total_mentions": 78,
+  "bullish": 17,
   "bearish": 18,
-  "neutral": 41,
+  "neutral": 43,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2079947242455335379",
-      "text_preview": "$AMD to invest $5B in Anthropic.\n\nAnthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars.\n\nLooks like they’re copying the $NVDA playbook with Anthropic la",
-      "created_at": "2026-07-22T15:10:40+00:00",
-      "likes": 1014,
-      "retweets": 60,
-      "replies": 138,
-      "views": 206629,
-      "bookmarks": 65
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1006,6 +993,32 @@
       "replies": 41,
       "views": 102634,
       "bookmarks": 64
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2112435500246311200",
+      "text_preview": "@zaynchd $AEVA FMCW 4D LiDAR is the reference sensor for $NVDA Hyperion, so seems like a possible path.\n\nAgain, not too much visibility into suppliers or where their CW lasers ultimately end up given ",
+      "created_at": "2026-10-20T06:47:25Z",
+      "likes": 104,
+      "retweets": 4,
+      "replies": 4,
+      "views": 16157,
+      "bookmarks": 6
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2112674175446089985",
+      "text_preview": "Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, to photonics, after $SPCX earnings. \n\n- Previous Q4 capex outlook ~$18.4B... Now $35–40 billion Q4 capex guidance, basica",
+      "created_at": "2026-10-20T22:35:49Z",
+      "likes": 781,
+      "retweets": 76,
+      "replies": 73,
+      "views": 92845,
+      "bookmarks": 138
     }
   ]
 }

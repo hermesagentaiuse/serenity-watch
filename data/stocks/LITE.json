@@ -1,37 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 90,
-  "bullish": 28,
+  "total_mentions": 88,
+  "bullish": 27,
   "bearish": 19,
-  "neutral": 43,
+  "neutral": 42,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2080027058063958323",
-      "text_preview": "$GOOGL reported earnings today:\n\nEPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors",
-      "created_at": "2026-07-22T20:27:50+00:00",
-      "likes": 1447,
-      "retweets": 87,
-      "replies": 208,
-      "views": 437677,
-      "bookmarks": 226
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2080153334888182065",
-      "text_preview": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-mo",
-      "created_at": "2026-07-23T04:49:37+00:00",
-      "likes": 1118,
-      "retweets": 80,
-      "replies": 150,
-      "views": 312364,
-      "bookmarks": 155
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",

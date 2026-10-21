@@ -1,50 +1,11 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 36,
-  "bullish": 12,
+  "total_mentions": 33,
+  "bullish": 11,
   "bearish": 5,
-  "neutral": 19,
+  "neutral": 17,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "bullish",
-      "post_id": "2079947242455335379",
-      "text_preview": "$AMD to invest $5B in Anthropic.\n\nAnthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars.\n\nLooks like they’re copying the $NVDA playbook with Anthropic la",
-      "created_at": "2026-07-22T15:10:40+00:00",
-      "likes": 1014,
-      "retweets": 60,
-      "replies": 138,
-      "views": 206629,
-      "bookmarks": 65
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2079953508904964575",
-      "text_preview": "@gaetan_po Yeah, I’m testing some things right now for bot prevention.\n\nAlso going to $AMD event tomorrow rather than full 2 days, will definitely be asking about $SIVE!",
-      "created_at": "2026-07-22T15:35:34+00:00",
-      "likes": 318,
-      "retweets": 12,
-      "replies": 13,
-      "views": 30430,
-      "bookmarks": 12
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2080153334888182065",
-      "text_preview": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-mo",
-      "created_at": "2026-07-23T04:49:37+00:00",
-      "likes": 1118,
-      "retweets": 80,
-      "replies": 150,
-      "views": 312364,
-      "bookmarks": 155
-    },
     {
       "ticker": "AMD",
       "company": "AMD",

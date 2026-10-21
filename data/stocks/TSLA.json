@@ -1,24 +1,11 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 10,
-  "bullish": 4,
+  "total_mentions": 9,
+  "bullish": 3,
   "bearish": 0,
   "neutral": 6,
   "posts": [
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "stance": "bullish",
-      "post_id": "2080149813065396454",
-      "text_preview": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest pr",
-      "created_at": "2026-07-23T04:35:37+00:00",
-      "likes": 1687,
-      "retweets": 111,
-      "replies": 177,
-      "views": 358539,
-      "bookmarks": 354
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",

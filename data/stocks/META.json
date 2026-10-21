@@ -1,24 +1,11 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 13,
+  "total_mentions": 12,
   "bullish": 3,
   "bearish": 6,
-  "neutral": 4,
+  "neutral": 3,
   "posts": [
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "stance": "neutral",
-      "post_id": "2080031508656746874",
-      "text_preview": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. \n\nCompared to 750M back in February. \n\nAbsurd growth adding 200 million more users in a few months.  Kinda explains why they ",
-      "created_at": "2026-07-22T20:45:31+00:00",
-      "likes": 1295,
-      "retweets": 107,
-      "replies": 167,
-      "views": 288509,
-      "bookmarks": 142
-    },
     {
       "ticker": "META",
       "company": "Meta (Facebook)",

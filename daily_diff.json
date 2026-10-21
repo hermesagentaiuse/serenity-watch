@@ -1,48 +1,17 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T09:00:32.790147+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:00:30.586652+00:00",
   "has_baseline": true,
-  "new_mention_count": 8,
+  "new_mention_count": 2,
   "new_posts": [
-    "2112080246895976755",
-    "2112087774845407493",
-    "2112093252962705579",
-    "2112102623721505098",
-    "2112130322683072617"
+    "2112435500246311200",
+    "2112674175446089985"
   ],
   "by_ticker": [
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 4,
-      "bullish": 0,
-      "bearish": 3
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "new": 1,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 2,
       "bullish": 0,
       "bearish": 0
     }
