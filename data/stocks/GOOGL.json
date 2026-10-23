@@ -3,22 +3,9 @@
   "company": "Alphabet (Google)",
   "total_mentions": 25,
   "bullish": 4,
-  "bearish": 11,
-  "neutral": 10,
+  "bearish": 10,
+  "neutral": 11,
   "posts": [
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "stance": "bearish",
-      "post_id": "2080750537121874206",
-      "text_preview": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that G",
-      "created_at": "2026-07-24T20:22:41+00:00",
-      "likes": 777,
-      "retweets": 38,
-      "replies": 126,
-      "views": 395722,
-      "bookmarks": 87
-    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet (Google)",
@@ -330,6 +317,19 @@
       "replies": 73,
       "views": 194966,
       "bookmarks": 144
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "neutral",
+      "post_id": "2113191492067983849",
+      "text_preview": "@dBooray AI names are backed by actual earnings and contractual demand.\n\nMemory names are under <3x fwd P/E, with LTAs extending 5-10 years from your richest companies in the world like $GOOGL.\n\nOptic",
+      "created_at": "2026-10-22T08:51:27Z",
+      "likes": 98,
+      "retweets": 5,
+      "replies": 4,
+      "views": 11638,
+      "bookmarks": 8
     }
   ]
 }

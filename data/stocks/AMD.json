@@ -1,10 +1,10 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 25,
+  "total_mentions": 26,
   "bullish": 11,
   "bearish": 4,
-  "neutral": 10,
+  "neutral": 11,
   "posts": [
     {
       "ticker": "AMD",
@@ -330,6 +330,19 @@
       "replies": 8,
       "views": 57039,
       "bookmarks": 75
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "neutral",
+      "post_id": "2113246620712370367",
+      "text_preview": "@amitisinvesting Yeah $AMD is a great example you gave. It even got the popular nickname “Advanced Money Destroyer” for awhile…\n\nThen it had that massive rally to a $1T valuation, but lot of people di",
+      "created_at": "2026-10-22T12:30:31Z",
+      "likes": 216,
+      "retweets": 7,
+      "replies": 6,
+      "views": 25991,
+      "bookmarks": 10
     }
   ]
 }

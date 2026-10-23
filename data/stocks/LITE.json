@@ -1,9 +1,9 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 86,
+  "total_mentions": 87,
   "bullish": 26,
-  "bearish": 19,
+  "bearish": 20,
   "neutral": 41,
   "posts": [
     {
@@ -1123,6 +1123,19 @@
       "replies": 62,
       "views": 192689,
       "bookmarks": 170
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2113329741654806551",
+      "text_preview": "@MarkTheLaird I feel like markets are seeing a lot of forced liquidations and panic selling right now.\n\nYou have peers like $LITE sold out completely into 2029, and are starting negotiations for 2030.",
+      "created_at": "2026-10-22T18:00:48Z",
+      "likes": 195,
+      "retweets": 7,
+      "replies": 16,
+      "views": 44384,
+      "bookmarks": 29
     }
   ]
 }

@@ -9,19 +9,6 @@
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2080689966045348047",
-      "text_preview": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
-      "created_at": "2026-07-24T16:21:59+00:00",
-      "likes": 1229,
-      "retweets": 36,
-      "replies": 166,
-      "views": 438039,
-      "bookmarks": 100
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
       "stance": "bearish",
       "post_id": "2081472671129501729",
       "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
@@ -1019,6 +1006,19 @@
       "replies": 73,
       "views": 92845,
       "bookmarks": 138
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2113094859439690104",
+      "text_preview": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5",
+      "created_at": "2026-10-22T02:27:28Z",
+      "likes": 790,
+      "retweets": 43,
+      "replies": 77,
+      "views": 203371,
+      "bookmarks": 134
     }
   ]
 }
