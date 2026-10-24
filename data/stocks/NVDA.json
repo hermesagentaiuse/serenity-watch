@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 78,
+  "total_mentions": 79,
   "bullish": 17,
   "bearish": 18,
-  "neutral": 43,
+  "neutral": 44,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1019,6 +1019,19 @@
       "replies": 77,
       "views": 203371,
       "bookmarks": 134
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2113433338522546399",
+      "text_preview": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the mem",
+      "created_at": "2026-10-23T00:52:28Z",
+      "likes": 1255,
+      "retweets": 91,
+      "replies": 99,
+      "views": 227779,
+      "bookmarks": 142
     }
   ]
 }

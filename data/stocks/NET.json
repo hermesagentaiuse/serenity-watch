@@ -1,10 +1,10 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 14,
+  "total_mentions": 16,
   "bullish": 6,
   "bearish": 3,
-  "neutral": 5,
+  "neutral": 7,
   "posts": [
     {
       "ticker": "NET",
@@ -187,6 +187,32 @@
       "replies": 5,
       "views": 23164,
       "bookmarks": 19
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2113437977749999628",
+      "text_preview": "Actually $ESMT and my legacy memory names held up better than the rest of the AI trade. \n\nProbably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.\n\nThis was more of ",
+      "created_at": "2026-10-23T01:10:54Z",
+      "likes": 428,
+      "retweets": 27,
+      "replies": 41,
+      "views": 170734,
+      "bookmarks": 80
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2113443934395580453",
+      "text_preview": "@upouluopu68975 I mean it's just personally interesting to me! I've never seen a company make this much net income already with 30-100% price hikes on a lot of their SKUs the next quarter.\n\nAnd they'r",
+      "created_at": "2026-10-23T01:34:34Z",
+      "likes": 53,
+      "retweets": 3,
+      "replies": 3,
+      "views": 14219,
+      "bookmarks": 6
     }
   ]
 }

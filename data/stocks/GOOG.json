@@ -1,10 +1,10 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 25,
+  "total_mentions": 26,
   "bullish": 4,
   "bearish": 10,
-  "neutral": 11,
+  "neutral": 12,
   "posts": [
     {
       "ticker": "GOOG",
@@ -330,6 +330,19 @@
       "replies": 4,
       "views": 11638,
       "bookmarks": 8
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "neutral",
+      "post_id": "2113433338522546399",
+      "text_preview": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the mem",
+      "created_at": "2026-10-23T00:52:28Z",
+      "likes": 1255,
+      "retweets": 91,
+      "replies": 99,
+      "views": 227779,
+      "bookmarks": 142
     }
   ]
 }
