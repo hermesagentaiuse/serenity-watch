@@ -1,24 +1,11 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 25,
+  "total_mentions": 24,
   "bullish": 5,
-  "bearish": 4,
+  "bearish": 3,
   "neutral": 16,
   "posts": [
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "stance": "bearish",
-      "post_id": "2081472671129501729",
-      "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
-      "created_at": "2026-07-26T20:12:11+00:00",
-      "likes": 790,
-      "retweets": 55,
-      "replies": 119,
-      "views": 174657,
-      "bookmarks": 300
-    },
     {
       "ticker": "AVGO",
       "company": "Broadcom",

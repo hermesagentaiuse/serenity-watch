@@ -1,24 +1,11 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 12,
+  "total_mentions": 13,
   "bullish": 3,
   "bearish": 6,
-  "neutral": 3,
+  "neutral": 4,
   "posts": [
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "stance": "bearish",
-      "post_id": "2081472671129501729",
-      "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
-      "created_at": "2026-07-26T20:12:11+00:00",
-      "likes": 790,
-      "retweets": 55,
-      "replies": 119,
-      "views": 174657,
-      "bookmarks": 300
-    },
     {
       "ticker": "META",
       "company": "Meta (Facebook)",
@@ -161,6 +148,32 @@
       "replies": 95,
       "views": 94591,
       "bookmarks": 159
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "bearish",
+      "post_id": "2114051018510287340",
+      "text_preview": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. \n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't th",
+      "created_at": "2026-10-24T17:46:54Z",
+      "likes": 825,
+      "retweets": 28,
+      "replies": 73,
+      "views": 134425,
+      "bookmarks": 224
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "neutral",
+      "post_id": "2114055113732182110",
+      "text_preview": "@siddhrts I used to spend a lot of time inside $AMZN offices... so I do understand the lack of food availability firsthand.\n\nDespite making so much money, they even limited coffee to once a day.\n\nBro ",
+      "created_at": "2026-10-24T18:03:11Z",
+      "likes": 59,
+      "retweets": 2,
+      "replies": 5,
+      "views": 8707,
+      "bookmarks": 4
     }
   ]
 }

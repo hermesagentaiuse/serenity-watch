@@ -1,37 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 79,
-  "bullish": 17,
-  "bearish": 18,
+  "total_mentions": 77,
+  "bullish": 16,
+  "bearish": 17,
   "neutral": 44,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bearish",
-      "post_id": "2081472671129501729",
-      "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
-      "created_at": "2026-07-26T20:12:11+00:00",
-      "likes": 790,
-      "retweets": 55,
-      "replies": 119,
-      "views": 174657,
-      "bookmarks": 300
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2081548360818004299",
-      "text_preview": "Nvidia in talks to backstop $250B worth of OpenAI DC financing.\n\n- Softbank’s SB energy develops 10 GW Ohio campus \n\n- OpenAI signs long term lease\n\n- $NVDA guarantees $250B in financing\n\n- OpenAI dis",
-      "created_at": "2026-07-27T01:12:57+00:00",
-      "likes": 1109,
-      "retweets": 51,
-      "replies": 168,
-      "views": 346607,
-      "bookmarks": 112
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",

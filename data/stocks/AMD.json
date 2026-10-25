@@ -3,22 +3,9 @@
   "company": "AMD",
   "total_mentions": 26,
   "bullish": 11,
-  "bearish": 4,
-  "neutral": 11,
+  "bearish": 3,
+  "neutral": 12,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "bearish",
-      "post_id": "2081472671129501729",
-      "text_preview": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantee",
-      "created_at": "2026-07-26T20:12:11+00:00",
-      "likes": 790,
-      "retweets": 55,
-      "replies": 119,
-      "views": 174657,
-      "bookmarks": 300
-    },
     {
       "ticker": "AMD",
       "company": "AMD",
@@ -343,6 +330,19 @@
       "replies": 6,
       "views": 25991,
       "bookmarks": 10
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "neutral",
+      "post_id": "2113958295325319387",
+      "text_preview": "@smith_susa23828 $AMD was negotiating CW laser capacity LTAs from Trendforce. And are working with Ayar / $GFS for CPO deployments, (where $SIVE is upstream as the laser supplier/reference design)\n\nSo",
+      "created_at": "2026-10-24T11:38:27Z",
+      "likes": 67,
+      "retweets": 4,
+      "replies": 4,
+      "views": 11986,
+      "bookmarks": 6
     }
   ]
 }

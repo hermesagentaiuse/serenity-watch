@@ -1,9 +1,9 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 87,
-  "bullish": 26,
-  "bearish": 20,
+  "total_mentions": 90,
+  "bullish": 28,
+  "bearish": 21,
   "neutral": 41,
   "posts": [
     {
@@ -1136,6 +1136,45 @@
       "replies": 16,
       "views": 44384,
       "bookmarks": 29
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2113950041207607453",
+      "text_preview": "Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here. \n\nBut the company completely Tall Poppy Syndromed itself last earnings. \n\nAnd it's clearly shown in the ",
+      "created_at": "2026-10-24T11:05:39Z",
+      "likes": 1261,
+      "retweets": 90,
+      "replies": 123,
+      "views": 231738,
+      "bookmarks": 550
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2113960886461444206",
+      "text_preview": "@JohnnyXAngelo I think it's always helpful to learn what's going on in the supply chain, even if you're not an investor in lasers or $SIVE. \n\nThere's a lot of dynamics + game theory that goes on in su",
+      "created_at": "2026-10-24T11:48:45Z",
+      "likes": 83,
+      "retweets": 2,
+      "replies": 4,
+      "views": 10851,
+      "bookmarks": 6
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2114030117416755494",
+      "text_preview": "I guess what I've seen from Chinese laser capacity expansion: \n\n1. Dongshan/Source Photonics (索尔思): 9M/month capacity -> 22M/month Q4 ->  300m/year in 2027 (mostly EML, but blended)\n\nClaims of 1B/year",
+      "created_at": "2026-10-24T16:23:51Z",
+      "likes": 451,
+      "retweets": 33,
+      "replies": 53,
+      "views": 135940,
+      "bookmarks": 184
     }
   ]
 }

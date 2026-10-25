@@ -1,9 +1,9 @@
 {
   "ticker": "AAPL",
   "company": "Apple",
-  "total_mentions": 7,
-  "bullish": 4,
-  "bearish": 0,
+  "total_mentions": 9,
+  "bullish": 5,
+  "bearish": 1,
   "neutral": 3,
   "posts": [
     {
@@ -96,6 +96,32 @@
       "replies": 237,
       "views": 457207,
       "bookmarks": 239
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "stance": "bullish",
+      "post_id": "2113950041207607453",
+      "text_preview": "Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here. \n\nBut the company completely Tall Poppy Syndromed itself last earnings. \n\nAnd it's clearly shown in the ",
+      "created_at": "2026-10-24T11:05:39Z",
+      "likes": 1261,
+      "retweets": 90,
+      "replies": 123,
+      "views": 231738,
+      "bookmarks": 550
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "stance": "bearish",
+      "post_id": "2114051018510287340",
+      "text_preview": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. \n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't th",
+      "created_at": "2026-10-24T17:46:54Z",
+      "likes": 825,
+      "retweets": 28,
+      "replies": 73,
+      "views": 134425,
+      "bookmarks": 224
     }
   ]
 }

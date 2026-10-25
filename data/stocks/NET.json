@@ -1,10 +1,10 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 16,
-  "bullish": 6,
+  "total_mentions": 18,
+  "bullish": 7,
   "bearish": 3,
-  "neutral": 7,
+  "neutral": 8,
   "posts": [
     {
       "ticker": "NET",
@@ -213,6 +213,32 @@
       "replies": 3,
       "views": 14219,
       "bookmarks": 6
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bullish",
+      "post_id": "2113950041207607453",
+      "text_preview": "Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here. \n\nBut the company completely Tall Poppy Syndromed itself last earnings. \n\nAnd it's clearly shown in the ",
+      "created_at": "2026-10-24T11:05:39Z",
+      "likes": 1261,
+      "retweets": 90,
+      "replies": 123,
+      "views": 231738,
+      "bookmarks": 550
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2113964694201643199",
+      "text_preview": "@soohu Yep, O-Net is an existing hyperscaler supplier, but not really well known to Western audiences.  \n\nThey're actually building out on an 8 channel ELSFP with $SIVE for CPO though rather than plug",
+      "created_at": "2026-10-24T12:03:53Z",
+      "likes": 58,
+      "retweets": 0,
+      "replies": 4,
+      "views": 9889,
+      "bookmarks": 2
     }
   ]
 }

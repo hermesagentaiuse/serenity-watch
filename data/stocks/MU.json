@@ -1,9 +1,9 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 35,
+  "total_mentions": 36,
   "bullish": 8,
-  "bearish": 11,
+  "bearish": 12,
   "neutral": 16,
   "posts": [
     {
@@ -460,6 +460,19 @@
       "replies": 84,
       "views": 132796,
       "bookmarks": 139
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bearish",
+      "post_id": "2114051018510287340",
+      "text_preview": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. \n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't th",
+      "created_at": "2026-10-24T17:46:54Z",
+      "likes": 825,
+      "retweets": 28,
+      "replies": 73,
+      "views": 134425,
+      "bookmarks": 224
     }
   ]
 }
