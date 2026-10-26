@@ -1,8 +1,8 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 18,
-  "bullish": 7,
+  "total_mentions": 19,
+  "bullish": 8,
   "bearish": 3,
   "neutral": 8,
   "posts": [
@@ -239,6 +239,19 @@
       "replies": 4,
       "views": 9889,
       "bookmarks": 2
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bullish",
+      "post_id": "2114225154591207690",
+      "text_preview": "@Robertff8n Few things:\n\n- $SIVE is targeting T1 hyperscaler deployments for pluggables, CPO, NPO. Not quite sure what you mean by Tier 2. \n\nThey have direct engagements with hyperscalers but currentl",
+      "created_at": "2026-10-25T05:18:51Z",
+      "likes": 156,
+      "retweets": 11,
+      "replies": 8,
+      "views": 21555,
+      "bookmarks": 26
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 77,
+  "total_mentions": 80,
   "bullish": 16,
-  "bearish": 17,
-  "neutral": 44,
+  "bearish": 19,
+  "neutral": 45,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1006,6 +1006,45 @@
       "replies": 99,
       "views": 227779,
       "bookmarks": 142
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2114213351060554010",
+      "text_preview": "$NVDA Jensen Huang on photonics: adding scale-up to optical domain, “is going to be, well, 15x” to aggregate volume.\n\nRelating to $LITE, $COHR, and laser companies.. \n\n“I'm fairly certain the amount o",
+      "created_at": "2026-10-25T04:31:57Z",
+      "likes": 1125,
+      "retweets": 87,
+      "replies": 102,
+      "views": 230652,
+      "bookmarks": 268
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2114477224208535600",
+      "text_preview": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests confl",
+      "created_at": "2026-10-25T22:00:29Z",
+      "likes": 1929,
+      "retweets": 111,
+      "replies": 233,
+      "views": 152109,
+      "bookmarks": 111
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2114519097526686033",
+      "text_preview": "Just another $40B going into the \"AI Infra\" Bubble... \n\nElon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, e",
+      "created_at": "2026-10-26T00:46:53Z",
+      "likes": 68,
+      "retweets": 6,
+      "replies": 11,
+      "views": 15300,
+      "bookmarks": 15
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 23,
-  "bullish": 10,
+  "total_mentions": 24,
+  "bullish": 11,
   "bearish": 5,
   "neutral": 8,
   "posts": [
@@ -304,6 +304,19 @@
       "replies": 5,
       "views": 8707,
       "bookmarks": 4
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2114225154591207690",
+      "text_preview": "@Robertff8n Few things:\n\n- $SIVE is targeting T1 hyperscaler deployments for pluggables, CPO, NPO. Not quite sure what you mean by Tier 2. \n\nThey have direct engagements with hyperscalers but currentl",
+      "created_at": "2026-10-25T05:18:51Z",
+      "likes": 156,
+      "retweets": 11,
+      "replies": 8,
+      "views": 21555,
+      "bookmarks": 26
     }
   ]
 }

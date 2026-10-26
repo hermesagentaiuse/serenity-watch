@@ -1,66 +1,72 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T09:01:01.648080+00:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T09:01:39.377004+00:00",
   "has_baseline": true,
-  "new_mention_count": 13,
+  "new_mention_count": 12,
   "new_posts": [
-    "2113950041207607453",
-    "2113958295325319387",
-    "2113960886461444206",
-    "2113964694201643199",
-    "2114030117416755494",
-    "2114051018510287340",
-    "2114055113732182110"
+    "2114213351060554010",
+    "2114219806706860495",
+    "2114225154591207690",
+    "2114477224208535600",
+    "2114495814538285526",
+    "2114519097526686033"
   ],
   "by_ticker": [
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 3,
+      "bullish": 0,
+      "bearish": 2
+    },
+    {
       "ticker": "LITE",
       "company": "Lumentum",
-      "new": 3,
-      "bullish": 2,
+      "new": 2,
+      "bullish": 0,
       "bearish": 1
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "new": 2,
+      "bullish": 0,
+      "bearish": 0
     },
     {
       "ticker": "NET",
       "company": "Cloudflare",
-      "new": 2,
+      "new": 1,
       "bullish": 1,
       "bearish": 0
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "new": 2,
-      "bullish": 1,
-      "bearish": 1
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
     },
     {
       "ticker": "AMZN",
       "company": "Amazon",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
+      "new": 1,
+      "bullish": 1,
+      "bearish": 0
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "new": 1,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "new": 1,
       "bullish": 0,
       "bearish": 0
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "AVGO",
+      "company": "Broadcom",
       "new": 1,
       "bullish": 0,
-      "bearish": 1
+      "bearish": 0
     }
   ]
 }

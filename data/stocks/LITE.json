@@ -1,10 +1,10 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 90,
+  "total_mentions": 92,
   "bullish": 28,
-  "bearish": 21,
-  "neutral": 41,
+  "bearish": 22,
+  "neutral": 42,
   "posts": [
     {
       "ticker": "LITE",
@@ -1175,6 +1175,32 @@
       "replies": 53,
       "views": 135940,
       "bookmarks": 184
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2114213351060554010",
+      "text_preview": "$NVDA Jensen Huang on photonics: adding scale-up to optical domain, “is going to be, well, 15x” to aggregate volume.\n\nRelating to $LITE, $COHR, and laser companies.. \n\n“I'm fairly certain the amount o",
+      "created_at": "2026-10-25T04:31:57Z",
+      "likes": 1125,
+      "retweets": 87,
+      "replies": 102,
+      "views": 230652,
+      "bookmarks": 268
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2114219806706860495",
+      "text_preview": "@sillyuf08 $AXTI still the chokepoint of the entire optical buildout + demand for InP substrates will grow a lot. \n\nThey have LTA supply agreements to $LITE / $COHR and probably ends up #1 vs. Sumitom",
+      "created_at": "2026-10-25T04:57:36Z",
+      "likes": 74,
+      "retweets": 1,
+      "replies": 7,
+      "views": 12612,
+      "bookmarks": 13
     }
   ]
 }

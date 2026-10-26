@@ -1,10 +1,10 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 24,
+  "total_mentions": 25,
   "bullish": 5,
   "bearish": 3,
-  "neutral": 16,
+  "neutral": 17,
   "posts": [
     {
       "ticker": "AVGO",
@@ -317,6 +317,19 @@
       "replies": 73,
       "views": 194966,
       "bookmarks": 144
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "neutral",
+      "post_id": "2114477224208535600",
+      "text_preview": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests confl",
+      "created_at": "2026-10-25T22:00:29Z",
+      "likes": 1929,
+      "retweets": 111,
+      "replies": 233,
+      "views": 152109,
+      "bookmarks": 111
     }
   ]
 }

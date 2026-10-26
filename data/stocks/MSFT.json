@@ -1,8 +1,8 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 15,
-  "bullish": 4,
+  "total_mentions": 16,
+  "bullish": 5,
   "bearish": 4,
   "neutral": 7,
   "posts": [
@@ -200,6 +200,19 @@
       "replies": 145,
       "views": 265116,
       "bookmarks": 168
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "stance": "bullish",
+      "post_id": "2114225154591207690",
+      "text_preview": "@Robertff8n Few things:\n\n- $SIVE is targeting T1 hyperscaler deployments for pluggables, CPO, NPO. Not quite sure what you mean by Tier 2. \n\nThey have direct engagements with hyperscalers but currentl",
+      "created_at": "2026-10-25T05:18:51Z",
+      "likes": 156,
+      "retweets": 11,
+      "replies": 8,
+      "views": 21555,
+      "bookmarks": 26
     }
   ]
 }

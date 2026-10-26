@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Serenity Watch Dashboard — 2026-10-26</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+         background: #0f1923; color: #e0e0e0; padding: 20px; }
+  h1 { color: #4fc3f7; margin-bottom: 10px; font-size: 24px; }
+  .subtitle { color: #90a4ae; margin-bottom: 20px; font-size: 14px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+           gap: 12px; margin-bottom: 24px; }
+  .stat-card { background: #1a2733; border-radius: 8px; padding: 16px; text-align: center; }
+  .stat-card .num { font-size: 28px; font-weight: bold; color: #4fc3f7; }
+  .stat-card .label { font-size: 12px; color: #90a4ae; margin-top: 4px; }
+  .filters { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+  .filters button { background: #1a2733; color: #e0e0e0; border: 1px solid #2a3a4a;
+                    padding: 6px 16px; border-radius: 20px; cursor: pointer; font-size: 13px; }
+  .filters button.active { background: #4fc3f7; color: #0f1923; border-color: #4fc3f7; }
+  .search-box { background: #1a2733; color: #e0e0e0; border: 1px solid #2a3a4a;
+               padding: 8px 16px; border-radius: 20px; width: 200px; font-size: 13px; }
+  table { width: 100%; border-collapse: collapse; background: #1a2733; border-radius: 8px; overflow: hidden; }
+  th { background: #0d1b2a; color: #4fc3f7; padding: 12px; text-align: left; font-size: 13px; }
+  td { padding: 10px 12px; border-bottom: 1px solid #1a2733; font-size: 13px; }
+  tr:hover { background: #1e3040; }
+  .bullish { color: #4caf50; }
+  .bearish { color: #f44336; }
+  .neutral { color: #90a4ae; }
+  .detail-panel { display: none; background: #1a2733; border-radius: 8px; padding: 20px;
+                   margin-top: 16px; border: 1px solid #2a3a4a; }
+  .detail-panel.open { display: block; }
+  .mini-bar { height: 6px; border-radius: 3px; margin-top: 4px; }
+  .mini-bar .bull { background: #4caf50; float: left; }
+  .mini-bar .bear { background: #f44336; float: left; }
+  .mini-bar .neu { background: #607d8b; float: left; }
+</style>
+</head>
+<body>
+<h1>Serenity Watch Dashboard</h1>
+<p class="subtitle">追蹤 @aleabitoreddit (Serenity) 標的提及與立場 — 2026-10-26</p>
+
+<div class="stats">
+<div class="stat-card"><div class="num">32</div><div class="label">涵蓋標的數</div></div>
+<div class="stat-card"><div class="num">496</div><div class="label">標的提及次數</div></div>
+<div class="stat-card"><div class="num bullish">133</div><div class="label">看多</div></div>
+<div class="stat-card"><div class="num bearish">106</div><div class="label">看空</div></div>
+<div class="stat-card"><div class="num neutral">257</div><div class="label">中立</div></div>
+</div>
+
+<div class="filters">
+<button class="active" onclick="filterTime('all')">全部</button>
+<button onclick="filterTime('7d')">7 天</button>
+<button onclick="filterTime('30d')">30 天</button>
+</div>
+<input type="text" class="search-box" placeholder="搜尋代號或公司名稱..." oninput="searchTicker(this.value)">
+
+<div id="detail" class="detail-panel">
+  <h3 id="detail-title" style="color:#4fc3f7;margin-bottom:12px;"></h3>
+  <div id="detail-content"></div>
+</div>
+
+<table id="stocks-table">
+  <thead><tr><th>代號</th><th>公司</th><th>總提及</th><th>看多</th><th>看空</th><th>中立</th><th>分布</th><th>操作</th></tr></thead>
+  <tbody id="stocks-body"></tbody>
+</table>
+
+<script>
+const stocks = [{"ticker": "LITE", "company": "Lumentum", "total": 92, "bullish": 28, "bearish": 22, "neutral": 42}, {"ticker": "NVDA", "company": "NVIDIA", "total": 80, "bullish": 16, "bearish": 19, "neutral": 45}, {"ticker": "MU", "company": "Micron", "total": 36, "bullish": 8, "bearish": 12, "neutral": 16}, {"ticker": "MRVL", "company": "Marvell", "total": 28, "bullish": 7, "bearish": 1, "neutral": 20}, {"ticker": "GOOG", "company": "Alphabet (Google Class C)", "total": 26, "bullish": 4, "bearish": 10, "neutral": 12}, {"ticker": "GOOGL", "company": "Alphabet (Google)", "total": 26, "bullish": 4, "bearish": 10, "neutral": 12}, {"ticker": "AMD", "company": "AMD", "total": 26, "bullish": 11, "bearish": 3, "neutral": 12}, {"ticker": "AVGO", "company": "Broadcom", "total": 25, "bullish": 5, "bearish": 3, "neutral": 17}, {"ticker": "AMZN", "company": "Amazon", "total": 24, "bullish": 11, "bearish": 5, "neutral": 8}, {"ticker": "INTC", "company": "Intel", "total": 19, "bullish": 3, "bearish": 1, "neutral": 15}, {"ticker": "NET", "company": "Cloudflare", "total": 19, "bullish": 8, "bearish": 3, "neutral": 8}, {"ticker": "MSFT", "company": "Microsoft", "total": 16, "bullish": 5, "bearish": 4, "neutral": 7}, {"ticker": "META", "company": "Meta (Facebook)", "total": 14, "bullish": 3, "bearish": 6, "neutral": 5}, {"ticker": "RDDT", "company": "Reddit", "total": 13, "bullish": 2, "bearish": 4, "neutral": 7}, {"ticker": "TSLA", "company": "Tesla", "total": 10, "bullish": 3, "bearish": 0, "neutral": 7}, {"ticker": "AAPL", "company": "Apple", "total": 9, "bullish": 5, "bearish": 1, "neutral": 3}, {"ticker": "QCOM", "company": "Qualcomm", "total": 4, "bullish": 1, "bearish": 1, "neutral": 2}, {"ticker": "SPOT", "company": "Spotify", "total": 3, "bullish": 1, "bearish": 0, "neutral": 2}, {"ticker": "STM", "company": "STMicroelectronics", "total": 3, "bullish": 0, "bearish": 0, "neutral": 3}, {"ticker": "PLTR", "company": "Palantir", "total": 3, "bullish": 0, "bearish": 0, "neutral": 3}, {"ticker": "SPY", "company": "S&P 500 ETF", "total": 3, "bullish": 1, "bearish": 0, "neutral": 2}, {"ticker": "PYPL", "company": "PayPal", "total": 2, "bullish": 2, "bearish": 0, "neutral": 0}, {"ticker": "UBER", "company": "Uber", "total": 2, "bullish": 0, "bearish": 0, "neutral": 2}, {"ticker": "COIN", "company": "Coinbase", "total": 2, "bullish": 0, "bearish": 1, "neutral": 1}, {"ticker": "U", "company": "Unity Software", "total": 2, "bullish": 2, "bearish": 0, "neutral": 0}, {"ticker": "QQQ", "company": "NASDAQ 100 ETF", "total": 2, "bullish": 0, "bearish": 0, "neutral": 2}, {"ticker": "CRWD", "company": "CrowdStrike", "total": 2, "bullish": 1, "bearish": 0, "neutral": 1}, {"ticker": "ON", "company": "ON Semiconductor", "total": 1, "bullish": 1, "bearish": 0, "neutral": 0}, {"ticker": "3037", "company": "台達電", "total": 1, "bullish": 0, "bearish": 0, "neutral": 1}, {"ticker": "CRM", "company": "Salesforce", "total": 1, "bullish": 0, "bearish": 0, "neutral": 1}, {"ticker": "UPWK", "company": "Upwork", "total": 1, "bullish": 1, "bearish": 0, "neutral": 0}, {"ticker": "SNAP", "company": "Snapchat", "total": 1, "bullish": 0, "bearish": 0, "neutral": 1}];
+
+function renderTable(data) {
+  const tbody = document.getElementById('stocks-body');
+  tbody.innerHTML = data.map(s => {
+    const pct = s.total || 1;
+    const bar = `<div class="mini-bar">
+      <span class="bull" style="width:${s.bullish/pct*100}%"></span>
+      <span class="bear" style="width:${s.bearish/pct*100}%"></span>
+      <span class="neu" style="width:${s.neutral/pct*100}%"></span>
+    </div>`;
+    return `<tr>
+      <td class="bullish" style="font-weight:bold;">${s.ticker}</td>
+      <td>${s.company}</td>
+      <td>${s.total}</td>
+      <td class="bullish">${s.bullish}</td>
+      <td class="bearish">${s.bearish}</td>
+      <td class="neutral">${s.neutral}</td>
+      <td>${bar}</td>
+      <td><button onclick="showDetail('${s.ticker}')">📋</button></td>
+    </tr>`;
+  }).join('');
+}
+
+function filterTime(range) {
+  document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  if (range === 'all') renderTable(stocks);
+  else {
+    const days = range === '7d' ? 7 : 30;
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - days);
+    const filtered = stocks.filter(s => {
+      const posts = s.posts || [];
+      return posts.some(p => new Date(p.created_at) >= cutoff);
+    });
+    renderTable(filtered);
+  }
+}
+
+function searchTicker(query) {
+  if (!query) { renderTable(stocks); return; }
+  const q = query.toUpperCase();
+  const filtered = stocks.filter(s =>
+    s.ticker.toUpperCase().includes(q) || s.company.toUpperCase().includes(q)
+  );
+  renderTable(filtered);
+}
+
+function showDetail(ticker) {
+  const s = stocks.find(x => x.ticker === ticker);
+  if (!s) return;
+  document.getElementById('detail-title').textContent = `${s.ticker} - ${s.company}`;
+  document.getElementById('detail-content').innerHTML = `
+    <p>總提及：${s.total} 次 | 看多：${s.bullish} | 看空：${s.bearish} | 中立：${s.neutral}</p>
+    <ul style="margin-top:12px;max-height:300px;overflow-y:auto;">
+      ${(s.posts || []).map(p => `<li style="margin:4px 0;padding:8px;background:#0f1923;border-radius:4px;">
+        <strong>$${s.ticker}</strong> [${p.created_at?.split('T')[0]}] → ${p.stance}<br>
+        <span style="color:#90a4ae;font-size:12px;">${p.text_preview}...</span>
+      </li>`).join('')}
+    </ul>
+  `;
+  document.getElementById('detail').classList.add('open');
+}
+
+renderTable(stocks);
+</script>
+</body>
+</html>
