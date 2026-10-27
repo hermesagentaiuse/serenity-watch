@@ -1,24 +1,11 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 14,
+  "total_mentions": 13,
   "bullish": 3,
-  "bearish": 6,
+  "bearish": 5,
   "neutral": 5,
   "posts": [
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "stance": "bearish",
-      "post_id": "2082230983487803755",
-      "text_preview": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + rai",
-      "created_at": "2026-07-28T22:25:27+00:00",
-      "likes": 1063,
-      "retweets": 54,
-      "replies": 86,
-      "views": 234070,
-      "bookmarks": 275
-    },
     {
       "ticker": "META",
       "company": "Meta (Facebook)",
@@ -104,10 +91,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1335,
-      "retweets": 98,
+      "likes": 1333,
+      "retweets": 97,
       "replies": 100,
-      "views": 449697,
+      "views": 450282,
       "bookmarks": 0
     },
     {

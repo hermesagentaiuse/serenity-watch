@@ -1,37 +1,11 @@
 {
   "ticker": "GOOGL",
   "company": "Alphabet (Google)",
-  "total_mentions": 26,
+  "total_mentions": 24,
   "bullish": 4,
-  "bearish": 10,
-  "neutral": 12,
+  "bearish": 9,
+  "neutral": 11,
   "posts": [
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "stance": "neutral",
-      "post_id": "2082176491216085377",
-      "text_preview": "@wannabepanacea I've been out if it recently, just recovering from 2 rounds of surgery. \n\nDrop was been surprising to say the least given $GOOGL hiked capex guidance last week.  \n\nWill need to check o",
-      "created_at": "2026-07-28T18:48:55+00:00",
-      "likes": 267,
-      "retweets": 1,
-      "replies": 59,
-      "views": 25816,
-      "bookmarks": 11
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "stance": "bearish",
-      "post_id": "2082230983487803755",
-      "text_preview": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + rai",
-      "created_at": "2026-07-28T22:25:27+00:00",
-      "likes": 1063,
-      "retweets": 54,
-      "replies": 86,
-      "views": 234070,
-      "bookmarks": 275
-    },
     {
       "ticker": "GOOGL",
       "company": "Alphabet (Google)",
@@ -195,10 +169,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1335,
-      "retweets": 98,
+      "likes": 1333,
+      "retweets": 97,
       "replies": 100,
-      "views": 449697,
+      "views": 450282,
       "bookmarks": 0
     },
     {

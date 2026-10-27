@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 92,
+  "total_mentions": 91,
   "bullish": 28,
-  "bearish": 22,
+  "bearish": 21,
   "neutral": 42,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2082230983487803755",
-      "text_preview": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + rai",
-      "created_at": "2026-07-28T22:25:27+00:00",
-      "likes": 1063,
-      "retweets": 54,
-      "replies": 86,
-      "views": 234070,
-      "bookmarks": 275
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -754,10 +741,10 @@
       "post_id": "2096814311306129776",
       "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
       "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2206,
-      "retweets": 172,
-      "replies": 97,
-      "views": 463933,
+      "likes": 2205,
+      "retweets": 171,
+      "replies": 96,
+      "views": 465134,
       "bookmarks": 0
     },
     {
@@ -767,10 +754,10 @@
       "post_id": "2096890295128625153",
       "text_preview": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies",
       "created_at": "2026-09-07T09:16:19+00:00",
-      "likes": 670,
-      "retweets": 39,
+      "likes": 669,
+      "retweets": 38,
       "replies": 40,
-      "views": 298718,
+      "views": 299025,
       "bookmarks": 0
     },
     {
@@ -783,7 +770,7 @@
       "likes": 766,
       "retweets": 54,
       "replies": 63,
-      "views": 314162,
+      "views": 314638,
       "bookmarks": 0
     },
     {
@@ -806,10 +793,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1335,
-      "retweets": 98,
+      "likes": 1333,
+      "retweets": 97,
       "replies": 100,
-      "views": 449697,
+      "views": 450282,
       "bookmarks": 0
     },
     {

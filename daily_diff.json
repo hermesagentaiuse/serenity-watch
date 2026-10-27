@@ -1,69 +1,15 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T09:01:39.377004+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T09:00:21.278929+00:00",
   "has_baseline": true,
-  "new_mention_count": 12,
+  "new_mention_count": 1,
   "new_posts": [
-    "2114213351060554010",
-    "2114219806706860495",
-    "2114225154591207690",
-    "2114477224208535600",
-    "2114495814538285526",
-    "2114519097526686033"
+    "2114752489476309203"
   ],
   "by_ticker": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 3,
-      "bullish": 0,
-      "bearish": 2
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
+      "ticker": "MU",
+      "company": "Micron",
       "new": 1,
       "bullish": 0,
       "bearish": 0

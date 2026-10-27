@@ -3,22 +3,9 @@
   "company": "Micron",
   "total_mentions": 36,
   "bullish": 8,
-  "bearish": 12,
-  "neutral": 16,
+  "bearish": 11,
+  "neutral": 17,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bearish",
-      "post_id": "2082230983487803755",
-      "text_preview": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + rai",
-      "created_at": "2026-07-28T22:25:27+00:00",
-      "likes": 1063,
-      "retweets": 54,
-      "replies": 86,
-      "views": 234070,
-      "bookmarks": 275
-    },
     {
       "ticker": "MU",
       "company": "Micron",
@@ -221,10 +208,10 @@
       "post_id": "2096814311306129776",
       "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
       "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2206,
-      "retweets": 172,
-      "replies": 97,
-      "views": 463933,
+      "likes": 2205,
+      "retweets": 171,
+      "replies": 96,
+      "views": 465134,
       "bookmarks": 0
     },
     {
@@ -236,8 +223,8 @@
       "created_at": "2026-09-07T07:09:05+00:00",
       "likes": 778,
       "retweets": 56,
-      "replies": 80,
-      "views": 393883,
+      "replies": 79,
+      "views": 394139,
       "bookmarks": 0
     },
     {
@@ -247,10 +234,10 @@
       "post_id": "2097937708178186303",
       "text_preview": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% ab",
       "created_at": "2026-09-10T06:38:22+00:00",
-      "likes": 986,
+      "likes": 985,
       "retweets": 55,
       "replies": 66,
-      "views": 305020,
+      "views": 305576,
       "bookmarks": 0
     },
     {
@@ -260,10 +247,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1335,
-      "retweets": 98,
+      "likes": 1333,
+      "retweets": 97,
       "replies": 100,
-      "views": 449697,
+      "views": 450282,
       "bookmarks": 0
     },
     {
@@ -286,10 +273,10 @@
       "post_id": "2099674926697545849",
       "text_preview": "Some color on current memory environments for the $MU / $SKHY bros:\n\n\"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. \n\n- Memory module makers have received notices warning",
       "created_at": "2026-09-15T01:41:27+00:00",
-      "likes": 1204,
+      "likes": 1203,
       "retweets": 103,
       "replies": 81,
-      "views": 297012,
+      "views": 297579,
       "bookmarks": 0
     },
     {
@@ -473,6 +460,19 @@
       "replies": 73,
       "views": 134425,
       "bookmarks": 224
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2114752489476309203",
+      "text_preview": "TY $ANT for the positive $3.4B FCF for H1 2026.\n\nStill feels like all your AI infra names from $MU to $AAOI sold off way too hard.\n\nConsidering the billions in financing raised by frontier labs to hyp",
+      "created_at": "2026-10-26T16:14:18Z",
+      "likes": 946,
+      "retweets": 40,
+      "replies": 81,
+      "views": 156869,
+      "bookmarks": 135
     }
   ]
 }
