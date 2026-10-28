@@ -1,37 +1,11 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 19,
+  "total_mentions": 17,
   "bullish": 3,
   "bearish": 1,
-  "neutral": 15,
+  "neutral": 13,
   "posts": [
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2082513405219631384",
-      "text_preview": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Sili",
-      "created_at": "2026-07-29T17:07:41+00:00",
-      "likes": 1308,
-      "retweets": 90,
-      "replies": 126,
-      "views": 236870,
-      "bookmarks": 251
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2082514437014253995",
-      "text_preview": "@4intheflames I don't own $GFS, but I'm personally it's surprised it's still down on the news US Gov is taking a direct stake in them for advancing CPO. \n\nSurprising to say the least, given everyone r",
-      "created_at": "2026-07-29T17:11:47+00:00",
-      "likes": 111,
-      "retweets": 3,
-      "replies": 10,
-      "views": 16565,
-      "bookmarks": 6
-    },
     {
       "ticker": "INTC",
       "company": "Intel",

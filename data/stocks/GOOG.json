@@ -1,24 +1,11 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 24,
-  "bullish": 4,
-  "bearish": 9,
-  "neutral": 11,
+  "total_mentions": 25,
+  "bullish": 5,
+  "bearish": 8,
+  "neutral": 12,
   "posts": [
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "stance": "bearish",
-      "post_id": "2082605568699871284",
-      "text_preview": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operatin",
-      "created_at": "2026-07-29T23:13:55+00:00",
-      "likes": 735,
-      "retweets": 42,
-      "replies": 60,
-      "views": 207239,
-      "bookmarks": 197
-    },
     {
       "ticker": "GOOG",
       "company": "Alphabet (Google Class C)",
@@ -317,6 +304,32 @@
       "replies": 99,
       "views": 227779,
       "bookmarks": 142
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "neutral",
+      "post_id": "2115056034763137169",
+      "text_preview": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSom",
+      "created_at": "2026-10-27T12:20:29Z",
+      "likes": 1077,
+      "retweets": 71,
+      "replies": 84,
+      "views": 231406,
+      "bookmarks": 154
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "bullish",
+      "post_id": "2115097816779673903",
+      "text_preview": "@soulbiri1 I quite like $CIFR at $8 since their primary counterparties are $AMZN, $GOOGL + and an AI Lab.\n\nThey need financing and I remember some projects ran slightly overbudged.\n\nBut it’s quite dif",
+      "created_at": "2026-10-27T15:06:30Z",
+      "likes": 116,
+      "retweets": 9,
+      "replies": 9,
+      "views": 20863,
+      "bookmarks": 30
     }
   ]
 }

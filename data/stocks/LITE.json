@@ -1,76 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 91,
-  "bullish": 28,
+  "total_mentions": 87,
+  "bullish": 27,
   "bearish": 21,
-  "neutral": 42,
+  "neutral": 39,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2082513405219631384",
-      "text_preview": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Sili",
-      "created_at": "2026-07-29T17:07:41+00:00",
-      "likes": 1308,
-      "retweets": 90,
-      "replies": 126,
-      "views": 236870,
-      "bookmarks": 251
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2082517392031375418",
-      "text_preview": "@Yeshuaisking11 I kinda expected it for critical minerals since Western needs as much subsidies as possible to compete with China.\n\nUS Gov taking a stake in $GFS for CPO was not on my calendar. But it",
-      "created_at": "2026-07-29T17:23:32+00:00",
-      "likes": 98,
-      "retweets": 6,
-      "replies": 5,
-      "views": 15770,
-      "bookmarks": 10
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2082520341633732966",
-      "text_preview": "@nicomejia_ Global indiscriminate AI deleveraging right now, $AAOI is one of the high-beta names affected.\n\nI'd personally be surprised to say the least if they do $5.6B annualized revenue in 2027 (of",
-      "created_at": "2026-07-29T17:35:15+00:00",
-      "likes": 146,
-      "retweets": 3,
-      "replies": 8,
-      "views": 19755,
-      "bookmarks": 21
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2082578803189268855",
-      "text_preview": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa",
-      "created_at": "2026-07-29T21:27:33+00:00",
-      "likes": 728,
-      "retweets": 27,
-      "replies": 90,
-      "views": 148881,
-      "bookmarks": 100
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2082582144359219284",
-      "text_preview": "@wz2013 $AXTI secured LTA with $COHR earlier, with a $22.3M reservation payment.\n\nAs well as a LTA with $LITE today, totaling $87M ($43.5M + $43.5M) again to reserve capacity. \n\nConsidering that these",
-      "created_at": "2026-07-29T21:40:50+00:00",
-      "likes": 79,
-      "retweets": 2,
-      "replies": 4,
-      "views": 12927,
-      "bookmarks": 8
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1188,6 +1123,19 @@
       "replies": 7,
       "views": 12612,
       "bookmarks": 13
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2115060985396670793",
+      "text_preview": "@JohnnyXAngelo I'm seeing a pattern here with hyperscalers...\n\nThey act like VCs + Goldfish. \n\nJust requires one to go secure LTAs for memory or lasers with $LITE for the rest to pile in. Since they d",
+      "created_at": "2026-10-27T12:40:09Z",
+      "likes": 61,
+      "retweets": 2,
+      "replies": 5,
+      "views": 12540,
+      "bookmarks": 8
     }
   ]
 }

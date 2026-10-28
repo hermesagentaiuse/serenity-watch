@@ -1,37 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 80,
+  "total_mentions": 79,
   "bullish": 16,
-  "bearish": 19,
-  "neutral": 45,
+  "bearish": 17,
+  "neutral": 46,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bearish",
-      "post_id": "2082605568699871284",
-      "text_preview": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operatin",
-      "created_at": "2026-07-29T23:13:55+00:00",
-      "likes": 735,
-      "retweets": 42,
-      "replies": 60,
-      "views": 207239,
-      "bookmarks": 197
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bearish",
-      "post_id": "2082720873908494456",
-      "text_preview": "Just some interesting takeaways from $FORM earnings call on CPO:\n\nSince they attributed systems revenue nearly doubled due to: \"accelerating growth in co-packaged optics or CPO\". \n\nQ1 2026: \"we now ex",
-      "created_at": "2026-07-30T06:52:06+00:00",
-      "likes": 742,
-      "retweets": 46,
-      "replies": 79,
-      "views": 279658,
-      "bookmarks": 155
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1045,6 +1019,19 @@
       "replies": 11,
       "views": 15300,
       "bookmarks": 15
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2115060985396670793",
+      "text_preview": "@JohnnyXAngelo I'm seeing a pattern here with hyperscalers...\n\nThey act like VCs + Goldfish. \n\nJust requires one to go secure LTAs for memory or lasers with $LITE for the rest to pile in. Since they d",
+      "created_at": "2026-10-27T12:40:09Z",
+      "likes": 61,
+      "retweets": 2,
+      "replies": 5,
+      "views": 12540,
+      "bookmarks": 8
     }
   ]
 }

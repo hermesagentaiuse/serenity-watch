@@ -1,24 +1,11 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 16,
+  "total_mentions": 15,
   "bullish": 5,
-  "bearish": 4,
+  "bearish": 3,
   "neutral": 7,
   "posts": [
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "stance": "bearish",
-      "post_id": "2082605568699871284",
-      "text_preview": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operatin",
-      "created_at": "2026-07-29T23:13:55+00:00",
-      "likes": 735,
-      "retweets": 42,
-      "replies": 60,
-      "views": 207239,
-      "bookmarks": 197
-    },
     {
       "ticker": "MSFT",
       "company": "Microsoft",

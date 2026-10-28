@@ -1,17 +1,54 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T09:00:21.278929+00:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T09:00:19.316122+00:00",
   "has_baseline": true,
-  "new_mention_count": 1,
+  "new_mention_count": 8,
   "new_posts": [
-    "2114752489476309203"
+    "2115056034763137169",
+    "2115060985396670793",
+    "2115097816779673903"
   ],
   "by_ticker": [
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "new": 2,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "new": 2,
+      "bullish": 1,
+      "bearish": 0
+    },
     {
       "ticker": "MU",
       "company": "Micron",
       "new": 1,
       "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "new": 1,
+      "bullish": 1,
       "bearish": 0
     }
   ]

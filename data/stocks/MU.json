@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 36,
+  "total_mentions": 37,
   "bullish": 8,
   "bearish": 11,
-  "neutral": 17,
+  "neutral": 18,
   "posts": [
     {
       "ticker": "MU",
@@ -473,6 +473,19 @@
       "replies": 81,
       "views": 156869,
       "bookmarks": 135
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2115056034763137169",
+      "text_preview": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSom",
+      "created_at": "2026-10-27T12:20:29Z",
+      "likes": 1077,
+      "retweets": 71,
+      "replies": 84,
+      "views": 231406,
+      "bookmarks": 154
     }
   ]
 }

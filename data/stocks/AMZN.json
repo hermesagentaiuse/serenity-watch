@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 24,
-  "bullish": 11,
+  "total_mentions": 25,
+  "bullish": 12,
   "bearish": 5,
   "neutral": 8,
   "posts": [
@@ -317,6 +317,19 @@
       "replies": 8,
       "views": 21555,
       "bookmarks": 26
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2115097816779673903",
+      "text_preview": "@soulbiri1 I quite like $CIFR at $8 since their primary counterparties are $AMZN, $GOOGL + and an AI Lab.\n\nThey need financing and I remember some projects ran slightly overbudged.\n\nBut it’s quite dif",
+      "created_at": "2026-10-27T15:06:30Z",
+      "likes": 116,
+      "retweets": 9,
+      "replies": 9,
+      "views": 20863,
+      "bookmarks": 30
     }
   ]
 }
