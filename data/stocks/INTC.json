@@ -1,24 +1,11 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 17,
+  "total_mentions": 16,
   "bullish": 3,
   "bearish": 1,
-  "neutral": 13,
+  "neutral": 12,
   "posts": [
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2082896789880119590",
-      "text_preview": "Did Citadel really just liquidate Situational Awareness…\n\nThen brought up entire markets the next day?\n\n$NBIS +26.25%\n$IREN +25.96%\n$SHAZ +22.82%\n$SNDK + 23.98%\n$BE +23.67%\n$SKHY +16.98%\n$INTC +12.16%",
-      "created_at": "2026-07-30T18:31:07+00:00",
-      "likes": 2746,
-      "retweets": 173,
-      "replies": 240,
-      "views": 294735,
-      "bookmarks": 373
-    },
     {
       "ticker": "INTC",
       "company": "Intel",

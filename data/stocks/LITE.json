@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 87,
-  "bullish": 27,
+  "total_mentions": 86,
+  "bullish": 26,
   "bearish": 21,
   "neutral": 39,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2083088870942642391",
-      "text_preview": "Few earnings TLDRs with my favorite $AXTI and $AMZN:\n\nAmazon:\n- Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) \n- Even at $220B, Ama",
-      "created_at": "2026-07-31T07:14:23+00:00",
-      "likes": 1011,
-      "retweets": 59,
-      "replies": 96,
-      "views": 234662,
-      "bookmarks": 223
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
