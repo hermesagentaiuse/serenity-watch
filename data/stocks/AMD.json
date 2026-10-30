@@ -1,24 +1,11 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 25,
-  "bullish": 11,
+  "total_mentions": 24,
+  "bullish": 10,
   "bearish": 2,
   "neutral": 12,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "bullish",
-      "post_id": "2083282302453571849",
-      "text_preview": "@Erick_P23 Thesis is more for CPO scale up expecting complexity making make MSSCorp a monopoly-type chokepoint over inspection yields (they were claiming 90% market share target). Although they can be",
-      "created_at": "2026-07-31T20:03:01+00:00",
-      "likes": 52,
-      "retweets": 0,
-      "replies": 6,
-      "views": 6870,
-      "bookmarks": 6
-    },
     {
       "ticker": "AMD",
       "company": "AMD",

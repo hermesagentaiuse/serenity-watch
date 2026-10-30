@@ -1,24 +1,11 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 19,
+  "total_mentions": 18,
   "bullish": 8,
   "bearish": 3,
-  "neutral": 8,
+  "neutral": 7,
   "posts": [
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "neutral",
-      "post_id": "2083225872207937687",
-      "text_preview": "$RDDT ER in a nutshell:\n\nRevenue: $804.9M vs. $730.4M (expected).\nEPS: $1.25 vs. ~$0.95.\nNet income: $252.8M vs. $196.5M\n\nQ3 guidance:\nRevenue: $860–870M vs. 829.1M\nAdjusted EBITDA: $385-395M vs. $369",
-      "created_at": "2026-07-31T16:18:47+00:00",
-      "likes": 1193,
-      "retweets": 43,
-      "replies": 156,
-      "views": 278180,
-      "bookmarks": 218
-    },
     {
       "ticker": "NET",
       "company": "Cloudflare",

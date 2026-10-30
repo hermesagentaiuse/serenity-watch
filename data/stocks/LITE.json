@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 86,
+  "total_mentions": 85,
   "bullish": 26,
   "bearish": 21,
-  "neutral": 39,
+  "neutral": 38,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2083438823548293140",
-      "text_preview": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipmen",
-      "created_at": "2026-08-01T06:24:58+00:00",
-      "likes": 1481,
-      "retweets": 115,
-      "replies": 109,
-      "views": 219060,
-      "bookmarks": 413
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",

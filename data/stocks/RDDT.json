@@ -1,50 +1,11 @@
 {
   "ticker": "RDDT",
   "company": "Reddit",
-  "total_mentions": 13,
+  "total_mentions": 10,
   "bullish": 2,
-  "bearish": 4,
-  "neutral": 7,
+  "bearish": 2,
+  "neutral": 6,
   "posts": [
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "neutral",
-      "post_id": "2083225872207937687",
-      "text_preview": "$RDDT ER in a nutshell:\n\nRevenue: $804.9M vs. $730.4M (expected).\nEPS: $1.25 vs. ~$0.95.\nNet income: $252.8M vs. $196.5M\n\nQ3 guidance:\nRevenue: $860–870M vs. 829.1M\nAdjusted EBITDA: $385-395M vs. $369",
-      "created_at": "2026-07-31T16:18:47+00:00",
-      "likes": 1193,
-      "retweets": 43,
-      "replies": 156,
-      "views": 278180,
-      "bookmarks": 218
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "bearish",
-      "post_id": "2083227149696458929",
-      "text_preview": "@tax_evader666 US DAU*, they beat heavily on financial metrics and raised forward guidance above street expectations. \n\nBut people like to make up some narrative every time something drops. \n\n-22.6% s",
-      "created_at": "2026-07-31T16:23:51+00:00",
-      "likes": 92,
-      "retweets": 0,
-      "replies": 10,
-      "views": 17829,
-      "bookmarks": 3
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "bearish",
-      "post_id": "2083232591176753262",
-      "text_preview": "@amitisinvesting Agreed on $RDDT, the -22.61% reaction seems overblown to me off those earnings/projections. Their monetization strategy seem to be working wonders.\n\nAI licensing seems inevitable as w",
-      "created_at": "2026-07-31T16:45:28+00:00",
-      "likes": 216,
-      "retweets": 2,
-      "replies": 6,
-      "views": 32430,
-      "bookmarks": 8
-    },
     {
       "ticker": "RDDT",
       "company": "Reddit",
