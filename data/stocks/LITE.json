@@ -1,10 +1,10 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 85,
+  "total_mentions": 86,
   "bullish": 26,
   "bearish": 21,
-  "neutral": 38,
+  "neutral": 39,
   "posts": [
     {
       "ticker": "LITE",
@@ -1110,6 +1110,19 @@
       "replies": 5,
       "views": 12540,
       "bookmarks": 8
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2115624832947917083",
+      "text_preview": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and ",
+      "created_at": "2026-10-29T02:00:41Z",
+      "likes": 2208,
+      "retweets": 99,
+      "replies": 185,
+      "views": 433949,
+      "bookmarks": 279
     }
   ]
 }
