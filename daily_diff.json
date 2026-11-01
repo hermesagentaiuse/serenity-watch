@@ -1,25 +1,8 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T09:00:31.536433+00:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T09:01:07.250800+00:00",
   "has_baseline": true,
-  "new_mention_count": 2,
-  "new_posts": [
-    "2115624832947917083"
-  ],
-  "by_ticker": [
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    }
-  ]
+  "new_mention_count": 0,
+  "new_posts": [],
+  "by_ticker": []
 }
