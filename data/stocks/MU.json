@@ -1,24 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 36,
+  "total_mentions": 35,
   "bullish": 7,
-  "bearish": 11,
+  "bearish": 10,
   "neutral": 18,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bearish",
-      "post_id": "2084468063228060092",
-      "text_preview": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocatio",
-      "created_at": "2026-08-04T02:34:48+00:00",
-      "likes": 3161,
-      "retweets": 309,
-      "replies": 184,
-      "views": 741361,
-      "bookmarks": 551
-    },
     {
       "ticker": "MU",
       "company": "Micron",
