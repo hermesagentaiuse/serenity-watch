@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 86,
-  "bullish": 26,
+  "total_mentions": 91,
+  "bullish": 27,
   "bearish": 21,
-  "neutral": 39,
+  "neutral": 43,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2084597612175618342",
-      "text_preview": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC ",
-      "created_at": "2026-08-04T11:09:35+00:00",
-      "likes": 2363,
-      "retweets": 235,
-      "replies": 248,
-      "views": 500177,
-      "bookmarks": 427
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -650,10 +637,10 @@
       "post_id": "2096814311306129776",
       "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
       "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2205,
+      "likes": 2202,
       "retweets": 171,
       "replies": 96,
-      "views": 465134,
+      "views": 465798,
       "bookmarks": 0
     },
     {
@@ -663,10 +650,10 @@
       "post_id": "2096890295128625153",
       "text_preview": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies",
       "created_at": "2026-09-07T09:16:19+00:00",
-      "likes": 669,
+      "likes": 670,
       "retweets": 38,
       "replies": 40,
-      "views": 299025,
+      "views": 299223,
       "bookmarks": 0
     },
     {
@@ -676,10 +663,10 @@
       "post_id": "2097200456090952096",
       "text_preview": "Glad $SIVE is attending CIOE Shenzen and hope my followers can go too!\n\nIf you want my read on current landscape:\n\n-> Chinese pluggable makers like CIG (剑桥科技) are facing severe shortages in 70mW-200mW",
       "created_at": "2026-09-08T05:48:47+00:00",
-      "likes": 766,
+      "likes": 764,
       "retweets": 54,
       "replies": 63,
-      "views": 314638,
+      "views": 315034,
       "bookmarks": 0
     },
     {
@@ -705,7 +692,7 @@
       "likes": 1333,
       "retweets": 97,
       "replies": 100,
-      "views": 450282,
+      "views": 450672,
       "bookmarks": 0
     },
     {
@@ -1123,6 +1110,84 @@
       "replies": 185,
       "views": 433949,
       "bookmarks": 279
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117228754489807320",
+      "text_preview": "@MarzoIndustries Considering $LITE (that is sold out into 2029) is going to get swallowed up by $MRVL next week. \n\nI see $AAOI / $SIVE / $COHR are going to be a lot more strategically valuable in the ",
+      "created_at": "2026-11-02T12:14:05Z",
+      "likes": 125,
+      "retweets": 5,
+      "replies": 6,
+      "views": 16314,
+      "bookmarks": 27
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117229519178498541",
+      "text_preview": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp https://t.co/GsTfqhJTkn",
+      "created_at": "2026-11-02T12:17:08Z",
+      "likes": 2001,
+      "retweets": 122,
+      "replies": 149,
+      "views": 345472,
+      "bookmarks": 232
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2117232605146034649",
+      "text_preview": "@JaeKim1089208 I actually thought $MRVL would buy $SIVE given smaller MC, but they went ahead and bought $LITE instead. \n\nSince it looked like Marvell was heading the Broadcom direction with vertical ",
+      "created_at": "2026-11-02T12:29:24Z",
+      "likes": 238,
+      "retweets": 7,
+      "replies": 10,
+      "views": 28963,
+      "bookmarks": 24
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117233515104464961",
+      "text_preview": "@jacobsimon2002 Well.. that was before $MRVL crashed. The deal is 4.5x Marvell shares for every Lumentum share. \n\n4.5x * 196 = $882 (floating), so you're getting that for $LITE, which is still more th",
+      "created_at": "2026-11-02T12:33:00Z",
+      "likes": 158,
+      "retweets": 6,
+      "replies": 18,
+      "views": 31459,
+      "bookmarks": 20
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117262767040463102",
+      "text_preview": "@Ericbaofu 中国其实早就有类似 $MRVL 收购 $LITE 的案例了，比如东山精密收购索尔思光电。\n\n不过国内监管环境不太一样，更多还是为了发展自主技术，减少对西方供应链的依赖。\n\n剑桥科技也是个例子，投资了不少国内激光器厂商，来保障供应和扩充产能。\n\n我觉得这次收购对中际旭创和新易盛的战略影响不会太大",
+      "created_at": "2026-11-02T14:29:15Z",
+      "likes": 60,
+      "retweets": 1,
+      "replies": 9,
+      "views": 16025,
+      "bookmarks": 9
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117296667108278605",
+      "text_preview": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be ",
+      "created_at": "2026-11-02T16:43:57Z",
+      "likes": 507,
+      "retweets": 21,
+      "replies": 51,
+      "views": 143744,
+      "bookmarks": 109
     }
   ]
 }
