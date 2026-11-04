@@ -1,24 +1,11 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 18,
-  "bullish": 8,
-  "bearish": 3,
-  "neutral": 7,
+  "total_mentions": 19,
+  "bullish": 7,
+  "bearish": 4,
+  "neutral": 8,
   "posts": [
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "bullish",
-      "post_id": "2085217487864643658",
-      "text_preview": "The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. \n\nFor background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar",
-      "created_at": "2026-08-06T04:12:45+00:00",
-      "likes": 1012,
-      "retweets": 88,
-      "replies": 84,
-      "views": 457824,
-      "bookmarks": 214
-    },
     {
       "ticker": "NET",
       "company": "Cloudflare",
@@ -239,6 +226,32 @@
       "replies": 8,
       "views": 21555,
       "bookmarks": 26
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bearish",
+      "post_id": "2117493886100918684",
+      "text_preview": "Nah markets are trolling now… $ESMT ($2.3B MC) memory earnings + investor conference:\n\n- Revenue: $679.4M\n- Gross profit: $526.2M (77.44% margin)\n- Operating profit: $403.4M (59.37% margin)\n\nAnnualize",
+      "created_at": "2026-11-03T05:47:38Z",
+      "likes": 803,
+      "retweets": 34,
+      "replies": 79,
+      "views": 179306,
+      "bookmarks": 318
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2117539121434591711",
+      "text_preview": "Just to show a point... AI names have crashed so much to the point $POET as a business is now considered close to worthless.\n\nIt's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.",
+      "created_at": "2026-11-03T08:47:23Z",
+      "likes": 1423,
+      "retweets": 66,
+      "replies": 118,
+      "views": 300595,
+      "bookmarks": 506
     }
   ]
 }

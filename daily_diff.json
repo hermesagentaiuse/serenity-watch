@@ -1,29 +1,51 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T09:00:38.961273+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T09:00:37.932292+00:00",
   "has_baseline": true,
-  "new_mention_count": 14,
+  "new_mention_count": 11,
   "new_posts": [
-    "2117228754489807320",
-    "2117229519178498541",
-    "2117232605146034649",
-    "2117233515104464961",
-    "2117259390185345372",
-    "2117262767040463102",
-    "2117296667108278605"
+    "2117437833820672397",
+    "2117447704662208721",
+    "2117493886100918684",
+    "2117539121434591711",
+    "2117550199895896490",
+    "2117556261378298059",
+    "2117634458778247210",
+    "2117664715811995717"
   ],
   "by_ticker": [
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "new": 7,
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "new": 4,
       "bullish": 1,
       "bearish": 0
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 6,
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "new": 2,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "new": 2,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "new": 1,
       "bullish": 1,
       "bearish": 0
     },
@@ -31,7 +53,7 @@
       "ticker": "NVDA",
       "company": "NVIDIA",
       "new": 1,
-      "bullish": 0,
+      "bullish": 1,
       "bearish": 0
     }
   ]

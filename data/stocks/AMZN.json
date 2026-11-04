@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 22,
-  "bullish": 10,
+  "total_mentions": 23,
+  "bullish": 11,
   "bearish": 4,
   "neutral": 8,
   "posts": [
@@ -291,6 +291,19 @@
       "replies": 9,
       "views": 20863,
       "bookmarks": 30
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2117634458778247210",
+      "text_preview": "Agility Robotics merger is now approved!\n\n$AGLT is expected to begin trading November 5th, following the November 4 closing... As the first US pure-play humanoid company!\n\nThe company is backed by $NV",
+      "created_at": "2026-11-03T15:06:13Z",
+      "likes": 589,
+      "retweets": 31,
+      "replies": 52,
+      "views": 138190,
+      "bookmarks": 213
     }
   ]
 }

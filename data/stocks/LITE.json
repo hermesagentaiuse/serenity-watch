@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 91,
-  "bullish": 27,
+  "total_mentions": 94,
+  "bullish": 28,
   "bearish": 21,
-  "neutral": 43,
+  "neutral": 45,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2085219549981319349",
-      "text_preview": "@Lseperlee $AAOI is an end of H1 2027 volume ramp player for me, since around then is when they hit inflection point of $471m/month revenue projections. \n\nRecent drafted ban on new optical transceiver",
-      "created_at": "2026-08-06T04:20:56+00:00",
-      "likes": 208,
-      "retweets": 9,
-      "replies": 12,
-      "views": 32729,
-      "bookmarks": 30
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1188,6 +1175,58 @@
       "replies": 51,
       "views": 143744,
       "bookmarks": 109
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117437833820672397",
+      "text_preview": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung woul",
+      "created_at": "2026-11-03T02:04:54Z",
+      "likes": 1382,
+      "retweets": 66,
+      "replies": 119,
+      "views": 204749,
+      "bookmarks": 215
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2117550199895896490",
+      "text_preview": "Counterpoint on $MRVL / $LITE acqusition:\n\n- \"Every buyer that competes with Marvell will want a second, independent laser source\".\n\nThey identify $SIVE / Scintil Photonics as new CW / ELS capacity, w",
+      "created_at": "2026-11-03T09:31:24Z",
+      "likes": 822,
+      "retweets": 44,
+      "replies": 66,
+      "views": 191122,
+      "bookmarks": 261
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117556261378298059",
+      "text_preview": "@riverio1e $CIEN was another company that explicitly cited bottlenecks with lasers last month... \n\nWanlian Securities also flagged Ciena today as a candidate for supplier diversification following the",
+      "created_at": "2026-11-03T09:55:29Z",
+      "likes": 96,
+      "retweets": 8,
+      "replies": 5,
+      "views": 14056,
+      "bookmarks": 15
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117664715811995717",
+      "text_preview": "$AAOI signs $194.4M/year contract with Yuunan Germanium. \n\nThis is for 2027 alone, with a 5 year contract. Given an implied total of ~$970M in InP substrates over 5 years (before price hikes)\n\nHmm jus",
+      "created_at": "2026-11-03T17:06:27Z",
+      "likes": 828,
+      "retweets": 41,
+      "replies": 45,
+      "views": 139508,
+      "bookmarks": 141
     }
   ]
 }

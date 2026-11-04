@@ -1,8 +1,8 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 78,
-  "bullish": 16,
+  "total_mentions": 79,
+  "bullish": 17,
   "bearish": 15,
   "neutral": 47,
   "posts": [
@@ -1019,6 +1019,19 @@
       "replies": 51,
       "views": 143744,
       "bookmarks": 109
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2117634458778247210",
+      "text_preview": "Agility Robotics merger is now approved!\n\n$AGLT is expected to begin trading November 5th, following the November 4 closing... As the first US pure-play humanoid company!\n\nThe company is backed by $NV",
+      "created_at": "2026-11-03T15:06:13Z",
+      "likes": 589,
+      "retweets": 31,
+      "replies": 52,
+      "views": 138190,
+      "bookmarks": 213
     }
   ]
 }
