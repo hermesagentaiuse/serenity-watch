@@ -1,37 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 79,
-  "bullish": 17,
-  "bearish": 15,
+  "total_mentions": 78,
+  "bullish": 15,
+  "bearish": 16,
   "neutral": 47,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2085603590903902621",
-      "text_preview": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO ",
-      "created_at": "2026-08-07T05:46:59+00:00",
-      "likes": 1509,
-      "retweets": 133,
-      "replies": 108,
-      "views": 516877,
-      "bookmarks": 459
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2085606635834388515",
-      "text_preview": "@00m00oo I'm extremely bullish on $AAOI, it's one of my top holdings? \n\nBut there's an unholy amount of things to unpack when AOI said they're not participating in first-gen CPO deployments because th",
-      "created_at": "2026-08-07T05:59:05+00:00",
-      "likes": 167,
-      "retweets": 4,
-      "replies": 10,
-      "views": 21846,
-      "bookmarks": 29
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1032,6 +1006,19 @@
       "replies": 52,
       "views": 138190,
       "bookmarks": 213
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2118035778253283768",
+      "text_preview": "[](https://x.com/aleabitoreddit) For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe That even a 20-30% overall demand reduction from a hypothetical DC slowdown would likel",
+      "created_at": "2026-11-04T17:40:55Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
     }
   ]
 }

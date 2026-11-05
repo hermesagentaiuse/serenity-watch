@@ -1,24 +1,34 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T09:00:37.932292+00:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T09:00:44.689517+00:00",
   "has_baseline": true,
-  "new_mention_count": 11,
+  "new_mention_count": 14,
   "new_posts": [
-    "2117437833820672397",
-    "2117447704662208721",
-    "2117493886100918684",
-    "2117539121434591711",
-    "2117550199895896490",
-    "2117556261378298059",
-    "2117634458778247210",
-    "2117664715811995717"
+    "2118004727053218010",
+    "2118015527440515458",
+    "2118035778253283768",
+    "2118044688829845703"
   ],
   "by_ticker": [
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 4,
-      "bullish": 1,
+      "ticker": "MU",
+      "company": "Micron",
+      "new": 2,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
+      "new": 2,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "new": 2,
+      "bullish": 0,
       "bearish": 0
     },
     {
@@ -26,14 +36,42 @@
       "company": "Cloudflare",
       "new": 2,
       "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 1,
+      "bullish": 0,
       "bearish": 1
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "new": 2,
-      "bullish": 1,
-      "bearish": 0
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
     },
     {
       "ticker": "AMD",
@@ -41,20 +79,6 @@
       "new": 1,
       "bullish": 0,
       "bearish": 1
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 1,
-      "bullish": 1,
-      "bearish": 0
     }
   ]
 }

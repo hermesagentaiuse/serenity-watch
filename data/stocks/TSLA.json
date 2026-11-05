@@ -1,10 +1,10 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 10,
+  "total_mentions": 11,
   "bullish": 3,
   "bearish": 0,
-  "neutral": 7,
+  "neutral": 8,
   "posts": [
     {
       "ticker": "TSLA",
@@ -135,6 +135,19 @@
       "replies": 6,
       "views": 6887,
       "bookmarks": 5
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "stance": "neutral",
+      "post_id": "2118015527440515458",
+      "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
+      "created_at": "2026-11-04T16:20:27Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
     }
   ]
 }

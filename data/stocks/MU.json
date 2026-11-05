@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 35,
+  "total_mentions": 37,
   "bullish": 7,
   "bearish": 10,
-  "neutral": 18,
+  "neutral": 20,
   "posts": [
     {
       "ticker": "MU",
@@ -460,6 +460,32 @@
       "replies": 84,
       "views": 231406,
       "bookmarks": 154
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2118004727053218010",
+      "text_preview": "We’re seeing the great rotation into safe, quality assets. $DUOL +34.86% $MU -4.41%",
+      "created_at": "2026-11-04T15:37:32Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2118015527440515458",
+      "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
+      "created_at": "2026-11-04T16:20:27Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
     }
   ]
 }

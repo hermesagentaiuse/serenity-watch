@@ -1,10 +1,10 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 23,
+  "total_mentions": 25,
   "bullish": 11,
   "bearish": 4,
-  "neutral": 8,
+  "neutral": 10,
   "posts": [
     {
       "ticker": "AMZN",
@@ -304,6 +304,32 @@
       "replies": 52,
       "views": 138190,
       "bookmarks": 213
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "neutral",
+      "post_id": "2118015527440515458",
+      "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
+      "created_at": "2026-11-04T16:20:27Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "neutral",
+      "post_id": "2118044688829845703",
+      "text_preview": "## Post ## Serenity on X: \"Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% ",
+      "created_at": "2026-11-04T18:16:19Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
     }
   ]
 }
