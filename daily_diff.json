@@ -1,84 +1,8 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T09:00:44.689517+00:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T09:01:18.151312+00:00",
   "has_baseline": true,
-  "new_mention_count": 14,
-  "new_posts": [
-    "2118004727053218010",
-    "2118015527440515458",
-    "2118035778253283768",
-    "2118044688829845703"
-  ],
-  "by_ticker": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    }
-  ]
+  "new_mention_count": 0,
+  "new_posts": [],
+  "by_ticker": []
 }
