@@ -1,10 +1,10 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 38,
-  "bullish": 9,
+  "total_mentions": 40,
+  "bullish": 10,
   "bearish": 1,
-  "neutral": 28,
+  "neutral": 29,
   "posts": [
     {
       "ticker": "MRVL",
@@ -499,6 +499,32 @@
       "replies": 5,
       "views": 14056,
       "bookmarks": 15
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2118200689453314341",
+      "text_preview": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ",
+      "created_at": "2026-11-05T04:36:13Z",
+      "likes": 864,
+      "retweets": 49,
+      "replies": 71,
+      "views": 242261,
+      "bookmarks": 212
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "bullish",
+      "post_id": "2118206374689853853",
+      "text_preview": "@ThePivotDad Yes $AAOI had a massive InP substrate purchase order earlier, and I don’t believe all of that is going toward transceiver lasers that Rosenblatt modeled.\n\nI believe have the similar 60%+ ",
+      "created_at": "2026-11-05T04:58:48Z",
+      "likes": 131,
+      "retweets": 2,
+      "replies": 7,
+      "views": 19114,
+      "bookmarks": 26
     }
   ]
 }

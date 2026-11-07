@@ -1,24 +1,11 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 9,
+  "total_mentions": 8,
   "bullish": 1,
   "bearish": 3,
-  "neutral": 5,
+  "neutral": 4,
   "posts": [
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
-      "stance": "neutral",
-      "post_id": "2086157318065168490",
-      "text_preview": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:\n\nFirst, you look at hyperscaler earnings for AI cloud read through: \n\n> $GOOGL: reports record AI cloud demand + backlog + margin",
-      "created_at": "2026-08-08T18:27:18+00:00",
-      "likes": 1761,
-      "retweets": 79,
-      "replies": 174,
-      "views": 250416,
-      "bookmarks": 459
-    },
     {
       "ticker": "META",
       "company": "Meta (Facebook)",

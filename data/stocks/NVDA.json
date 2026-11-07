@@ -1,8 +1,8 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 78,
-  "bullish": 15,
+  "total_mentions": 79,
+  "bullish": 16,
   "bearish": 16,
   "neutral": 47,
   "posts": [
@@ -1019,6 +1019,19 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2118605467459199016",
+      "text_preview": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential t",
+      "created_at": "2026-11-06T07:24:39Z",
+      "likes": 2865,
+      "retweets": 179,
+      "replies": 219,
+      "views": 414392,
+      "bookmarks": 1151
     }
   ]
 }

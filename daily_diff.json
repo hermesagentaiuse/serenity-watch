@@ -1,8 +1,80 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T09:01:18.151312+00:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T09:00:35.384700+00:00",
   "has_baseline": true,
-  "new_mention_count": 0,
-  "new_posts": [],
-  "by_ticker": []
+  "new_mention_count": 14,
+  "new_posts": [
+    "2118049698733064433",
+    "2118200689453314341",
+    "2118206374689853853",
+    "2118258090328162483",
+    "2118422637320007721",
+    "2118569237128286343",
+    "2118605467459199016"
+  ],
+  "by_ticker": [
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "new": 4,
+      "bullish": 3,
+      "bearish": 0
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "new": 2,
+      "bullish": 2,
+      "bearish": 0
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "new": 2,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "new": 1,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 1,
+      "bullish": 1,
+      "bearish": 0
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "new": 1,
+      "bullish": 1,
+      "bearish": 0
+    }
+  ]
 }

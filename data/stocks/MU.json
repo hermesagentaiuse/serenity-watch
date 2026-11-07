@@ -9,19 +9,6 @@
     {
       "ticker": "MU",
       "company": "Micron",
-      "stance": "bullish",
-      "post_id": "2086148557187461412",
-      "text_preview": "Yes, I'm still bullish on memory like $MU / Samsung.\n\nAs I said earlier, markets tend to rotate from bottleneck to bottleneck.\n\nThis week it looks $AXTI to $LITE in the photonics sector is the focus a",
-      "created_at": "2026-08-08T17:52:29+00:00",
-      "likes": 1654,
-      "retweets": 120,
-      "replies": 95,
-      "views": 278920,
-      "bookmarks": 446
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
       "stance": "neutral",
       "post_id": "2088226398708338889",
       "text_preview": "The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon https://t.co/6Xyih3pM9D",
@@ -486,6 +473,19 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bullish",
+      "post_id": "2118049698733064433",
+      "text_preview": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the f",
+      "created_at": "2026-11-04T18:36:14Z",
+      "likes": 1683,
+      "retweets": 111,
+      "replies": 116,
+      "views": 317940,
+      "bookmarks": 272
     }
   ]
 }

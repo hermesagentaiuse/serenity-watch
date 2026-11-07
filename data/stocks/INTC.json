@@ -1,8 +1,8 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 16,
-  "bullish": 3,
+  "total_mentions": 18,
+  "bullish": 5,
   "bearish": 1,
   "neutral": 12,
   "posts": [
@@ -213,6 +213,32 @@
       "replies": 94,
       "views": 288996,
       "bookmarks": 319
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "bullish",
+      "post_id": "2118049698733064433",
+      "text_preview": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the f",
+      "created_at": "2026-11-04T18:36:14Z",
+      "likes": 1683,
+      "retweets": 111,
+      "replies": 116,
+      "views": 317940,
+      "bookmarks": 272
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "bullish",
+      "post_id": "2118605467459199016",
+      "text_preview": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential t",
+      "created_at": "2026-11-06T07:24:39Z",
+      "likes": 2865,
+      "retweets": 179,
+      "replies": 219,
+      "views": 414392,
+      "bookmarks": 1151
     }
   ]
 }

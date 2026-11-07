@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 87,
-  "bullish": 25,
+  "total_mentions": 90,
+  "bullish": 27,
   "bearish": 18,
-  "neutral": 44,
+  "neutral": 45,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2086148557187461412",
-      "text_preview": "Yes, I'm still bullish on memory like $MU / Samsung.\n\nAs I said earlier, markets tend to rotate from bottleneck to bottleneck.\n\nThis week it looks $AXTI to $LITE in the photonics sector is the focus a",
-      "created_at": "2026-08-08T17:52:29+00:00",
-      "likes": 1654,
-      "retweets": 120,
-      "replies": 95,
-      "views": 278920,
-      "bookmarks": 446
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1136,6 +1123,58 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2118200689453314341",
+      "text_preview": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ",
+      "created_at": "2026-11-05T04:36:13Z",
+      "likes": 864,
+      "retweets": 49,
+      "replies": 71,
+      "views": 242261,
+      "bookmarks": 212
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2118206374689853853",
+      "text_preview": "@ThePivotDad Yes $AAOI had a massive InP substrate purchase order earlier, and I don’t believe all of that is going toward transceiver lasers that Rosenblatt modeled.\n\nI believe have the similar 60%+ ",
+      "created_at": "2026-11-05T04:58:48Z",
+      "likes": 131,
+      "retweets": 2,
+      "replies": 7,
+      "views": 19114,
+      "bookmarks": 26
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2118569237128286343",
+      "text_preview": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages. \n\nThis LTA explicitly includes lasers, very mat",
+      "created_at": "2026-11-06T05:00:41Z",
+      "likes": 1175,
+      "retweets": 67,
+      "replies": 94,
+      "views": 221344,
+      "bookmarks": 320
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2118605467459199016",
+      "text_preview": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential t",
+      "created_at": "2026-11-06T07:24:39Z",
+      "likes": 2865,
+      "retweets": 179,
+      "replies": 219,
+      "views": 414392,
+      "bookmarks": 1151
     }
   ]
 }

@@ -1,24 +1,11 @@
 {
   "ticker": "UBER",
   "company": "Uber",
-  "total_mentions": 2,
+  "total_mentions": 1,
   "bullish": 0,
   "bearish": 0,
-  "neutral": 2,
+  "neutral": 1,
   "posts": [
-    {
-      "ticker": "UBER",
-      "company": "Uber",
-      "stance": "neutral",
-      "post_id": "2086157318065168490",
-      "text_preview": "Today I'm writing a weekend guide on how to do DD when shorting $NBIS:\n\nFirst, you look at hyperscaler earnings for AI cloud read through: \n\n> $GOOGL: reports record AI cloud demand + backlog + margin",
-      "created_at": "2026-08-08T18:27:18+00:00",
-      "likes": 1761,
-      "retweets": 79,
-      "replies": 174,
-      "views": 250416,
-      "bookmarks": 459
-    },
     {
       "ticker": "UBER",
       "company": "Uber",

@@ -1,10 +1,10 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 11,
+  "total_mentions": 12,
   "bullish": 3,
   "bearish": 0,
-  "neutral": 8,
+  "neutral": 9,
   "posts": [
     {
       "ticker": "TSLA",
@@ -148,6 +148,19 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "stance": "neutral",
+      "post_id": "2118258090328162483",
+      "text_preview": "@Dubbiosismo @elonmusk Elon is the perfect example though, on what you should do to dispute the BS\n\nIf there’s a false WSJ report or X post on $TSLA or $SPCX… Even if it’s something as little as space",
+      "created_at": "2026-11-05T08:24:18Z",
+      "likes": 132,
+      "retweets": 1,
+      "replies": 7,
+      "views": 20375,
+      "bookmarks": 4
     }
   ]
 }
