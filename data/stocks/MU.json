@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 37,
+  "total_mentions": 40,
   "bullish": 7,
   "bearish": 10,
-  "neutral": 20,
+  "neutral": 23,
   "posts": [
     {
       "ticker": "MU",
@@ -486,6 +486,45 @@
       "replies": 116,
       "views": 317940,
       "bookmarks": 272
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2119023086502805730",
+      "text_preview": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\": \n\n$MU: \"strategic customer agreements cann",
+      "created_at": "2026-11-07T11:04:08Z",
+      "likes": 571,
+      "retweets": 29,
+      "replies": 62,
+      "views": 141753,
+      "bookmarks": 136
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2119097842363211968",
+      "text_preview": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implicat",
+      "created_at": "2026-11-07T16:01:11Z",
+      "likes": 374,
+      "retweets": 26,
+      "replies": 49,
+      "views": 70667,
+      "bookmarks": 67
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2119115555093557488",
+      "text_preview": "@jukan05 Yep! That's a fair example with onsemi. But I'm not quite sure it's appropriate to extrapolate from historical examples of mutually agreed contract changes.\n\nAnd apply that to today's memory ",
+      "created_at": "2026-11-07T17:11:34Z",
+      "likes": 91,
+      "retweets": 3,
+      "replies": 2,
+      "views": 14426,
+      "bookmarks": 6
     }
   ]
 }

@@ -1,24 +1,11 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 23,
+  "total_mentions": 22,
   "bullish": 8,
   "bearish": 3,
-  "neutral": 12,
+  "neutral": 11,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "neutral",
-      "post_id": "2086634510935118161",
-      "text_preview": "Just some near term events:\n\n- OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates.\n\nThis should be a catalyst for certain optical players.\n\n- Earn",
-      "created_at": "2026-08-10T02:03:29+00:00",
-      "likes": 1081,
-      "retweets": 57,
-      "replies": 127,
-      "views": 285563,
-      "bookmarks": 274
-    },
     {
       "ticker": "AMD",
       "company": "AMD",

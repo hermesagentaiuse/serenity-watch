@@ -1,10 +1,10 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 12,
+  "total_mentions": 13,
   "bullish": 3,
   "bearish": 2,
-  "neutral": 7,
+  "neutral": 8,
   "posts": [
     {
       "ticker": "MSFT",
@@ -161,6 +161,19 @@
       "replies": 8,
       "views": 21555,
       "bookmarks": 26
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "stance": "neutral",
+      "post_id": "2119087830907666759",
+      "text_preview": "@invest4introver $MSFT an old 2023 contract to support AI-powered Bing ended, and Microsoft declined to renew. \n\nOlder generation GPUs did not fit this specific customers use case, that doesn't mean t",
+      "created_at": "2026-11-07T15:21:24Z",
+      "likes": 61,
+      "retweets": 0,
+      "replies": 3,
+      "views": 9170,
+      "bookmarks": 2
     }
   ]
 }
