@@ -1,24 +1,11 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 22,
-  "bullish": 8,
+  "total_mentions": 21,
+  "bullish": 7,
   "bearish": 3,
   "neutral": 11,
   "posts": [
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "stance": "bullish",
-      "post_id": "2086988264448409739",
-      "text_preview": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y.\n\n$AMD also exercised its option to expand its existing deal with Riot. (And they still have a",
-      "created_at": "2026-08-11T01:29:11+00:00",
-      "likes": 787,
-      "retweets": 38,
-      "replies": 97,
-      "views": 228536,
-      "bookmarks": 118
-    },
     {
       "ticker": "AMD",
       "company": "AMD",

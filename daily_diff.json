@@ -1,81 +1,24 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T09:00:55.635421+00:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T09:00:14.121455+00:00",
   "has_baseline": true,
-  "new_mention_count": 15,
+  "new_mention_count": 2,
   "new_posts": [
-    "2118954148398080283",
-    "2119023086502805730",
-    "2119025765308350564",
-    "2119031172705771860",
-    "2119056343462203480",
-    "2119087830907666759",
-    "2119097842363211968",
-    "2119100095341998329",
-    "2119115555093557488"
+    "2119363124147191823"
   ],
   "by_ticker": [
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 4,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "new": 3,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
       "ticker": "LITE",
       "company": "Lumentum",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
       "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "new": 1,
-      "bullish": 0,
+      "bullish": 1,
       "bearish": 0
     },
     {
       "ticker": "NET",
       "company": "Cloudflare",
       "new": 1,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "new": 1,
-      "bullish": 0,
+      "bullish": 1,
       "bearish": 0
     }
   ]

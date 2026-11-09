@@ -1,24 +1,11 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 25,
+  "total_mentions": 24,
   "bullish": 11,
   "bearish": 4,
-  "neutral": 10,
+  "neutral": 9,
   "posts": [
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "stance": "neutral",
-      "post_id": "2087000954742927390",
-      "text_preview": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. \n\nThe demand for pure play humanoid companies is absolutely enormous?\n\nI'm personally in the US-based Agility Roboti",
-      "created_at": "2026-08-11T02:19:36+00:00",
-      "likes": 1196,
-      "retweets": 76,
-      "replies": 127,
-      "views": 265826,
-      "bookmarks": 280
-    },
     {
       "ticker": "AMZN",
       "company": "Amazon",
