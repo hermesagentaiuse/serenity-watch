@@ -1,24 +1,11 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 13,
+  "total_mentions": 12,
   "bullish": 3,
   "bearish": 2,
-  "neutral": 8,
+  "neutral": 7,
   "posts": [
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft",
-      "stance": "neutral",
-      "post_id": "2087266070919012664",
-      "text_preview": "@NicolaRussoIT Not as familiar with adoption read through with $ANET XPO MSA (ik $MSFT has been the most openly supportive).. so can't really give a good answer to implications on other players like $",
-      "created_at": "2026-08-11T19:53:05+00:00",
-      "likes": 27,
-      "retweets": 0,
-      "replies": 8,
-      "views": 8764,
-      "bookmarks": 5
-    },
     {
       "ticker": "MSFT",
       "company": "Microsoft",

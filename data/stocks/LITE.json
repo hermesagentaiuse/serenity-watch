@@ -1,76 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 90,
-  "bullish": 27,
+  "total_mentions": 87,
+  "bullish": 26,
   "bearish": 19,
-  "neutral": 44,
+  "neutral": 42,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2087271842696593764",
-      "text_preview": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6",
-      "created_at": "2026-08-11T20:16:01+00:00",
-      "likes": 1145,
-      "retweets": 81,
-      "replies": 73,
-      "views": 248822,
-      "bookmarks": 145
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2087285356999958663",
-      "text_preview": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand rea",
-      "created_at": "2026-08-11T21:09:43+00:00",
-      "likes": 1331,
-      "retweets": 88,
-      "replies": 79,
-      "views": 185644,
-      "bookmarks": 206
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2087329770879197549",
-      "text_preview": "$LITE earnings transcript TLDRs:\n\n- \"Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power  laser chips in the se",
-      "created_at": "2026-08-12T00:06:12+00:00",
-      "likes": 297,
-      "retweets": 27,
-      "replies": 31,
-      "views": 81527,
-      "bookmarks": 76
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2087447527595692180",
-      "text_preview": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price u",
-      "created_at": "2026-08-12T07:54:08+00:00",
-      "likes": 1301,
-      "retweets": 92,
-      "replies": 90,
-      "views": 271853,
-      "bookmarks": 354
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2087450836616298968",
-      "text_preview": "@Berlinergy I said $LITE went from $3b to $60B+ over a 2-3 year timeframe, especially due from Cloud Light acquisition in late 2023, that multiplied TAM by 5x+.  \n\nSince they started off in the EML la",
-      "created_at": "2026-08-12T08:07:17+00:00",
-      "likes": 208,
-      "retweets": 6,
-      "replies": 17,
-      "views": 27547,
-      "bookmarks": 23
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1175,6 +1110,32 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2119458038260318634",
+      "text_preview": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in wh",
+      "created_at": "2026-11-08T15:52:28Z",
+      "likes": 1358,
+      "retweets": 107,
+      "replies": 99,
+      "views": 293922,
+      "bookmarks": 383
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2119807048204595582",
+      "text_preview": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH https://t.co/s28Ad2oIbd",
+      "created_at": "2026-11-09T14:59:19Z",
+      "likes": 981,
+      "retweets": 29,
+      "replies": 98,
+      "views": 199482,
+      "bookmarks": 76
     }
   ]
 }

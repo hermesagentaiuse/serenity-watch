@@ -1,24 +1,11 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 23,
+  "total_mentions": 22,
   "bullish": 4,
-  "bearish": 3,
+  "bearish": 2,
   "neutral": 16,
   "posts": [
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "stance": "bearish",
-      "post_id": "2087447527595692180",
-      "text_preview": "So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. \n\nFrom optical earnings: \n\n1. $LITE: unexpected demand and imbalance for UHP CW lasers. \n\n- Had ability to price u",
-      "created_at": "2026-08-12T07:54:08+00:00",
-      "likes": 1301,
-      "retweets": 92,
-      "replies": 90,
-      "views": 271853,
-      "bookmarks": 354
-    },
     {
       "ticker": "AVGO",
       "company": "Broadcom",

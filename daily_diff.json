@@ -1,25 +1,35 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T09:00:14.121455+00:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T09:01:31.624145+00:00",
   "has_baseline": true,
-  "new_mention_count": 2,
+  "new_mention_count": 5,
   "new_posts": [
-    "2119363124147191823"
+    "2119458038260318634",
+    "2119633154629881997",
+    "2119689635869954503",
+    "2119807048204595582"
   ],
   "by_ticker": [
     {
       "ticker": "LITE",
       "company": "Lumentum",
-      "new": 1,
-      "bullish": 1,
+      "new": 2,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "new": 2,
+      "bullish": 0,
       "bearish": 0
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "new": 1,
-      "bullish": 1,
-      "bearish": 0
+      "bullish": 0,
+      "bearish": 1
     }
   ]
 }

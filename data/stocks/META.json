@@ -1,9 +1,9 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 8,
+  "total_mentions": 9,
   "bullish": 1,
-  "bearish": 3,
+  "bearish": 4,
   "neutral": 4,
   "posts": [
     {
@@ -109,6 +109,19 @@
       "replies": 233,
       "views": 152109,
       "bookmarks": 111
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "bearish",
+      "post_id": "2119458038260318634",
+      "text_preview": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in wh",
+      "created_at": "2026-11-08T15:52:28Z",
+      "likes": 1358,
+      "retweets": 107,
+      "replies": 99,
+      "views": 293922,
+      "bookmarks": 383
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 81,
+  "total_mentions": 83,
   "bullish": 16,
   "bearish": 16,
-  "neutral": 49,
+  "neutral": 51,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1058,6 +1058,32 @@
       "replies": 3,
       "views": 7773,
       "bookmarks": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2119633154629881997",
+      "text_preview": "I fully support $NVDA and Jensen Huang through this time.\n\nEven the most legendary figure in the AI industry is human.\n\nTrump, Clinton, Bezos, Gates, and many others have faced scrutiny over their per",
+      "created_at": "2026-11-09T03:28:19Z",
+      "likes": 2777,
+      "retweets": 118,
+      "replies": 214,
+      "views": 310688,
+      "bookmarks": 122
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2119689635869954503",
+      "text_preview": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. \n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at h",
+      "created_at": "2026-11-09T07:12:45Z",
+      "likes": 1324,
+      "retweets": 34,
+      "replies": 133,
+      "views": 374103,
+      "bookmarks": 130
     }
   ]
 }
