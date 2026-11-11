@@ -1,35 +1,33 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T09:01:31.624145+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T09:01:09.778758+00:00",
   "has_baseline": true,
-  "new_mention_count": 5,
+  "new_mention_count": 3,
   "new_posts": [
-    "2119458038260318634",
-    "2119633154629881997",
-    "2119689635869954503",
-    "2119807048204595582"
+    "2120074819878449605",
+    "2120198265346081174"
   ],
   "by_ticker": [
     {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "new": 1,
+      "bullish": 0,
+      "bearish": 1
+    },
+    {
       "ticker": "LITE",
       "company": "Lumentum",
-      "new": 2,
+      "new": 1,
       "bullish": 0,
       "bearish": 1
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 0
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
       "new": 1,
       "bullish": 0,
-      "bearish": 1
+      "bearish": 0
     }
   ]
 }

@@ -1,50 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 87,
-  "bullish": 26,
+  "total_mentions": 85,
+  "bullish": 25,
   "bearish": 19,
-  "neutral": 42,
+  "neutral": 41,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2087655011253981410",
-      "text_preview": "@mikealfred Bears are going back into hibernation after seeing all these AI earning reports from $NBIS to $LITE.",
-      "created_at": "2026-08-12T21:38:36+00:00",
-      "likes": 121,
-      "retweets": 0,
-      "replies": 9,
-      "views": 11586,
-      "bookmarks": 4
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2087675367595380783",
-      "text_preview": "My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. \n\nBut TLDR of $COHR earnings:\n\n\"given the demand that we see in our DC business with transceivers, I don’",
-      "created_at": "2026-08-12T22:59:29+00:00",
-      "likes": 432,
-      "retweets": 29,
-      "replies": 49,
-      "views": 134097,
-      "bookmarks": 133
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2087809348596814191",
-      "text_preview": "@JoelLikesTurtle That's literally the earliest timeframe possible for CPO scale up early volumes if you look at $LITE and $COHR earnings. \n\nAnd giving that specific timeframe is actually extremely bul",
-      "created_at": "2026-08-13T07:51:52+00:00",
-      "likes": 115,
-      "retweets": 2,
-      "replies": 8,
-      "views": 15029,
-      "bookmarks": 5
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1136,6 +1097,19 @@
       "replies": 98,
       "views": 199482,
       "bookmarks": 76
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bearish",
+      "post_id": "2120074819878449605",
+      "text_preview": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up t",
+      "created_at": "2026-11-10T08:43:20Z",
+      "likes": 655,
+      "retweets": 46,
+      "replies": 64,
+      "views": 186911,
+      "bookmarks": 185
     }
   ]
 }

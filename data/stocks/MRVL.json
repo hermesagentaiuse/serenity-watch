@@ -1,9 +1,9 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 41,
+  "total_mentions": 42,
   "bullish": 10,
-  "bearish": 2,
+  "bearish": 3,
   "neutral": 29,
   "posts": [
     {
@@ -538,6 +538,19 @@
       "replies": 23,
       "views": 32078,
       "bookmarks": 14
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "bearish",
+      "post_id": "2120074819878449605",
+      "text_preview": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up t",
+      "created_at": "2026-11-10T08:43:20Z",
+      "likes": 655,
+      "retweets": 46,
+      "replies": 64,
+      "views": 186911,
+      "bookmarks": 185
     }
   ]
 }

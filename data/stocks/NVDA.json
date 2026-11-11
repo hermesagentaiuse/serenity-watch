@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 83,
+  "total_mentions": 84,
   "bullish": 16,
   "bearish": 16,
-  "neutral": 51,
+  "neutral": 52,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1084,6 +1084,19 @@
       "replies": 133,
       "views": 374103,
       "bookmarks": 130
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2120198265346081174",
+      "text_preview": "It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation\n\nAfter projecting 70% supply-constrained growth FY2028.\n\nAlso probably one of the worst times for $ANT to IPO at $1.4T ahead",
+      "created_at": "2026-11-10T16:53:52Z",
+      "likes": 1223,
+      "retweets": 38,
+      "replies": 115,
+      "views": 244716,
+      "bookmarks": 115
     }
   ]
 }
