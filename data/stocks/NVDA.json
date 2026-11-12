@@ -1,24 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 84,
+  "total_mentions": 83,
   "bullish": 16,
   "bearish": 16,
-  "neutral": 52,
+  "neutral": 51,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2087857563354476920",
-      "text_preview": "@blkslymn I'm not sure if it's just me, but I'm just seeing enormous CW demand imbalance right now (thank you $NVDA). \n\nAnd this is before scale up and other 1.6T ramps even arrive. Then you have $AAO",
-      "created_at": "2026-08-13T11:03:28+00:00",
-      "likes": 132,
-      "retweets": 4,
-      "replies": 5,
-      "views": 22045,
-      "bookmarks": 15
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",

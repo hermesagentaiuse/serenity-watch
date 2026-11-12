@@ -1,24 +1,11 @@
 {
   "ticker": "RDDT",
   "company": "Reddit",
-  "total_mentions": 10,
+  "total_mentions": 9,
   "bullish": 2,
   "bearish": 2,
-  "neutral": 6,
+  "neutral": 5,
   "posts": [
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "neutral",
-      "post_id": "2088122989871333836",
-      "text_preview": "@demarscrypto $RDDT S&amp;P 500 inclusion go brrr",
-      "created_at": "2026-08-14T04:38:10+00:00",
-      "likes": 76,
-      "retweets": 1,
-      "replies": 7,
-      "views": 15162,
-      "bookmarks": 3
-    },
     {
       "ticker": "RDDT",
       "company": "Reddit",

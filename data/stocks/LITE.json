@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 85,
-  "bullish": 25,
+  "total_mentions": 84,
+  "bullish": 24,
   "bearish": 19,
   "neutral": 41,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2087838176677376186",
-      "text_preview": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distre",
-      "created_at": "2026-08-13T09:46:26+00:00",
-      "likes": 475,
-      "retweets": 22,
-      "replies": 53,
-      "views": 209304,
-      "bookmarks": 94
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
