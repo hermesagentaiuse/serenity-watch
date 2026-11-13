@@ -1,24 +1,11 @@
 {
   "ticker": "RDDT",
   "company": "Reddit",
-  "total_mentions": 9,
+  "total_mentions": 8,
   "bullish": 2,
   "bearish": 2,
-  "neutral": 5,
+  "neutral": 4,
   "posts": [
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "neutral",
-      "post_id": "2088264541675352316",
-      "text_preview": "@XIAOTU_Li I mean this was like 2 weeks ago for $RDDT, I talk about a lot of equities https://t.co/HwEuKKOiS1",
-      "created_at": "2026-08-14T14:00:39+00:00",
-      "likes": 43,
-      "retweets": 0,
-      "replies": 4,
-      "views": 11225,
-      "bookmarks": 1
-    },
     {
       "ticker": "RDDT",
       "company": "Reddit",

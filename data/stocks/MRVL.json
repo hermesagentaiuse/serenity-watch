@@ -1,24 +1,11 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 42,
-  "bullish": 10,
+  "total_mentions": 41,
+  "bullish": 9,
   "bearish": 3,
   "neutral": 29,
   "posts": [
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "bullish",
-      "post_id": "2088514723969159216",
-      "text_preview": "@Jimbo_Jones_Jr You can look at the YTDs for: \n\n- $SIVE, $IQE, $AXTI, $ARM, $MRVL, $INTC, $SOI, solana:NBiSF3UaVUFtRzHwAfxyHsBCAZWGEKnMpewAE4oh7BG, $AAOI, $LITE, $EWY, $TSEM, $AEHR, $RPI, $MU that I d",
-      "created_at": "2026-08-15T06:34:47+00:00",
-      "likes": 297,
-      "retweets": 7,
-      "replies": 31,
-      "views": 37750,
-      "bookmarks": 120
-    },
     {
       "ticker": "MRVL",
       "company": "Marvell",

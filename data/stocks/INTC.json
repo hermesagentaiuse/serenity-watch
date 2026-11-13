@@ -1,24 +1,11 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 18,
-  "bullish": 5,
+  "total_mentions": 17,
+  "bullish": 4,
   "bearish": 1,
   "neutral": 12,
   "posts": [
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "bullish",
-      "post_id": "2088514723969159216",
-      "text_preview": "@Jimbo_Jones_Jr You can look at the YTDs for: \n\n- $SIVE, $IQE, $AXTI, $ARM, $MRVL, $INTC, $SOI, solana:NBiSF3UaVUFtRzHwAfxyHsBCAZWGEKnMpewAE4oh7BG, $AAOI, $LITE, $EWY, $TSEM, $AEHR, $RPI, $MU that I d",
-      "created_at": "2026-08-15T06:34:47+00:00",
-      "likes": 297,
-      "retweets": 7,
-      "replies": 31,
-      "views": 37750,
-      "bookmarks": 120
-    },
     {
       "ticker": "INTC",
       "company": "Intel",

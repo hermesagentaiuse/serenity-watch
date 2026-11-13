@@ -1,24 +1,11 @@
 {
   "ticker": "AAPL",
   "company": "Apple",
-  "total_mentions": 8,
-  "bullish": 4,
+  "total_mentions": 7,
+  "bullish": 3,
   "bearish": 1,
   "neutral": 3,
   "posts": [
-    {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "stance": "bullish",
-      "post_id": "2088457278928412812",
-      "text_preview": "US Government urges $AAPL not to buy Chinese memory chips. \n\n$MU, $SKHY, and Samsung are happy to hear this...\n\nHilariously enough, CXMT/YMTC is price hiking too, so it's not exactly \"cheap Chinese me",
-      "created_at": "2026-08-15T02:46:31+00:00",
-      "likes": 1920,
-      "retweets": 161,
-      "replies": 122,
-      "views": 315966,
-      "bookmarks": 204
-    },
     {
       "ticker": "AAPL",
       "company": "Apple",
