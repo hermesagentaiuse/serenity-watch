@@ -1,24 +1,11 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 24,
+  "total_mentions": 23,
   "bullish": 11,
   "bearish": 4,
-  "neutral": 9,
+  "neutral": 8,
   "posts": [
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "stance": "neutral",
-      "post_id": "2088850910529323315",
-      "text_preview": "Just some TLDRs of stuff I found interesting: \n\n- $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. \n\nLTAs already 2/3r",
-      "created_at": "2026-08-16T04:50:40+00:00",
-      "likes": 1420,
-      "retweets": 99,
-      "replies": 104,
-      "views": 298985,
-      "bookmarks": 664
-    },
     {
       "ticker": "AMZN",
       "company": "Amazon",
