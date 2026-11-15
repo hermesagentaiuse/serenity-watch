@@ -1,37 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 36,
-  "bullish": 5,
-  "bearish": 10,
-  "neutral": 21,
+  "total_mentions": 35,
+  "bullish": 4,
+  "bearish": 9,
+  "neutral": 22,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bullish",
-      "post_id": "2089183484556480536",
-      "text_preview": "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.\n\nIf you get Vietnam flashbacks like I do to $MU / Samsung / SK Hy",
-      "created_at": "2026-08-17T02:52:12+00:00",
-      "likes": 1024,
-      "retweets": 52,
-      "replies": 83,
-      "views": 346703,
-      "bookmarks": 456
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bearish",
-      "post_id": "2089264987328151637",
-      "text_preview": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. \n\nPhison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"\n\n\"Upstream suppliers n",
-      "created_at": "2026-08-17T08:16:04+00:00",
-      "likes": 1507,
-      "retweets": 99,
-      "replies": 89,
-      "views": 287383,
-      "bookmarks": 263
-    },
     {
       "ticker": "MU",
       "company": "Micron",
@@ -473,6 +447,19 @@
       "replies": 2,
       "views": 14426,
       "bookmarks": 6
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2121338681571328368",
+      "text_preview": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory p",
+      "created_at": "2026-11-13T20:25:28Z",
+      "likes": 552,
+      "retweets": 27,
+      "replies": 36,
+      "views": 98404,
+      "bookmarks": 90
     }
   ]
 }

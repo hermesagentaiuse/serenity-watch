@@ -1,24 +1,11 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 12,
+  "total_mentions": 11,
   "bullish": 3,
   "bearish": 0,
-  "neutral": 9,
+  "neutral": 8,
   "posts": [
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "stance": "neutral",
-      "post_id": "2089057857652338993",
-      "text_preview": "I think @elonmusk said it best: \n\n“Robots don’t all need to be humanoid. \n\nBut a general-purpose robot intended to replace human labor should fit the world humans already built.\n\nRoger, roger.”\n\nPerso",
-      "created_at": "2026-08-16T18:33:00+00:00",
-      "likes": 812,
-      "retweets": 27,
-      "replies": 94,
-      "views": 224139,
-      "bookmarks": 62
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",

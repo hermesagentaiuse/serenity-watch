@@ -1,24 +1,11 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 22,
-  "bullish": 4,
+  "total_mentions": 21,
+  "bullish": 3,
   "bearish": 2,
   "neutral": 16,
   "posts": [
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "stance": "bullish",
-      "post_id": "2088950546879111534",
-      "text_preview": "@KhalidIshaq85 As for names Jensen / Nvidia directly invested in:\n\n- $MRVL (Celestial), $LITE, $COHR for photonics...\n- $CCXI (Agility) for humanoids. \n\nI tend to do more complex investing, for my own",
-      "created_at": "2026-08-16T11:26:35+00:00",
-      "likes": 755,
-      "retweets": 57,
-      "replies": 37,
-      "views": 73993,
-      "bookmarks": 1183
-    },
     {
       "ticker": "AVGO",
       "company": "Broadcom",

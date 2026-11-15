@@ -1,10 +1,10 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 21,
+  "total_mentions": 22,
   "bullish": 8,
   "bearish": 3,
-  "neutral": 10,
+  "neutral": 11,
   "posts": [
     {
       "ticker": "NET",
@@ -278,6 +278,19 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2120866647930187882",
+      "text_preview": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -&gt; $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -&gt; $465.8M (+97% QoQ)\nAI cloud adj. EB",
+      "created_at": "2026-11-12T13:09:47Z",
+      "likes": 1924,
+      "retweets": 129,
+      "replies": 124,
+      "views": 309864,
+      "bookmarks": 436
     }
   ]
 }

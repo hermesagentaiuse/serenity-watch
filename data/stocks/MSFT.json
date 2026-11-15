@@ -1,8 +1,8 @@
 {
   "ticker": "MSFT",
   "company": "Microsoft",
-  "total_mentions": 11,
-  "bullish": 3,
+  "total_mentions": 12,
+  "bullish": 4,
   "bearish": 2,
   "neutral": 6,
   "posts": [
@@ -148,6 +148,19 @@
       "replies": 3,
       "views": 9170,
       "bookmarks": 2
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "stance": "bullish",
+      "post_id": "2120875484905091274",
+      "text_preview": "@CryptoVandelay So there's the positive fundamental long term outlook that I've interpreted. \n\nOn the other hand, there's near term headwinds that I highlighted above, which markets are pricing in. \n\n",
+      "created_at": "2026-11-12T13:44:54Z",
+      "likes": 145,
+      "retweets": 5,
+      "replies": 5,
+      "views": 20174,
+      "bookmarks": 17
     }
   ]
 }

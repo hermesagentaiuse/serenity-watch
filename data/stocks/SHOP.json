@@ -1,0 +1,36 @@
+{
+  "ticker": "SHOP",
+  "company": "Shopify",
+  "total_mentions": 2,
+  "bullish": 0,
+  "bearish": 0,
+  "neutral": 2,
+  "posts": [
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "stance": "neutral",
+      "post_id": "2121182068558446730",
+      "text_preview": "$SHOP CEO: 今天，真正的 $NVDA 就此终结。\n\n取而代之的，不过是一个披着英伟达外衣、徒有其形的仿冒品。\n\n未来掌舵的，将不再是开创者，而只是一群守成的看管者。他们会竭力守护黄仁勋亲手点燃的那团火焰，却终究无法让它延续下去。 https://t.co/pwmAJx1gdv",
+      "created_at": "2026-11-13T10:03:09Z",
+      "likes": 2014,
+      "retweets": 129,
+      "replies": 130,
+      "views": 226018,
+      "bookmarks": 144
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
+      "stance": "neutral",
+      "post_id": "2121203324167037436",
+      "text_preview": "Just to state the nuances of my opinion: Jensen is irreplaceable to $NVDA.\n\nNo other CEO can visit a chicken shop in Korea, noodle shop in Japan\n\nAnd rally hundred of billions of capital and supply ch",
+      "created_at": "2026-11-13T11:27:37Z",
+      "likes": 2156,
+      "retweets": 115,
+      "replies": 134,
+      "views": 287090,
+      "bookmarks": 248
+    }
+  ]
+}

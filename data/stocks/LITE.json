@@ -2,36 +2,10 @@
   "ticker": "LITE",
   "company": "Lumentum",
   "total_mentions": 81,
-  "bullish": 23,
+  "bullish": 22,
   "bearish": 19,
-  "neutral": 39,
+  "neutral": 40,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2088947694886920409",
-      "text_preview": "I feel like AI investing is simpler than what people expect. \n\nBecause $NVDA + Jensen literally tells everyone what's coming. \n\nBut somehow. Almost every. single. time. Markets dismiss it until it act",
-      "created_at": "2026-08-16T11:15:15+00:00",
-      "likes": 5297,
-      "retweets": 353,
-      "replies": 253,
-      "views": 649204,
-      "bookmarks": 3984
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2088950546879111534",
-      "text_preview": "@KhalidIshaq85 As for names Jensen / Nvidia directly invested in:\n\n- $MRVL (Celestial), $LITE, $COHR for photonics...\n- $CCXI (Agility) for humanoids. \n\nI tend to do more complex investing, for my own",
-      "created_at": "2026-08-16T11:26:35+00:00",
-      "likes": 755,
-      "retweets": 57,
-      "replies": 37,
-      "views": 73993,
-      "bookmarks": 1183
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -1058,6 +1032,32 @@
       "replies": 64,
       "views": 186911,
       "bookmarks": 185
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2121221289440665737",
+      "text_preview": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung",
+      "created_at": "2026-11-13T12:39:00Z",
+      "likes": 526,
+      "retweets": 24,
+      "replies": 65,
+      "views": 170953,
+      "bookmarks": 84
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2121338681571328368",
+      "text_preview": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory p",
+      "created_at": "2026-11-13T20:25:28Z",
+      "likes": 552,
+      "retweets": 27,
+      "replies": 36,
+      "views": 98404,
+      "bookmarks": 90
     }
   ]
 }
