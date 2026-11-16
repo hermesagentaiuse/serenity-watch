@@ -1,24 +1,11 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 23,
-  "bullish": 11,
+  "total_mentions": 22,
+  "bullish": 10,
   "bearish": 4,
   "neutral": 8,
   "posts": [
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "stance": "bullish",
-      "post_id": "2089383553222287767",
-      "text_preview": "@tRbW6qAUT717891 I can't buy A-Shares, so I'm sticking with US markets. \n\nAgility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids.  \n\nBut I'm cheering on everyone who wo",
-      "created_at": "2026-08-17T16:07:12+00:00",
-      "likes": 73,
-      "retweets": 0,
-      "replies": 8,
-      "views": 14612,
-      "bookmarks": 7
-    },
     {
       "ticker": "AMZN",
       "company": "Amazon",

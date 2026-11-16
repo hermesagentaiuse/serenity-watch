@@ -1,24 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 97,
-  "bullish": 20,
+  "total_mentions": 101,
+  "bullish": 19,
   "bearish": 17,
-  "neutral": 60,
+  "neutral": 65,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2089383553222287767",
-      "text_preview": "@tRbW6qAUT717891 I can't buy A-Shares, so I'm sticking with US markets. \n\nAgility via $CCXI( $NVDA, $AMZN, Softbank backed) is my personal exposure to humanoids.  \n\nBut I'm cheering on everyone who wo",
-      "created_at": "2026-08-17T16:07:12+00:00",
-      "likes": 73,
-      "retweets": 0,
-      "replies": 8,
-      "views": 14612,
-      "bookmarks": 7
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1266,6 +1253,71 @@
       "replies": 136,
       "views": 349649,
       "bookmarks": 244
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2121852636261724398",
+      "text_preview": "Western media coverage of $NVDA and Jensen Huang have reached a point\n\nWhere it even gives Chinese people more pride in CCP state media.\n\nVery dark times for Western journalism. https://t.co/oJ8eEgOID",
+      "created_at": "2026-11-15T06:27:45Z",
+      "likes": 2888,
+      "retweets": 153,
+      "replies": 195,
+      "views": 373833,
+      "bookmarks": 308
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2121918080293196209",
+      "text_preview": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m",
+      "created_at": "2026-11-15T10:47:48Z",
+      "likes": 1075,
+      "retweets": 56,
+      "replies": 75,
+      "views": 300678,
+      "bookmarks": 533
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2121981880480522483",
+      "text_preview": "I've posted a lot about $NVDA because Jensen Huang is worth fighting for.\n\nTalking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI. \n\nA fr",
+      "created_at": "2026-11-15T15:01:19Z",
+      "likes": 1850,
+      "retweets": 77,
+      "replies": 126,
+      "views": 278897,
+      "bookmarks": 81
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2121984477908160727",
+      "text_preview": "@thurbodegen I'll take one for the team if that's what it takes for Jensen to return as CEO of $NVDA",
+      "created_at": "2026-11-15T15:11:38Z",
+      "likes": 197,
+      "retweets": 2,
+      "replies": 11,
+      "views": 17266,
+      "bookmarks": 2
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2122046823934407066",
+      "text_preview": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G https://t.co/9oGjxu1gvr",
+      "created_at": "2026-11-15T19:19:23Z",
+      "likes": 1861,
+      "retweets": 99,
+      "replies": 97,
+      "views": 133231,
+      "bookmarks": 68
     }
   ]
 }
