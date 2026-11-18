@@ -1,10 +1,10 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 17,
+  "total_mentions": 16,
   "bullish": 4,
   "bearish": 1,
-  "neutral": 12,
+  "neutral": 11,
   "posts": [
     {
       "ticker": "INTC",
@@ -49,26 +49,13 @@
       "ticker": "INTC",
       "company": "Intel",
       "stance": "neutral",
-      "post_id": "2096814311306129776",
-      "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
-      "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2202,
-      "retweets": 171,
-      "replies": 96,
-      "views": 465798,
-      "bookmarks": 0
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
       "post_id": "2097232588796780856",
       "text_preview": "So $INTC is raising PC CPU prices by 10% apparently in October per Digitimes, which I think markets might appreciate.\n\nThe legacy memory trade also just going brrr from August revenues:\n\n-> ESMT reven",
       "created_at": "2026-09-08T07:56:28+00:00",
-      "likes": 719,
+      "likes": 718,
       "retweets": 24,
       "replies": 56,
-      "views": 227764,
+      "views": 228043,
       "bookmarks": 0
     },
     {

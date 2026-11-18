@@ -1,50 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 81,
+  "total_mentions": 77,
   "bullish": 22,
-  "bearish": 19,
-  "neutral": 40,
+  "bearish": 18,
+  "neutral": 37,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2089714869876764762",
-      "text_preview": "@pkcapital_ The AI semi theme is down if you look at $AVGO to $TSM. Higher beta names seem to have been hit the hardest. \n\nFrom trends I've seen with  optical names, $LITE / $COHR recovered fastest, t",
-      "created_at": "2026-08-18T14:03:44+00:00",
-      "likes": 140,
-      "retweets": 3,
-      "replies": 12,
-      "views": 24225,
-      "bookmarks": 26
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2089766053274661143",
-      "text_preview": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get",
-      "created_at": "2026-08-18T17:27:07+00:00",
-      "likes": 1141,
-      "retweets": 73,
-      "replies": 99,
-      "views": 188008,
-      "bookmarks": 235
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2089973586425766134",
-      "text_preview": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behi",
-      "created_at": "2026-08-19T07:11:47+00:00",
-      "likes": 1317,
-      "retweets": 91,
-      "replies": 112,
-      "views": 239070,
-      "bookmarks": 302
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
@@ -283,26 +244,13 @@
       "ticker": "LITE",
       "company": "Lumentum",
       "stance": "neutral",
-      "post_id": "2096814311306129776",
-      "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
-      "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2202,
-      "retweets": 171,
-      "replies": 96,
-      "views": 465798,
-      "bookmarks": 0
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
       "post_id": "2096890295128625153",
       "text_preview": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies",
       "created_at": "2026-09-07T09:16:19+00:00",
-      "likes": 670,
-      "retweets": 38,
+      "likes": 669,
+      "retweets": 39,
       "replies": 40,
-      "views": 299223,
+      "views": 299522,
       "bookmarks": 0
     },
     {
@@ -315,7 +263,7 @@
       "likes": 764,
       "retweets": 54,
       "replies": 63,
-      "views": 315034,
+      "views": 315540,
       "bookmarks": 0
     },
     {
@@ -338,10 +286,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1333,
+      "likes": 1329,
       "retweets": 97,
-      "replies": 100,
-      "views": 450672,
+      "replies": 96,
+      "views": 451181,
       "bookmarks": 0
     },
     {

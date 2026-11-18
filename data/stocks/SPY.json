@@ -1,10 +1,10 @@
 {
   "ticker": "SPY",
   "company": "S&P 500 ETF",
-  "total_mentions": 3,
+  "total_mentions": 4,
   "bullish": 1,
   "bearish": 0,
-  "neutral": 2,
+  "neutral": 3,
   "posts": [
     {
       "ticker": "SPY",
@@ -44,6 +44,19 @@
       "replies": 3,
       "views": 19902,
       "bookmarks": 19
+    },
+    {
+      "ticker": "SPY",
+      "company": "S&P 500 ETF",
+      "stance": "neutral",
+      "post_id": "2120792625477468583",
+      "text_preview": "\"Chinese AI firms rush to secure $NVDA chip capacity as spy scandal stirs fear of US curbs\"\n\nWow, Jensen really took one for the team just to generate more GPU and Neocloud demand https://t.co/Y1rDNXx",
+      "created_at": "2026-11-12T08:15:38+00:00",
+      "likes": 1025,
+      "retweets": 46,
+      "replies": 86,
+      "views": 276788,
+      "bookmarks": 0
     }
   ]
 }

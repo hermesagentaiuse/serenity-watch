@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 35,
+  "total_mentions": 33,
   "bullish": 4,
   "bearish": 9,
-  "neutral": 22,
+  "neutral": 20,
   "posts": [
     {
       "ticker": "MU",
@@ -87,40 +87,14 @@
     {
       "ticker": "MU",
       "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2096814311306129776",
-      "text_preview": "Got curious and decided to track which thesis of mine were still up 100%+ YTD after the recent drawdown: \n\n1. $AXTI - InP substrates\n2. $NBIS - Neoclouds\n3. $MU - Memory\n4. $INTC - Foundry\n5. $LITE - ",
-      "created_at": "2026-09-07T04:14:23+00:00",
-      "likes": 2202,
-      "retweets": 171,
-      "replies": 96,
-      "views": 465798,
-      "bookmarks": 0
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2096858276290015563",
-      "text_preview": "Is there any other industry... Where every investor is cheering for shortages and price hikes? \n\nSED reported today that: Samsung / $SKHY \"stockpiles have fallen to less than 10 days of supply, and a ",
-      "created_at": "2026-09-07T07:09:05+00:00",
-      "likes": 778,
-      "retweets": 56,
-      "replies": 79,
-      "views": 394307,
-      "bookmarks": 0
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
       "stance": "bullish",
       "post_id": "2097937708178186303",
       "text_preview": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% ab",
       "created_at": "2026-09-10T06:38:22+00:00",
-      "likes": 983,
+      "likes": 981,
       "retweets": 55,
       "replies": 66,
-      "views": 305916,
+      "views": 306270,
       "bookmarks": 0
     },
     {
@@ -130,10 +104,10 @@
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
       "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1333,
+      "likes": 1329,
       "retweets": 97,
-      "replies": 100,
-      "views": 450672,
+      "replies": 96,
+      "views": 451181,
       "bookmarks": 0
     },
     {
@@ -156,10 +130,10 @@
       "post_id": "2099674926697545849",
       "text_preview": "Some color on current memory environments for the $MU / $SKHY bros:\n\n\"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. \n\n- Memory module makers have received notices warning",
       "created_at": "2026-09-15T01:41:27+00:00",
-      "likes": 1203,
-      "retweets": 103,
+      "likes": 1199,
+      "retweets": 102,
       "replies": 81,
-      "views": 297898,
+      "views": 298287,
       "bookmarks": 0
     },
     {

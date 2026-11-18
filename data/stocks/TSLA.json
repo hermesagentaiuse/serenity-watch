@@ -2,36 +2,10 @@
   "ticker": "TSLA",
   "company": "Tesla",
   "total_mentions": 11,
-  "bullish": 3,
+  "bullish": 2,
   "bearish": 0,
-  "neutral": 8,
+  "neutral": 9,
   "posts": [
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "stance": "bullish",
-      "post_id": "2089748568852799580",
-      "text_preview": "@HowlStWoofer $CCXI is targeting commercialization first, since they're in places like $AMZN and $MELI warehouses for human automation.\n\nI don't think Agility's Robots need to do backflips to do deliv",
-      "created_at": "2026-08-18T16:17:39+00:00",
-      "likes": 61,
-      "retweets": 3,
-      "replies": 8,
-      "views": 13692,
-      "bookmarks": 7
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "stance": "neutral",
-      "post_id": "2089908198694351064",
-      "text_preview": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $",
-      "created_at": "2026-08-19T02:51:57+00:00",
-      "likes": 1806,
-      "retweets": 119,
-      "replies": 294,
-      "views": 543132,
-      "bookmarks": 432
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",
@@ -148,6 +122,32 @@
       "replies": 7,
       "views": 20375,
       "bookmarks": 4
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "stance": "neutral",
+      "post_id": "2120658071274013137",
+      "text_preview": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI tr",
+      "created_at": "2026-11-11T23:20:58+00:00",
+      "likes": 4525,
+      "retweets": 220,
+      "replies": 374,
+      "views": 535587,
+      "bookmarks": 0
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "stance": "neutral",
+      "post_id": "2120798356205093139",
+      "text_preview": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on ",
+      "created_at": "2026-11-12T08:38:25+00:00",
+      "likes": 4979,
+      "retweets": 386,
+      "replies": 302,
+      "views": 613556,
+      "bookmarks": 0
     }
   ]
 }

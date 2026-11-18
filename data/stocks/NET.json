@@ -2,23 +2,10 @@
   "ticker": "NET",
   "company": "Cloudflare",
   "total_mentions": 22,
-  "bullish": 8,
+  "bullish": 7,
   "bearish": 3,
-  "neutral": 11,
+  "neutral": 12,
   "posts": [
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "bullish",
-      "post_id": "2089978707830280655",
-      "text_preview": "@Blazedsin Yeah, $SIVE is my favorite high-beta optical long. \n\nYou have a small company supplying lasers for: \n- Hyperscaler suppliers like $JBL with pluggables. \n- ELS + optical engines with $POET /",
-      "created_at": "2026-08-19T07:32:08+00:00",
-      "likes": 485,
-      "retweets": 58,
-      "replies": 22,
-      "views": 88914,
-      "bookmarks": 126
-    },
     {
       "ticker": "NET",
       "company": "Cloudflare",
@@ -104,10 +91,10 @@
       "post_id": "2097348486635368686",
       "text_preview": "Okay I know this is US time and this is a Taiwan stock...\n\nBut I really am starting to think $ESMT (3006) can cook like $SNDK. And I’m excited.\n\nSo hopefully in a few months, people can something say ",
       "created_at": "2026-09-08T15:37:00+00:00",
-      "likes": 1017,
+      "likes": 1014,
       "retweets": 68,
       "replies": 49,
-      "views": 514580,
+      "views": 515577,
       "bookmarks": 0
     },
     {
@@ -278,6 +265,19 @@
       "replies": null,
       "views": null,
       "bookmarks": null
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2120391635737649423",
+      "text_preview": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has",
+      "created_at": "2026-11-11T05:42:15+00:00",
+      "likes": 1549,
+      "retweets": 75,
+      "replies": 119,
+      "views": 381155,
+      "bookmarks": 0
     },
     {
       "ticker": "NET",

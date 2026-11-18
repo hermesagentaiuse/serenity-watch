@@ -1,10 +1,10 @@
 {
   "ticker": "SPOT",
   "company": "Spotify",
-  "total_mentions": 3,
+  "total_mentions": 4,
   "bullish": 1,
   "bearish": 0,
-  "neutral": 2,
+  "neutral": 3,
   "posts": [
     {
       "ticker": "SPOT",
@@ -44,6 +44,19 @@
       "replies": 16,
       "views": 27661,
       "bookmarks": 12
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "neutral",
+      "post_id": "2120391635737649423",
+      "text_preview": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has",
+      "created_at": "2026-11-11T05:42:15+00:00",
+      "likes": 1549,
+      "retweets": 75,
+      "replies": 119,
+      "views": 381155,
+      "bookmarks": 0
     }
   ]
 }
