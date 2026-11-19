@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 33,
-  "bullish": 4,
-  "bearish": 9,
-  "neutral": 20,
+  "total_mentions": 36,
+  "bullish": 5,
+  "bearish": 10,
+  "neutral": 21,
   "posts": [
     {
       "ticker": "MU",
@@ -434,6 +434,45 @@
       "replies": 36,
       "views": 98404,
       "bookmarks": 90
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bullish",
+      "post_id": "2122835908596846950",
+      "text_preview": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last qua",
+      "created_at": "2026-11-17T23:34:55Z",
+      "likes": 1117,
+      "retweets": 74,
+      "replies": 90,
+      "views": 226789,
+      "bookmarks": 211
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2123080934362845437",
+      "text_preview": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZa",
+      "created_at": "2026-11-18T15:48:34Z",
+      "likes": 962,
+      "retweets": 31,
+      "replies": 114,
+      "views": 193410,
+      "bookmarks": 62
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bearish",
+      "post_id": "2123116246183088517",
+      "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+      "created_at": "2026-11-18T18:08:53Z",
+      "likes": 388,
+      "retweets": 21,
+      "replies": 43,
+      "views": 106198,
+      "bookmarks": 92
     }
   ]
 }

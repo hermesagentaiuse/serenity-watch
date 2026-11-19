@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-18T09:00:59.269340",
-  "total_mentions": 478,
+  "generated_at": "2026-11-19T09:00:18.455735",
+  "total_mentions": 498,
   "total_stocks": 32,
   "mentions": [
     {
       "ticker": "LITE",
       "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2090490101260591481",
-      "text_preview": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.\n\nThe demand visibility... is just way too stupidly high.\n\nAOI: “Even combined AOI, C",
-      "created_at": "2026-08-20T17:24:14+00:00",
-      "likes": 1252,
-      "retweets": 90,
-      "replies": 120,
-      "views": 251171,
-      "bookmarks": 295
+      "stance": "neutral",
+      "post_id": "2090782670838231129",
+      "text_preview": "@tozzi21 $POET is supplying Lumilens, which is another top-2 hyperscaler supplier (with billions in customer agreements). \n\nLite-On is another major player. \n\nI'm just saying they got likely designed ",
+      "created_at": "2026-08-21T12:46:48+00:00",
+      "likes": 46,
+      "retweets": 0,
+      "replies": 4,
+      "views": 13072,
+      "bookmarks": 8
     },
     {
       "ticker": "MRVL",
@@ -30,21 +30,8 @@
       "bookmarks": 8
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2090782670838231129",
-      "text_preview": "@tozzi21 $POET is supplying Lumilens, which is another top-2 hyperscaler supplier (with billions in customer agreements). \n\nLite-On is another major player. \n\nI'm just saying they got likely designed ",
-      "created_at": "2026-08-21T12:46:48+00:00",
-      "likes": 46,
-      "retweets": 0,
-      "replies": 4,
-      "views": 13072,
-      "bookmarks": 8
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "RDDT",
+      "company": "Reddit",
       "stance": "neutral",
       "post_id": "2091264273007960320",
       "text_preview": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
@@ -56,8 +43,8 @@
       "bookmarks": 99
     },
     {
-      "ticker": "RDDT",
-      "company": "Reddit",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2091264273007960320",
       "text_preview": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
@@ -368,19 +355,6 @@
       "bookmarks": 216
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "bearish",
-      "post_id": "2093087267594314182",
-      "text_preview": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as pr",
-      "created_at": "2026-08-27T21:24:26+00:00",
-      "likes": 667,
-      "retweets": 44,
-      "replies": 71,
-      "views": 159240,
-      "bookmarks": 138
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "stance": "bearish",
@@ -394,8 +368,21 @@
       "bookmarks": 138
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bearish",
+      "post_id": "2093087267594314182",
+      "text_preview": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as pr",
+      "created_at": "2026-08-27T21:24:26+00:00",
+      "likes": 667,
+      "retweets": 44,
+      "replies": 71,
+      "views": 159240,
+      "bookmarks": 138
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2093230562261823905",
       "text_preview": "Here's the angle I'm looking at $SIVE at: \n\nCompanies/CSPs have been going out of their way way to lock up any qualified CW laser capacity for optical transceivers. \n\nSo now, Sivers is coming into the",
@@ -407,8 +394,8 @@
       "bookmarks": 205
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2093230562261823905",
       "text_preview": "Here's the angle I'm looking at $SIVE at: \n\nCompanies/CSPs have been going out of their way way to lock up any qualified CW laser capacity for optical transceivers. \n\nSo now, Sivers is coming into the",
@@ -446,8 +433,8 @@
       "bookmarks": 229
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bullish",
       "post_id": "2093652781928448279",
       "text_preview": "If I had to be critical of $SIVE earnings:\n\n1. Management underweighted the two disclosures that matter most.\n\n-> 6 pluggable engagements \n-> Foundry capacity (during an industry bottleneck)\n\nThat's t",
@@ -459,8 +446,8 @@
       "bookmarks": 216
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "AVGO",
+      "company": "Broadcom",
       "stance": "bullish",
       "post_id": "2093652781928448279",
       "text_preview": "If I had to be critical of $SIVE earnings:\n\n1. Management underweighted the two disclosures that matter most.\n\n-> 6 pluggable engagements \n-> Foundry capacity (during an industry bottleneck)\n\nThat's t",
@@ -524,8 +511,8 @@
       "bookmarks": 6
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "RDDT",
+      "company": "Reddit",
       "stance": "neutral",
       "post_id": "2093760498072485919",
       "text_preview": "$MU: goes from $133B -&gt; $1T+ in a year.\n\n$RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB",
@@ -537,8 +524,8 @@
       "bookmarks": 102
     },
     {
-      "ticker": "RDDT",
-      "company": "Reddit",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2093760498072485919",
       "text_preview": "$MU: goes from $133B -&gt; $1T+ in a year.\n\n$RDDT after a 2-month correction: \"Garbage stock\" https://t.co/HlIXwJ7ZdB",
@@ -615,6 +602,19 @@
       "bookmarks": 276
     },
     {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2093947848580858123",
+      "text_preview": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get ups",
+      "created_at": "2026-08-30T06:24:05+00:00",
+      "likes": 2067,
+      "retweets": 54,
+      "replies": 210,
+      "views": 207263,
+      "bookmarks": 276
+    },
+    {
       "ticker": "MU",
       "company": "Micron",
       "stance": "neutral",
@@ -630,19 +630,6 @@
     {
       "ticker": "INTC",
       "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2093947848580858123",
-      "text_preview": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get ups",
-      "created_at": "2026-08-30T06:24:05+00:00",
-      "likes": 2067,
-      "retweets": 54,
-      "replies": 210,
-      "views": 207263,
-      "bookmarks": 276
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2093947848580858123",
       "text_preview": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get ups",
@@ -706,8 +693,8 @@
       "bookmarks": 245
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "bullish",
       "post_id": "2093988125144207710",
       "text_preview": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler custome",
@@ -719,8 +706,8 @@
       "bookmarks": 245
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "bullish",
       "post_id": "2093988125144207710",
       "text_preview": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler custome",
@@ -940,19 +927,6 @@
       "bookmarks": 215
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2094405648293482965",
-      "text_preview": "Today, $NVDA has announced a $3.5B investment into Mediatek. \n\nIt appears Nvidia is \"networking\" itself into the broader ASIC ecosystem, from $MRVL to MediaTek.\n\nAnd have future ecosystems aligned wit",
-      "created_at": "2026-08-31T12:43:13+00:00",
-      "likes": 579,
-      "retweets": 39,
-      "replies": 71,
-      "views": 182040,
-      "bookmarks": 67
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "stance": "neutral",
@@ -977,6 +951,32 @@
       "replies": 71,
       "views": 182040,
       "bookmarks": 67
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2094405648293482965",
+      "text_preview": "Today, $NVDA has announced a $3.5B investment into Mediatek. \n\nIt appears Nvidia is \"networking\" itself into the broader ASIC ecosystem, from $MRVL to MediaTek.\n\nAnd have future ecosystems aligned wit",
+      "created_at": "2026-08-31T12:43:13+00:00",
+      "likes": 579,
+      "retweets": 39,
+      "replies": 71,
+      "views": 182040,
+      "bookmarks": 67
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2094408196769423727",
+      "text_preview": "@balllvest With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next. \n\nI think the ASIC pie gets bigger for all of them though.",
+      "created_at": "2026-08-31T12:53:20+00:00",
+      "likes": 45,
+      "retweets": 4,
+      "replies": 4,
+      "views": 13212,
+      "bookmarks": 8
     },
     {
       "ticker": "QCOM",
@@ -992,21 +992,8 @@
       "bookmarks": 8
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2094408196769423727",
-      "text_preview": "@balllvest With how the trends are going with $MRVL and Mediatek. My guess is Alchip (disclosure, I own this) or $QCOM might be next. \n\nI think the ASIC pie gets bigger for all of them though.",
-      "created_at": "2026-08-31T12:53:20+00:00",
-      "likes": 45,
-      "retweets": 4,
-      "replies": 4,
-      "views": 13212,
-      "bookmarks": 8
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "bullish",
       "post_id": "2094416430032896428",
       "text_preview": "Yep, with $NVDA investing $3.5B into Mediatek.\n\nIt does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek, with a second order effect of eroding $AVG",
@@ -1018,8 +1005,8 @@
       "bookmarks": 68
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "AMD",
+      "company": "AMD",
       "stance": "bullish",
       "post_id": "2094416430032896428",
       "text_preview": "Yep, with $NVDA investing $3.5B into Mediatek.\n\nIt does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek, with a second order effect of eroding $AVG",
@@ -1044,8 +1031,8 @@
       "bookmarks": 68
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "bullish",
       "post_id": "2094416430032896428",
       "text_preview": "Yep, with $NVDA investing $3.5B into Mediatek.\n\nIt does feel like Nvidia is playing kingmaker with the next generation of ASIC winners like $MRVL / Mediatek, with a second order effect of eroding $AVG",
@@ -1096,34 +1083,8 @@
       "bookmarks": 25
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2094589312016994565",
-      "text_preview": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ET",
-      "created_at": "2026-09-01T00:53:02+00:00",
-      "likes": 15,
-      "retweets": 2,
-      "replies": 2,
-      "views": 2481,
-      "bookmarks": 0
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2094589312016994565",
-      "text_preview": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ET",
-      "created_at": "2026-09-01T00:53:02+00:00",
-      "likes": 15,
-      "retweets": 2,
-      "replies": 2,
-      "views": 2481,
-      "bookmarks": 0
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
       "stance": "neutral",
       "post_id": "2094589312016994565",
       "text_preview": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ET",
@@ -1148,17 +1109,30 @@
       "bookmarks": 0
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
-      "post_id": "2094704372831920324",
-      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
-      "created_at": "2026-09-01T08:30:14+00:00",
-      "likes": 277,
-      "retweets": 18,
-      "replies": 51,
-      "views": 80815,
-      "bookmarks": 93
+      "post_id": "2094589312016994565",
+      "text_preview": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ET",
+      "created_at": "2026-09-01T00:53:02+00:00",
+      "likes": 15,
+      "retweets": 2,
+      "replies": 2,
+      "views": 2481,
+      "bookmarks": 0
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "neutral",
+      "post_id": "2094589312016994565",
+      "text_preview": "@lijiu163076 $NVDA is growing at a capacity constrained 70% next year, which is ridiculously good.   \n\nMy opinion is that it's hard to go wrong with Nvidia, because it's almost like a semiconductor ET",
+      "created_at": "2026-09-01T00:53:02+00:00",
+      "likes": 15,
+      "retweets": 2,
+      "replies": 2,
+      "views": 2481,
+      "bookmarks": 0
     },
     {
       "ticker": "GOOGL",
@@ -1174,60 +1148,8 @@
       "bookmarks": 93
     },
     {
-      "ticker": "AAPL",
-      "company": "Apple",
-      "stance": "neutral",
-      "post_id": "2094704372831920324",
-      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
-      "created_at": "2026-09-01T08:30:14+00:00",
-      "likes": 277,
-      "retweets": 18,
-      "replies": 51,
-      "views": 80815,
-      "bookmarks": 93
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2094704372831920324",
-      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
-      "created_at": "2026-09-01T08:30:14+00:00",
-      "likes": 277,
-      "retweets": 18,
-      "replies": 51,
-      "views": 80815,
-      "bookmarks": 93
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2094704372831920324",
-      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
-      "created_at": "2026-09-01T08:30:14+00:00",
-      "likes": 277,
-      "retweets": 18,
-      "replies": 51,
-      "views": 80815,
-      "bookmarks": 93
-    },
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "stance": "neutral",
-      "post_id": "2094704372831920324",
-      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
-      "created_at": "2026-09-01T08:30:14+00:00",
-      "likes": 277,
-      "retweets": 18,
-      "replies": 51,
-      "views": 80815,
-      "bookmarks": 93
-    },
-    {
-      "ticker": "STM",
-      "company": "STMicroelectronics",
+      "ticker": "AMD",
+      "company": "AMD",
       "stance": "neutral",
       "post_id": "2094704372831920324",
       "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
@@ -1252,8 +1174,8 @@
       "bookmarks": 93
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
       "stance": "neutral",
       "post_id": "2094704372831920324",
       "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
@@ -1278,8 +1200,73 @@
       "bookmarks": 93
     },
     {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    },
+    {
+      "ticker": "STM",
+      "company": "STMicroelectronics",
+      "stance": "neutral",
+      "post_id": "2094704372831920324",
+      "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+      "created_at": "2026-09-01T08:30:14+00:00",
+      "likes": 277,
+      "retweets": 18,
+      "replies": 51,
+      "views": 80815,
+      "bookmarks": 93
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
       "stance": "neutral",
       "post_id": "2094704372831920324",
       "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
@@ -1304,8 +1291,8 @@
       "bookmarks": 10
     },
     {
-      "ticker": "SPOT",
-      "company": "Spotify",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bullish",
       "post_id": "2094828832977305981",
       "text_preview": "@Matrix_B0SS @SiversSemicond I don’t want to be on any board or be an activist investor, pls stop recommending me lol!\n\nI’m just putting out my thoughts on how I see them become a $LITE type company, ",
@@ -1317,8 +1304,8 @@
       "bookmarks": 12
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "SPOT",
+      "company": "Spotify",
       "stance": "bullish",
       "post_id": "2094828832977305981",
       "text_preview": "@Matrix_B0SS @SiversSemicond I don’t want to be on any board or be an activist investor, pls stop recommending me lol!\n\nI’m just putting out my thoughts on how I see them become a $LITE type company, ",
@@ -1343,8 +1330,8 @@
       "bookmarks": 77
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "STM",
+      "company": "STMicroelectronics",
       "stance": "neutral",
       "post_id": "2095087925822190023",
       "text_preview": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $",
@@ -1356,8 +1343,8 @@
       "bookmarks": 679
     },
     {
-      "ticker": "STM",
-      "company": "STMicroelectronics",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2095087925822190023",
       "text_preview": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $",
@@ -1538,8 +1525,8 @@
       "bookmarks": 2
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2095546138510459218",
       "text_preview": "This is the correct response when looking at $SIVE &gt;100m CW DFB extraordinary capacity disclosure.\n\nTo give some context, Trendforce July data cites global CW/EML capacity is roughly 608.4M/year (~",
@@ -1551,8 +1538,8 @@
       "bookmarks": 172
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "AVGO",
+      "company": "Broadcom",
       "stance": "neutral",
       "post_id": "2095546138510459218",
       "text_preview": "This is the correct response when looking at $SIVE &gt;100m CW DFB extraordinary capacity disclosure.\n\nTo give some context, Trendforce July data cites global CW/EML capacity is roughly 608.4M/year (~",
@@ -1577,8 +1564,8 @@
       "bookmarks": 347
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
       "stance": "neutral",
       "post_id": "2095882424932766163",
       "text_preview": "Let me get this straight chat… you have:\n\n$NVDA 70% supply constrained revenue growth projections (would be 100%+)\n\n$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -&gt; $230B\n\nOpen",
@@ -1590,8 +1577,8 @@
       "bookmarks": 347
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "stance": "neutral",
       "post_id": "2095882424932766163",
       "text_preview": "Let me get this straight chat… you have:\n\n$NVDA 70% supply constrained revenue growth projections (would be 100%+)\n\n$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -&gt; $230B\n\nOpen",
@@ -1616,8 +1603,8 @@
       "bookmarks": 347
     },
     {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "neutral",
       "post_id": "2095882424932766163",
       "text_preview": "Let me get this straight chat… you have:\n\n$NVDA 70% supply constrained revenue growth projections (would be 100%+)\n\n$AVGO AI revenue growing 100%+ Y/Y for next 2 years from mid ~$50B -&gt; $230B\n\nOpen",
@@ -1707,19 +1694,6 @@
       "bookmarks": 0
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bullish",
-      "post_id": "2097321349555306512",
-      "text_preview": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants.\n\nAt this rate.. Amazon will be more of a semi ETF than $NVDA?\n\nGiven their existing equity/",
-      "created_at": "2026-09-08T13:49:10+00:00",
-      "likes": 802,
-      "retweets": 41,
-      "replies": 53,
-      "views": 210978,
-      "bookmarks": 0
-    },
-    {
       "ticker": "MRVL",
       "company": "Marvell",
       "stance": "bullish",
@@ -1735,6 +1709,19 @@
     {
       "ticker": "QCOM",
       "company": "Qualcomm",
+      "stance": "bullish",
+      "post_id": "2097321349555306512",
+      "text_preview": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants.\n\nAt this rate.. Amazon will be more of a semi ETF than $NVDA?\n\nGiven their existing equity/",
+      "created_at": "2026-09-08T13:49:10+00:00",
+      "likes": 802,
+      "retweets": 41,
+      "replies": 53,
+      "views": 210978,
+      "bookmarks": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "bullish",
       "post_id": "2097321349555306512",
       "text_preview": "$AMZN signs a new deal with $QCOM, giving Amazon the right to buy a ~$4B stake of Qualcomm through warrants.\n\nAt this rate.. Amazon will be more of a semi ETF than $NVDA?\n\nGiven their existing equity/",
@@ -1863,19 +1850,6 @@
       "bookmarks": 0
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "neutral",
-      "post_id": "2098306366167535766",
-      "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
-      "created_at": "2026-09-11T07:03:16+00:00",
-      "likes": 1329,
-      "retweets": 97,
-      "replies": 96,
-      "views": 451181,
-      "bookmarks": 0
-    },
-    {
       "ticker": "GOOGL",
       "company": "Alphabet (Google)",
       "stance": "neutral",
@@ -1902,8 +1876,8 @@
       "bookmarks": 0
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
       "stance": "neutral",
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
@@ -1928,8 +1902,21 @@
       "bookmarks": 0
     },
     {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2098306366167535766",
+      "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
+      "created_at": "2026-09-11T07:03:16+00:00",
+      "likes": 1329,
+      "retweets": 97,
+      "replies": 96,
+      "views": 451181,
+      "bookmarks": 0
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "neutral",
       "post_id": "2098306366167535766",
       "text_preview": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX W",
@@ -1980,6 +1967,19 @@
       "bookmarks": 278
     },
     {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "neutral",
+      "post_id": "2099126746390139042",
+      "text_preview": "Tech people in real life: I have shares in “ $TSLA, $GOOGL, $SPCX. “\n\nPeople on my X feed/comments:\n\n- Leveraged Micron, Sk Hynix calls all the way from $1M to $28M down to $4M\n\n- calls on short dated",
+      "created_at": "2026-09-13T13:23:10Z",
+      "likes": 1287,
+      "retweets": 50,
+      "replies": 93,
+      "views": 351702,
+      "bookmarks": 278
+    },
+    {
       "ticker": "TSLA",
       "company": "Tesla",
       "stance": "neutral",
@@ -2019,21 +2019,8 @@
       "bookmarks": 278
     },
     {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "stance": "neutral",
-      "post_id": "2099126746390139042",
-      "text_preview": "Tech people in real life: I have shares in “ $TSLA, $GOOGL, $SPCX. “\n\nPeople on my X feed/comments:\n\n- Leveraged Micron, Sk Hynix calls all the way from $1M to $28M down to $4M\n\n- calls on short dated",
-      "created_at": "2026-09-13T13:23:10Z",
-      "likes": 1287,
-      "retweets": 50,
-      "replies": 93,
-      "views": 351702,
-      "bookmarks": 278
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "bearish",
       "post_id": "2099229447304122410",
       "text_preview": "I assign essentially 0% probability that Anthropic or OpenAI will slow down frontier development in any meaningful way. \n\nAnd that majority of the \"regulation\" they try making is regulatory capture to",
@@ -2045,8 +2032,8 @@
       "bookmarks": 345
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "stance": "bearish",
       "post_id": "2099229447304122410",
       "text_preview": "I assign essentially 0% probability that Anthropic or OpenAI will slow down frontier development in any meaningful way. \n\nAnd that majority of the \"regulation\" they try making is regulatory capture to",
@@ -2071,8 +2058,8 @@
       "bookmarks": 345
     },
     {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "bearish",
       "post_id": "2099229447304122410",
       "text_preview": "I assign essentially 0% probability that Anthropic or OpenAI will slow down frontier development in any meaningful way. \n\nAnd that majority of the \"regulation\" they try making is regulatory capture to",
@@ -2123,8 +2110,8 @@
       "bookmarks": 193
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
+      "ticker": "AMD",
+      "company": "AMD",
       "stance": "bullish",
       "post_id": "2099659874892386678",
       "text_preview": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if J",
@@ -2136,8 +2123,8 @@
       "bookmarks": 34
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
       "stance": "bullish",
       "post_id": "2099659874892386678",
       "text_preview": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if J",
@@ -2188,8 +2175,8 @@
       "bookmarks": 28
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2100008575229976995",
       "text_preview": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models a",
@@ -2201,8 +2188,8 @@
       "bookmarks": 35
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "AVGO",
+      "company": "Broadcom",
       "stance": "neutral",
       "post_id": "2100008575229976995",
       "text_preview": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models a",
@@ -2266,47 +2253,21 @@
       "bookmarks": 116
     },
     {
+      "ticker": "INTC",
+      "company": "Intel",
+      "stance": "bearish",
+      "post_id": "2100735673561174047",
+      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
+      "created_at": "2026-09-17T23:56:29Z",
+      "likes": 374,
+      "retweets": 22,
+      "replies": 34,
+      "views": 63383,
+      "bookmarks": 116
+    },
+    {
       "ticker": "MU",
       "company": "Micron",
-      "stance": "bearish",
-      "post_id": "2100735673561174047",
-      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
-      "created_at": "2026-09-17T23:56:29Z",
-      "likes": 374,
-      "retweets": 22,
-      "replies": 34,
-      "views": 63383,
-      "bookmarks": 116
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
-      "stance": "bearish",
-      "post_id": "2100735673561174047",
-      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
-      "created_at": "2026-09-17T23:56:29Z",
-      "likes": 374,
-      "retweets": 22,
-      "replies": 34,
-      "views": 63383,
-      "bookmarks": 116
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "bearish",
-      "post_id": "2100735673561174047",
-      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
-      "created_at": "2026-09-17T23:56:29Z",
-      "likes": 374,
-      "retweets": 22,
-      "replies": 34,
-      "views": 63383,
-      "bookmarks": 116
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
       "stance": "bearish",
       "post_id": "2100735673561174047",
       "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
@@ -2331,8 +2292,34 @@
       "bookmarks": 116
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "bearish",
+      "post_id": "2100735673561174047",
+      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
+      "created_at": "2026-09-17T23:56:29Z",
+      "likes": 374,
+      "retweets": 22,
+      "replies": 34,
+      "views": 63383,
+      "bookmarks": 116
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2100735673561174047",
+      "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
+      "created_at": "2026-09-17T23:56:29Z",
+      "likes": 374,
+      "retweets": 22,
+      "replies": 34,
+      "views": 63383,
+      "bookmarks": 116
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
       "stance": "bearish",
       "post_id": "2100735673561174047",
       "text_preview": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this",
@@ -2368,19 +2355,6 @@
       "replies": 73,
       "views": 540679,
       "bookmarks": 408
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2101402656845808007",
-      "text_preview": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC compe",
-      "created_at": "2026-09-19T20:06:50Z",
-      "likes": 1233,
-      "retweets": 59,
-      "replies": 69,
-      "views": 378253,
-      "bookmarks": 240
     },
     {
       "ticker": "NVDA",
@@ -2412,6 +2386,19 @@
       "ticker": "MRVL",
       "company": "Marvell",
       "stance": "neutral",
+      "post_id": "2101402656845808007",
+      "text_preview": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC compe",
+      "created_at": "2026-09-19T20:06:50Z",
+      "likes": 1233,
+      "retweets": 59,
+      "replies": 69,
+      "views": 378253,
+      "bookmarks": 240
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
       "post_id": "2101730902615486643",
       "text_preview": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nB",
       "created_at": "2026-09-20T17:51:10Z",
@@ -2422,8 +2409,8 @@
       "bookmarks": 87
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2101730902615486643",
       "text_preview": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nB",
@@ -2526,8 +2513,8 @@
       "bookmarks": 19
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "AMD",
+      "company": "AMD",
       "stance": "neutral",
       "post_id": "2102062423499047004",
       "text_preview": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61",
@@ -2539,8 +2526,8 @@
       "bookmarks": 334
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2102062423499047004",
       "text_preview": "I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: \n\n$AMD +9.13% | $INTC +14.16% | $ARM +14.33%\n\nCPUs go brrr\n\n$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61",
@@ -2695,8 +2682,8 @@
       "bookmarks": 201
     },
     {
-      "ticker": "U",
-      "company": "Unity Software",
+      "ticker": "UPWK",
+      "company": "Upwork",
       "stance": "bullish",
       "post_id": "2102391630515110126",
       "text_preview": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n",
@@ -2708,8 +2695,8 @@
       "bookmarks": 201
     },
     {
-      "ticker": "UPWK",
-      "company": "Upwork",
+      "ticker": "U",
+      "company": "Unity Software",
       "stance": "bullish",
       "post_id": "2102391630515110126",
       "text_preview": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n",
@@ -2864,8 +2851,8 @@
       "bookmarks": 9
     },
     {
-      "ticker": "SPY",
-      "company": "S&P 500 ETF",
+      "ticker": "QQQ",
+      "company": "NASDAQ 100 ETF",
       "stance": "neutral",
       "post_id": "2103161145934963178",
       "text_preview": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, ",
@@ -2877,8 +2864,8 @@
       "bookmarks": 45
     },
     {
-      "ticker": "QQQ",
-      "company": "NASDAQ 100 ETF",
+      "ticker": "SPY",
+      "company": "S&P 500 ETF",
       "stance": "neutral",
       "post_id": "2103161145934963178",
       "text_preview": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, ",
@@ -3007,8 +2994,8 @@
       "bookmarks": 239
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "neutral",
       "post_id": "2104698369591706069",
       "text_preview": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right ",
@@ -3020,8 +3007,8 @@
       "bookmarks": 239
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2104698369591706069",
       "text_preview": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right ",
@@ -3046,8 +3033,8 @@
       "bookmarks": 778
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "AMZN",
+      "company": "Amazon",
       "stance": "neutral",
       "post_id": "2105151002760679706",
       "text_preview": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So no",
@@ -3072,19 +3059,6 @@
       "bookmarks": 778
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "stance": "neutral",
-      "post_id": "2105151002760679706",
-      "text_preview": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So no",
-      "created_at": "2026-09-30T04:21:25Z",
-      "likes": 1671,
-      "retweets": 146,
-      "replies": 103,
-      "views": 467729,
-      "bookmarks": 778
-    },
-    {
       "ticker": "STM",
       "company": "STMicroelectronics",
       "stance": "neutral",
@@ -3098,8 +3072,21 @@
       "bookmarks": 778
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2105151002760679706",
+      "text_preview": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So no",
+      "created_at": "2026-09-30T04:21:25Z",
+      "likes": 1671,
+      "retweets": 146,
+      "replies": 103,
+      "views": 467729,
+      "bookmarks": 778
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
       "stance": "bearish",
       "post_id": "2105397070681248021",
       "text_preview": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Goog",
@@ -3111,8 +3098,8 @@
       "bookmarks": 106
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "bearish",
       "post_id": "2105397070681248021",
       "text_preview": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Goog",
@@ -3332,8 +3319,8 @@
       "bookmarks": 21
     },
     {
-      "ticker": "AVGO",
-      "company": "Broadcom",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2108908962397786280",
       "text_preview": "@Rian_2026 Good question! Just some informal thoughts... there's three \"moats\" to look at for $SIVE:\n\n- Capacity \n- Qualifications (especially for custom DFB lasers)\n- Technological\n\n1. For capacity, ",
@@ -3345,8 +3332,8 @@
       "bookmarks": 49
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "AVGO",
+      "company": "Broadcom",
       "stance": "neutral",
       "post_id": "2108908962397786280",
       "text_preview": "@Rian_2026 Good question! Just some informal thoughts... there's three \"moats\" to look at for $SIVE:\n\n- Capacity \n- Qualifications (especially for custom DFB lasers)\n- Technological\n\n1. For capacity, ",
@@ -3371,8 +3358,8 @@
       "bookmarks": 17
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2109789664622322081",
       "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
@@ -3384,8 +3371,8 @@
       "bookmarks": 159
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "INTC",
+      "company": "Intel",
       "stance": "neutral",
       "post_id": "2109789664622322081",
       "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
@@ -3410,8 +3397,8 @@
       "bookmarks": 159
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "stance": "neutral",
       "post_id": "2109789664622322081",
       "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
@@ -3423,8 +3410,8 @@
       "bookmarks": 159
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2109789664622322081",
       "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
@@ -3449,19 +3436,6 @@
       "bookmarks": 159
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir",
-      "stance": "neutral",
-      "post_id": "2109789664622322081",
-      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
-      "created_at": "2026-10-12T23:33:48Z",
-      "likes": 436,
-      "retweets": 39,
-      "replies": 95,
-      "views": 94591,
-      "bookmarks": 159
-    },
-    {
       "ticker": "CRWD",
       "company": "CrowdStrike",
       "stance": "neutral",
@@ -3475,8 +3449,8 @@
       "bookmarks": 159
     },
     {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
       "stance": "neutral",
       "post_id": "2109789664622322081",
       "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
@@ -3488,8 +3462,21 @@
       "bookmarks": 159
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2109789664622322081",
+      "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
+      "created_at": "2026-10-12T23:33:48Z",
+      "likes": 436,
+      "retweets": 39,
+      "replies": 95,
+      "views": 94591,
+      "bookmarks": 159
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir",
       "stance": "neutral",
       "post_id": "2109789664622322081",
       "text_preview": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTA",
@@ -3670,19 +3657,6 @@
       "bookmarks": 19
     },
     {
-      "ticker": "SPY",
-      "company": "S&P 500 ETF",
-      "stance": "bullish",
-      "post_id": "2110621448272577019",
-      "text_preview": "@HenilPatel20864 Clearly a macro related drop after CPI numbers came out today and further US rate hike anticipation. Since $KOSPI, $SPY, and Nikkei ended up plummeting. \n\nThere's too many potential s",
-      "created_at": "2026-10-15T06:39:01Z",
-      "likes": 125,
-      "retweets": 4,
-      "replies": 3,
-      "views": 19902,
-      "bookmarks": 19
-    },
-    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "stance": "bullish",
@@ -3709,8 +3683,21 @@
       "bookmarks": 19
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "SPY",
+      "company": "S&P 500 ETF",
+      "stance": "bullish",
+      "post_id": "2110621448272577019",
+      "text_preview": "@HenilPatel20864 Clearly a macro related drop after CPI numbers came out today and further US rate hike anticipation. Since $KOSPI, $SPY, and Nikkei ended up plummeting. \n\nThere's too many potential s",
+      "created_at": "2026-10-15T06:39:01Z",
+      "likes": 125,
+      "retweets": 4,
+      "replies": 3,
+      "views": 19902,
+      "bookmarks": 19
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
       "stance": "neutral",
       "post_id": "2110823066595131768",
       "text_preview": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a m",
@@ -3722,8 +3709,8 @@
       "bookmarks": 137
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2110823066595131768",
       "text_preview": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a m",
@@ -3852,8 +3839,8 @@
       "bookmarks": 73
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
       "stance": "bearish",
       "post_id": "2111206827790885288",
       "text_preview": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. \n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 yea",
@@ -3865,8 +3852,8 @@
       "bookmarks": 139
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "bearish",
       "post_id": "2111206827790885288",
       "text_preview": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. \n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 yea",
@@ -3891,6 +3878,19 @@
       "bookmarks": 139
     },
     {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "bearish",
+      "post_id": "2112080246895976755",
+      "text_preview": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased o",
+      "created_at": "2026-10-19T07:15:46Z",
+      "likes": 830,
+      "retweets": 66,
+      "replies": 73,
+      "views": 194966,
+      "bookmarks": 144
+    },
+    {
       "ticker": "LITE",
       "company": "Lumentum",
       "stance": "bearish",
@@ -3906,19 +3906,6 @@
     {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "stance": "bearish",
-      "post_id": "2112080246895976755",
-      "text_preview": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased o",
-      "created_at": "2026-10-19T07:15:46Z",
-      "likes": 830,
-      "retweets": 66,
-      "replies": 73,
-      "views": 194966,
-      "bookmarks": 144
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
       "stance": "bearish",
       "post_id": "2112080246895976755",
       "text_preview": "$LITE CEO interview on demand, counterparty + financing risk:  \n\n- \"CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. \n\nBased o",
@@ -4151,8 +4138,8 @@
       "bookmarks": 6
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bullish",
       "post_id": "2113950041207607453",
       "text_preview": "Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here. \n\nBut the company completely Tall Poppy Syndromed itself last earnings. \n\nAnd it's clearly shown in the ",
@@ -4177,8 +4164,8 @@
       "bookmarks": 550
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "NET",
+      "company": "Cloudflare",
       "stance": "bullish",
       "post_id": "2113950041207607453",
       "text_preview": "Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here. \n\nBut the company completely Tall Poppy Syndromed itself last earnings. \n\nAnd it's clearly shown in the ",
@@ -4255,6 +4242,19 @@
       "bookmarks": 224
     },
     {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "bearish",
+      "post_id": "2114051018510287340",
+      "text_preview": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. \n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't th",
+      "created_at": "2026-10-24T17:46:54Z",
+      "likes": 825,
+      "retweets": 28,
+      "replies": 73,
+      "views": 134425,
+      "bookmarks": 224
+    },
+    {
       "ticker": "MU",
       "company": "Micron",
       "stance": "bearish",
@@ -4270,19 +4270,6 @@
     {
       "ticker": "AAPL",
       "company": "Apple",
-      "stance": "bearish",
-      "post_id": "2114051018510287340",
-      "text_preview": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. \n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't th",
-      "created_at": "2026-10-24T17:46:54Z",
-      "likes": 825,
-      "retweets": 28,
-      "replies": 73,
-      "views": 134425,
-      "bookmarks": 224
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
       "stance": "bearish",
       "post_id": "2114051018510287340",
       "text_preview": "So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. \n\nQ: On memory shortages (eg. $MU / SK Hynix / Samsung):\n\nA: \"There's only so much memory, and I don't th",
@@ -4359,19 +4346,6 @@
       "bookmarks": 13
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "bullish",
-      "post_id": "2114225154591207690",
-      "text_preview": "@Robertff8n Few things:\n\n- $SIVE is targeting T1 hyperscaler deployments for pluggables, CPO, NPO. Not quite sure what you mean by Tier 2. \n\nThey have direct engagements with hyperscalers but currentl",
-      "created_at": "2026-10-25T05:18:51Z",
-      "likes": 156,
-      "retweets": 11,
-      "replies": 8,
-      "views": 21555,
-      "bookmarks": 26
-    },
-    {
       "ticker": "AMZN",
       "company": "Amazon",
       "stance": "bullish",
@@ -4398,8 +4372,34 @@
       "bookmarks": 26
     },
     {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bullish",
+      "post_id": "2114225154591207690",
+      "text_preview": "@Robertff8n Few things:\n\n- $SIVE is targeting T1 hyperscaler deployments for pluggables, CPO, NPO. Not quite sure what you mean by Tier 2. \n\nThey have direct engagements with hyperscalers but currentl",
+      "created_at": "2026-10-25T05:18:51Z",
+      "likes": 156,
+      "retweets": 11,
+      "replies": 8,
+      "views": 21555,
+      "bookmarks": 26
+    },
+    {
       "ticker": "NVDA",
       "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2114477224208535600",
+      "text_preview": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests confl",
+      "created_at": "2026-10-25T22:00:29Z",
+      "likes": 1929,
+      "retweets": 111,
+      "replies": 233,
+      "views": 152109,
+      "bookmarks": 111
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "stance": "neutral",
       "post_id": "2114477224208535600",
       "text_preview": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests confl",
@@ -4426,19 +4426,6 @@
     {
       "ticker": "TSLA",
       "company": "Tesla",
-      "stance": "neutral",
-      "post_id": "2114477224208535600",
-      "text_preview": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests confl",
-      "created_at": "2026-10-25T22:00:29Z",
-      "likes": 1929,
-      "retweets": 111,
-      "replies": 233,
-      "views": 152109,
-      "bookmarks": 111
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
       "stance": "neutral",
       "post_id": "2114477224208535600",
       "text_preview": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests confl",
@@ -4489,8 +4476,8 @@
       "bookmarks": 135
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
       "stance": "neutral",
       "post_id": "2115056034763137169",
       "text_preview": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSom",
@@ -4502,8 +4489,8 @@
       "bookmarks": 154
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2115056034763137169",
       "text_preview": "Oh look… more memory durability evidence for $MU and co.\n\nFollowing the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.\n\nSom",
@@ -4593,19 +4580,6 @@
       "bookmarks": 30
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2115624832947917083",
-      "text_preview": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and ",
-      "created_at": "2026-10-29T02:00:41Z",
-      "likes": 2208,
-      "retweets": 99,
-      "replies": 185,
-      "views": 433949,
-      "bookmarks": 279
-    },
-    {
       "ticker": "LITE",
       "company": "Lumentum",
       "stance": "neutral",
@@ -4622,14 +4596,14 @@
       "ticker": "MRVL",
       "company": "Marvell",
       "stance": "neutral",
-      "post_id": "2117228754489807320",
-      "text_preview": "@MarzoIndustries Considering $LITE (that is sold out into 2029) is going to get swallowed up by $MRVL next week. \n\nI see $AAOI / $SIVE / $COHR are going to be a lot more strategically valuable in the ",
-      "created_at": "2026-11-02T12:14:05Z",
-      "likes": 125,
-      "retweets": 5,
-      "replies": 6,
-      "views": 16314,
-      "bookmarks": 27
+      "post_id": "2115624832947917083",
+      "text_preview": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and ",
+      "created_at": "2026-10-29T02:00:41Z",
+      "likes": 2208,
+      "retweets": 99,
+      "replies": 185,
+      "views": 433949,
+      "bookmarks": 279
     },
     {
       "ticker": "LITE",
@@ -4648,14 +4622,14 @@
       "ticker": "MRVL",
       "company": "Marvell",
       "stance": "neutral",
-      "post_id": "2117229519178498541",
-      "text_preview": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp https://t.co/GsTfqhJTkn",
-      "created_at": "2026-11-02T12:17:08Z",
-      "likes": 2001,
-      "retweets": 122,
-      "replies": 149,
-      "views": 345472,
-      "bookmarks": 232
+      "post_id": "2117228754489807320",
+      "text_preview": "@MarzoIndustries Considering $LITE (that is sold out into 2029) is going to get swallowed up by $MRVL next week. \n\nI see $AAOI / $SIVE / $COHR are going to be a lot more strategically valuable in the ",
+      "created_at": "2026-11-02T12:14:05Z",
+      "likes": 125,
+      "retweets": 5,
+      "replies": 6,
+      "views": 16314,
+      "bookmarks": 27
     },
     {
       "ticker": "LITE",
@@ -4673,15 +4647,15 @@
     {
       "ticker": "MRVL",
       "company": "Marvell",
-      "stance": "bullish",
-      "post_id": "2117232605146034649",
-      "text_preview": "@JaeKim1089208 I actually thought $MRVL would buy $SIVE given smaller MC, but they went ahead and bought $LITE instead. \n\nSince it looked like Marvell was heading the Broadcom direction with vertical ",
-      "created_at": "2026-11-02T12:29:24Z",
-      "likes": 238,
-      "retweets": 7,
-      "replies": 10,
-      "views": 28963,
-      "bookmarks": 24
+      "stance": "neutral",
+      "post_id": "2117229519178498541",
+      "text_preview": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp https://t.co/GsTfqhJTkn",
+      "created_at": "2026-11-02T12:17:08Z",
+      "likes": 2001,
+      "retweets": 122,
+      "replies": 149,
+      "views": 345472,
+      "bookmarks": 232
     },
     {
       "ticker": "LITE",
@@ -4699,6 +4673,19 @@
     {
       "ticker": "MRVL",
       "company": "Marvell",
+      "stance": "bullish",
+      "post_id": "2117232605146034649",
+      "text_preview": "@JaeKim1089208 I actually thought $MRVL would buy $SIVE given smaller MC, but they went ahead and bought $LITE instead. \n\nSince it looked like Marvell was heading the Broadcom direction with vertical ",
+      "created_at": "2026-11-02T12:29:24Z",
+      "likes": 238,
+      "retweets": 7,
+      "replies": 10,
+      "views": 28963,
+      "bookmarks": 24
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2117233515104464961",
       "text_preview": "@jacobsimon2002 Well.. that was before $MRVL crashed. The deal is 4.5x Marvell shares for every Lumentum share. \n\n4.5x * 196 = $882 (floating), so you're getting that for $LITE, which is still more th",
@@ -4710,8 +4697,8 @@
       "bookmarks": 20
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2117233515104464961",
       "text_preview": "@jacobsimon2002 Well.. that was before $MRVL crashed. The deal is 4.5x Marvell shares for every Lumentum share. \n\n4.5x * 196 = $882 (floating), so you're getting that for $LITE, which is still more th",
@@ -4736,19 +4723,6 @@
       "bookmarks": 6
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2117262767040463102",
-      "text_preview": "@Ericbaofu 中国其实早就有类似 $MRVL 收购 $LITE 的案例了，比如东山精密收购索尔思光电。\n\n不过国内监管环境不太一样，更多还是为了发展自主技术，减少对西方供应链的依赖。\n\n剑桥科技也是个例子，投资了不少国内激光器厂商，来保障供应和扩充产能。\n\n我觉得这次收购对中际旭创和新易盛的战略影响不会太大",
-      "created_at": "2026-11-02T14:29:15Z",
-      "likes": 60,
-      "retweets": 1,
-      "replies": 9,
-      "views": 16025,
-      "bookmarks": 9
-    },
-    {
       "ticker": "LITE",
       "company": "Lumentum",
       "stance": "neutral",
@@ -4765,14 +4739,14 @@
       "ticker": "MRVL",
       "company": "Marvell",
       "stance": "neutral",
-      "post_id": "2117296667108278605",
-      "text_preview": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be ",
-      "created_at": "2026-11-02T16:43:57Z",
-      "likes": 507,
-      "retweets": 21,
-      "replies": 51,
-      "views": 143744,
-      "bookmarks": 109
+      "post_id": "2117262767040463102",
+      "text_preview": "@Ericbaofu 中国其实早就有类似 $MRVL 收购 $LITE 的案例了，比如东山精密收购索尔思光电。\n\n不过国内监管环境不太一样，更多还是为了发展自主技术，减少对西方供应链的依赖。\n\n剑桥科技也是个例子，投资了不少国内激光器厂商，来保障供应和扩充产能。\n\n我觉得这次收购对中际旭创和新易盛的战略影响不会太大",
+      "created_at": "2026-11-02T14:29:15Z",
+      "likes": 60,
+      "retweets": 1,
+      "replies": 9,
+      "views": 16025,
+      "bookmarks": 9
     },
     {
       "ticker": "NVDA",
@@ -4790,6 +4764,19 @@
     {
       "ticker": "LITE",
       "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2117296667108278605",
+      "text_preview": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be ",
+      "created_at": "2026-11-02T16:43:57Z",
+      "likes": 507,
+      "retweets": 21,
+      "replies": 51,
+      "views": 143744,
+      "bookmarks": 109
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2117296667108278605",
       "text_preview": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be ",
@@ -4853,19 +4840,6 @@
       "bookmarks": 506
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "bullish",
-      "post_id": "2117550199895896490",
-      "text_preview": "Counterpoint on $MRVL / $LITE acqusition:\n\n- \"Every buyer that competes with Marvell will want a second, independent laser source\".\n\nThey identify $SIVE / Scintil Photonics as new CW / ELS capacity, w",
-      "created_at": "2026-11-03T09:31:24Z",
-      "likes": 822,
-      "retweets": 44,
-      "replies": 66,
-      "views": 191122,
-      "bookmarks": 261
-    },
-    {
       "ticker": "LITE",
       "company": "Lumentum",
       "stance": "bullish",
@@ -4881,6 +4855,19 @@
     {
       "ticker": "MRVL",
       "company": "Marvell",
+      "stance": "bullish",
+      "post_id": "2117550199895896490",
+      "text_preview": "Counterpoint on $MRVL / $LITE acqusition:\n\n- \"Every buyer that competes with Marvell will want a second, independent laser source\".\n\nThey identify $SIVE / Scintil Photonics as new CW / ELS capacity, w",
+      "created_at": "2026-11-03T09:31:24Z",
+      "likes": 822,
+      "retweets": 44,
+      "replies": 66,
+      "views": 191122,
+      "bookmarks": 261
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2117556261378298059",
       "text_preview": "@riverio1e $CIEN was another company that explicitly cited bottlenecks with lasers last month... \n\nWanlian Securities also flagged Ciena today as a candidate for supplier diversification following the",
@@ -4892,8 +4879,8 @@
       "bookmarks": 15
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2117556261378298059",
       "text_preview": "@riverio1e $CIEN was another company that explicitly cited bottlenecks with lasers last month... \n\nWanlian Securities also flagged Ciena today as a candidate for supplier diversification following the",
@@ -4970,8 +4957,8 @@
       "bookmarks": null
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
       "stance": "neutral",
       "post_id": "2118015527440515458",
       "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
@@ -4983,8 +4970,21 @@
       "bookmarks": null
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "neutral",
+      "post_id": "2118015527440515458",
+      "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
+      "created_at": "2026-11-04T16:20:27Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2118015527440515458",
       "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
@@ -5009,8 +5009,8 @@
       "bookmarks": null
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
+      "ticker": "AMZN",
+      "company": "Amazon",
       "stance": "neutral",
       "post_id": "2118015527440515458",
       "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
@@ -5035,21 +5035,8 @@
       "bookmarks": null
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "stance": "neutral",
-      "post_id": "2118015527440515458",
-      "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
-      "created_at": "2026-11-04T16:20:27Z",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "bookmarks": null
-    },
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
+      "ticker": "NET",
+      "company": "Cloudflare",
       "stance": "neutral",
       "post_id": "2118015527440515458",
       "text_preview": "[](https://x.com/aleabitoreddit) Little rant, but to show you how rampant deleveraging has become: - $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. - $AAOI i",
@@ -5100,19 +5087,6 @@
       "bookmarks": null
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "neutral",
-      "post_id": "2118044688829845703",
-      "text_preview": "## Post ## Serenity on X: \"Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% ",
-      "created_at": "2026-11-04T18:16:19Z",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "bookmarks": null
-    },
-    {
       "ticker": "AMZN",
       "company": "Amazon",
       "stance": "neutral",
@@ -5128,6 +5102,19 @@
     {
       "ticker": "CRWD",
       "company": "CrowdStrike",
+      "stance": "neutral",
+      "post_id": "2118044688829845703",
+      "text_preview": "## Post ## Serenity on X: \"Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% ",
+      "created_at": "2026-11-04T18:16:19Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
       "stance": "neutral",
       "post_id": "2118044688829845703",
       "text_preview": "## Post ## Serenity on X: \"Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. Even $AMZN CEO thinks cybersecurity would take up 20% ",
@@ -5165,19 +5152,6 @@
       "bookmarks": 272
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2118200689453314341",
-      "text_preview": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ",
-      "created_at": "2026-11-05T04:36:13Z",
-      "likes": 864,
-      "retweets": 49,
-      "replies": 71,
-      "views": 242261,
-      "bookmarks": 212
-    },
-    {
       "ticker": "LITE",
       "company": "Lumentum",
       "stance": "neutral",
@@ -5193,6 +5167,19 @@
     {
       "ticker": "MRVL",
       "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2118200689453314341",
+      "text_preview": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ",
+      "created_at": "2026-11-05T04:36:13Z",
+      "likes": 864,
+      "retweets": 49,
+      "replies": 71,
+      "views": 242261,
+      "bookmarks": 212
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bullish",
       "post_id": "2118206374689853853",
       "text_preview": "@ThePivotDad Yes $AAOI had a massive InP substrate purchase order earlier, and I don’t believe all of that is going toward transceiver lasers that Rosenblatt modeled.\n\nI believe have the similar 60%+ ",
@@ -5204,8 +5191,8 @@
       "bookmarks": 26
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "bullish",
       "post_id": "2118206374689853853",
       "text_preview": "@ThePivotDad Yes $AAOI had a massive InP substrate purchase order earlier, and I don’t believe all of that is going toward transceiver lasers that Rosenblatt modeled.\n\nI believe have the similar 60%+ ",
@@ -5295,8 +5282,8 @@
       "bookmarks": 1151
     },
     {
-      "ticker": "INTC",
-      "company": "Intel",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bullish",
       "post_id": "2118605467459199016",
       "text_preview": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential t",
@@ -5308,8 +5295,8 @@
       "bookmarks": 1151
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "INTC",
+      "company": "Intel",
       "stance": "bullish",
       "post_id": "2118605467459199016",
       "text_preview": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential t",
@@ -5373,19 +5360,6 @@
       "bookmarks": 5
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2119025765308350564",
-      "text_preview": "@PatrikBatCrypto I know this is an AI reply but just to piggyback, I agree counterparty analysis is really important.\n\nIf we look at memory LTAs, in general they're primarily coming from $NVDA, $GOOGL",
-      "created_at": "2026-11-07T11:14:46Z",
-      "likes": 46,
-      "retweets": 0,
-      "replies": 2,
-      "views": 9051,
-      "bookmarks": 5
-    },
-    {
       "ticker": "GOOGL",
       "company": "Alphabet (Google)",
       "stance": "neutral",
@@ -5412,6 +5386,19 @@
       "bookmarks": 5
     },
     {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2119025765308350564",
+      "text_preview": "@PatrikBatCrypto I know this is an AI reply but just to piggyback, I agree counterparty analysis is really important.\n\nIf we look at memory LTAs, in general they're primarily coming from $NVDA, $GOOGL",
+      "created_at": "2026-11-07T11:14:46Z",
+      "likes": 46,
+      "retweets": 0,
+      "replies": 2,
+      "views": 9051,
+      "bookmarks": 5
+    },
+    {
       "ticker": "NET",
       "company": "Cloudflare",
       "stance": "neutral",
@@ -5425,8 +5412,8 @@
       "bookmarks": 7
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bearish",
       "post_id": "2119056343462203480",
       "text_preview": "@semivision_tw 市場暴跌後，我現在還勉強活著。\n\n我從來沒想過 $LITE 被 $MRVL 收購後，股價竟然還能暴跌 -51.53%。\n\n結果沒想到，連收購方 $MRVL 也一起崩了 -50.3%。",
@@ -5438,8 +5425,8 @@
       "bookmarks": 14
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "bearish",
       "post_id": "2119056343462203480",
       "text_preview": "@semivision_tw 市場暴跌後，我現在還勉強活著。\n\n我從來沒想過 $LITE 被 $MRVL 收購後，股價竟然還能暴跌 -51.53%。\n\n結果沒想到，連收購方 $MRVL 也一起崩了 -50.3%。",
@@ -5516,6 +5503,19 @@
       "bookmarks": 6
     },
     {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "bullish",
+      "post_id": "2119363124147191823",
+      "text_preview": "[](https://x.com/aleabitoreddit) It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: - 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now hav",
+      "created_at": "2026-11-08T09:35:19Z",
+      "likes": null,
+      "retweets": null,
+      "replies": null,
+      "views": null,
+      "bookmarks": null
+    },
+    {
       "ticker": "NET",
       "company": "Cloudflare",
       "stance": "bullish",
@@ -5531,19 +5531,6 @@
     {
       "ticker": "LITE",
       "company": "Lumentum",
-      "stance": "bullish",
-      "post_id": "2119363124147191823",
-      "text_preview": "[](https://x.com/aleabitoreddit) It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: - 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now hav",
-      "created_at": "2026-11-08T09:35:19Z",
-      "likes": null,
-      "retweets": null,
-      "replies": null,
-      "views": null,
-      "bookmarks": null
-    },
-    {
-      "ticker": "META",
-      "company": "Meta (Facebook)",
       "stance": "bearish",
       "post_id": "2119458038260318634",
       "text_preview": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in wh",
@@ -5555,8 +5542,8 @@
       "bookmarks": 383
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "META",
+      "company": "Meta (Facebook)",
       "stance": "bearish",
       "post_id": "2119458038260318634",
       "text_preview": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in wh",
@@ -5607,8 +5594,8 @@
       "bookmarks": 76
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bearish",
       "post_id": "2120074819878449605",
       "text_preview": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up t",
@@ -5620,8 +5607,8 @@
       "bookmarks": 185
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "bearish",
       "post_id": "2120074819878449605",
       "text_preview": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up t",
@@ -5646,8 +5633,8 @@
       "bookmarks": 115
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare",
+      "ticker": "SPOT",
+      "company": "Spotify",
       "stance": "neutral",
       "post_id": "2120391635737649423",
       "text_preview": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has",
@@ -5659,8 +5646,8 @@
       "bookmarks": 0
     },
     {
-      "ticker": "SPOT",
-      "company": "Spotify",
+      "ticker": "NET",
+      "company": "Cloudflare",
       "stance": "neutral",
       "post_id": "2120391635737649423",
       "text_preview": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has",
@@ -5711,8 +5698,8 @@
       "bookmarks": 0
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
+      "ticker": "AMD",
+      "company": "AMD",
       "stance": "neutral",
       "post_id": "2120658071274013137",
       "text_preview": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI tr",
@@ -5724,8 +5711,8 @@
       "bookmarks": 0
     },
     {
-      "ticker": "AMD",
-      "company": "AMD",
+      "ticker": "TSLA",
+      "company": "Tesla",
       "stance": "neutral",
       "post_id": "2120658071274013137",
       "text_preview": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI tr",
@@ -5763,19 +5750,6 @@
       "bookmarks": 0
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2120798356205093139",
-      "text_preview": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on ",
-      "created_at": "2026-11-12T08:38:25+00:00",
-      "likes": 4979,
-      "retweets": 386,
-      "replies": 302,
-      "views": 613556,
-      "bookmarks": 0
-    },
-    {
       "ticker": "NVDA",
       "company": "NVIDIA",
       "stance": "neutral",
@@ -5791,6 +5765,19 @@
     {
       "ticker": "AVGO",
       "company": "Broadcom",
+      "stance": "neutral",
+      "post_id": "2120798356205093139",
+      "text_preview": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on ",
+      "created_at": "2026-11-12T08:38:25+00:00",
+      "likes": 4979,
+      "retweets": 386,
+      "replies": 302,
+      "views": 613556,
+      "bookmarks": 0
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "neutral",
       "post_id": "2120798356205093139",
       "text_preview": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on ",
@@ -6036,8 +6023,8 @@
       "bookmarks": 248
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "bullish",
       "post_id": "2121221289440665737",
       "text_preview": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung",
@@ -6049,8 +6036,8 @@
       "bookmarks": 84
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MRVL",
+      "company": "Marvell",
       "stance": "bullish",
       "post_id": "2121221289440665737",
       "text_preview": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung",
@@ -6088,8 +6075,8 @@
       "bookmarks": 235
     },
     {
-      "ticker": "MU",
-      "company": "Micron",
+      "ticker": "LITE",
+      "company": "Lumentum",
       "stance": "neutral",
       "post_id": "2121338681571328368",
       "text_preview": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory p",
@@ -6101,8 +6088,8 @@
       "bookmarks": 90
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "MU",
+      "company": "Micron",
       "stance": "neutral",
       "post_id": "2121338681571328368",
       "text_preview": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory p",
@@ -6216,30 +6203,290 @@
       "replies": 78,
       "views": 172723,
       "bookmarks": 0
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2122519172664209692",
+      "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+      "created_at": "2026-11-17T02:36:19Z",
+      "likes": 973,
+      "retweets": 60,
+      "replies": 93,
+      "views": 211994,
+      "bookmarks": 181
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "bullish",
+      "post_id": "2122519172664209692",
+      "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+      "created_at": "2026-11-17T02:36:19Z",
+      "likes": 973,
+      "retweets": 60,
+      "replies": 93,
+      "views": 211994,
+      "bookmarks": 181
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "bullish",
+      "post_id": "2122519172664209692",
+      "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+      "created_at": "2026-11-17T02:36:19Z",
+      "likes": 973,
+      "retweets": 60,
+      "replies": 93,
+      "views": 211994,
+      "bookmarks": 181
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "stance": "neutral",
+      "post_id": "2122628849657954454",
+      "text_preview": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-",
+      "created_at": "2026-11-17T09:52:08Z",
+      "likes": 1009,
+      "retweets": 77,
+      "replies": 75,
+      "views": 214149,
+      "bookmarks": 113
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2122660925488718046",
+      "text_preview": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooG",
+      "created_at": "2026-11-17T11:59:36Z",
+      "likes": 1448,
+      "retweets": 111,
+      "replies": 216,
+      "views": 455859,
+      "bookmarks": 269
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2122791681405997440",
+      "text_preview": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI http",
+      "created_at": "2026-11-17T20:39:11Z",
+      "likes": 2378,
+      "retweets": 90,
+      "replies": 104,
+      "views": 238951,
+      "bookmarks": 57
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2122835908596846950",
+      "text_preview": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last qua",
+      "created_at": "2026-11-17T23:34:55Z",
+      "likes": 1117,
+      "retweets": 74,
+      "replies": 90,
+      "views": 226789,
+      "bookmarks": 211
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bullish",
+      "post_id": "2122835908596846950",
+      "text_preview": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last qua",
+      "created_at": "2026-11-17T23:34:55Z",
+      "likes": 1117,
+      "retweets": 74,
+      "replies": 90,
+      "views": 226789,
+      "bookmarks": 211
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123067177905643769",
+      "text_preview": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x",
+      "created_at": "2026-11-18T14:53:54Z",
+      "likes": 798,
+      "retweets": 45,
+      "replies": 104,
+      "views": 199011,
+      "bookmarks": 410
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123080934362845437",
+      "text_preview": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZa",
+      "created_at": "2026-11-18T15:48:34Z",
+      "likes": 962,
+      "retweets": 31,
+      "replies": 114,
+      "views": 193410,
+      "bookmarks": 62
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "neutral",
+      "post_id": "2123080934362845437",
+      "text_preview": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZa",
+      "created_at": "2026-11-18T15:48:34Z",
+      "likes": 962,
+      "retweets": 31,
+      "replies": 114,
+      "views": 193410,
+      "bookmarks": 62
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2123084154757873815",
+      "text_preview": "@wockjones Just enough time for memory names to print operationally then do buybacks I guess.\n\nCompanies like $SNDK or Samsung can probably buy back a material part of their float over the next 2 year",
+      "created_at": "2026-11-18T16:01:22Z",
+      "likes": 86,
+      "retweets": 2,
+      "replies": 5,
+      "views": 15961,
+      "bookmarks": 8
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123100162616951229",
+      "text_preview": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.",
+      "created_at": "2026-11-18T17:04:58Z",
+      "likes": 1214,
+      "retweets": 59,
+      "replies": 78,
+      "views": 145141,
+      "bookmarks": 50
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "bearish",
+      "post_id": "2123116246183088517",
+      "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+      "created_at": "2026-11-18T18:08:53Z",
+      "likes": 388,
+      "retweets": 21,
+      "replies": 43,
+      "views": 106198,
+      "bookmarks": 92
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "stance": "bearish",
+      "post_id": "2123116246183088517",
+      "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+      "created_at": "2026-11-18T18:08:53Z",
+      "likes": 388,
+      "retweets": 21,
+      "replies": 43,
+      "views": 106198,
+      "bookmarks": 92
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "stance": "bearish",
+      "post_id": "2123116246183088517",
+      "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+      "created_at": "2026-11-18T18:08:53Z",
+      "likes": 388,
+      "retweets": 21,
+      "replies": 43,
+      "views": 106198,
+      "bookmarks": 92
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bullish",
+      "post_id": "2123119673864778076",
+      "text_preview": "@VENTOUXBLEU Bullish $SOI, I need to wait for management commentary to shed more light. So far on most material disclosures:  \n\n-> $1.2B new multi-year photonics SOI wafer reservations, which is proba",
+      "created_at": "2026-11-18T18:22:30Z",
+      "likes": 45,
+      "retweets": 0,
+      "replies": 3,
+      "views": 6964,
+      "bookmarks": 9
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2123145041837527085",
+      "text_preview": "@Jaime21129601 Most of my commentary recently has been thematic since AI names are just indiscriminately moving up and down together now. \n\nFoci is heavily tied to CPO which hasn't reached volume yet.",
+      "created_at": "2026-11-18T20:03:18Z",
+      "likes": 29,
+      "retweets": 0,
+      "replies": 3,
+      "views": 7176,
+      "bookmarks": 6
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "bearish",
+      "post_id": "2123152181134234071",
+      "text_preview": "Woah, the charts mapping the recent AI crash is insane. \n\nNet momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.\n\nThe weeks before Nov 13 also saw the heaviest net selling o",
+      "created_at": "2026-11-18T20:31:40Z",
+      "likes": 934,
+      "retweets": 80,
+      "replies": 69,
+      "views": 144298,
+      "bookmarks": 269
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "neutral",
+      "post_id": "2123173088598938033",
+      "text_preview": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+      "created_at": "2026-11-18T21:54:45Z",
+      "likes": 596,
+      "retweets": 27,
+      "replies": 42,
+      "views": 97984,
+      "bookmarks": 43
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "neutral",
+      "post_id": "2123173088598938033",
+      "text_preview": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+      "created_at": "2026-11-18T21:54:45Z",
+      "likes": 596,
+      "retweets": 27,
+      "replies": 42,
+      "views": 97984,
+      "bookmarks": 43
     }
   ],
   "stocks": {
     "LITE": {
       "ticker": "LITE",
       "company": "Lumentum",
-      "total_mentions": 77,
+      "total_mentions": 76,
       "bullish": 22,
-      "bearish": 18,
+      "bearish": 17,
       "neutral": 37,
       "posts": [
-        {
-          "ticker": "LITE",
-          "company": "Lumentum",
-          "stance": "bearish",
-          "post_id": "2090490101260591481",
-          "text_preview": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.\n\nThe demand visibility... is just way too stupidly high.\n\nAOI: “Even combined AOI, C",
-          "created_at": "2026-08-20T17:24:14+00:00",
-          "likes": 1252,
-          "retweets": 90,
-          "replies": 120,
-          "views": 251171,
-          "bookmarks": 295
-        },
         {
           "ticker": "LITE",
           "company": "Lumentum",
@@ -7851,9 +8098,9 @@
     "AMD": {
       "ticker": "AMD",
       "company": "AMD",
-      "total_mentions": 23,
+      "total_mentions": 24,
       "bullish": 8,
-      "bearish": 3,
+      "bearish": 4,
       "neutral": 12,
       "posts": [
         {
@@ -8154,16 +8401,29 @@
           "replies": 78,
           "views": 172723,
           "bookmarks": 0
+        },
+        {
+          "ticker": "AMD",
+          "company": "AMD",
+          "stance": "bearish",
+          "post_id": "2123116246183088517",
+          "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+          "created_at": "2026-11-18T18:08:53Z",
+          "likes": 388,
+          "retweets": 21,
+          "replies": 43,
+          "views": 106198,
+          "bookmarks": 92
         }
       ]
     },
     "GOOGL": {
       "ticker": "GOOGL",
       "company": "Alphabet (Google)",
-      "total_mentions": 22,
-      "bullish": 2,
+      "total_mentions": 24,
+      "bullish": 3,
       "bearish": 7,
-      "neutral": 13,
+      "neutral": 14,
       "posts": [
         {
           "ticker": "GOOGL",
@@ -8450,16 +8710,42 @@
           "replies": 2,
           "views": 9051,
           "bookmarks": 5
+        },
+        {
+          "ticker": "GOOGL",
+          "company": "Alphabet (Google)",
+          "stance": "bullish",
+          "post_id": "2122519172664209692",
+          "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+          "created_at": "2026-11-17T02:36:19Z",
+          "likes": 973,
+          "retweets": 60,
+          "replies": 93,
+          "views": 211994,
+          "bookmarks": 181
+        },
+        {
+          "ticker": "GOOGL",
+          "company": "Alphabet (Google)",
+          "stance": "neutral",
+          "post_id": "2123173088598938033",
+          "text_preview": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+          "created_at": "2026-11-18T21:54:45Z",
+          "likes": 596,
+          "retweets": 27,
+          "replies": 42,
+          "views": 97984,
+          "bookmarks": 43
         }
       ]
     },
     "GOOG": {
       "ticker": "GOOG",
       "company": "Alphabet (Google Class C)",
-      "total_mentions": 22,
-      "bullish": 2,
+      "total_mentions": 24,
+      "bullish": 3,
       "bearish": 7,
-      "neutral": 13,
+      "neutral": 14,
       "posts": [
         {
           "ticker": "GOOG",
@@ -8746,14 +9032,40 @@
           "replies": 2,
           "views": 9051,
           "bookmarks": 5
+        },
+        {
+          "ticker": "GOOG",
+          "company": "Alphabet (Google Class C)",
+          "stance": "bullish",
+          "post_id": "2122519172664209692",
+          "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+          "created_at": "2026-11-17T02:36:19Z",
+          "likes": 973,
+          "retweets": 60,
+          "replies": 93,
+          "views": 211994,
+          "bookmarks": 181
+        },
+        {
+          "ticker": "GOOG",
+          "company": "Alphabet (Google Class C)",
+          "stance": "neutral",
+          "post_id": "2123173088598938033",
+          "text_preview": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+          "created_at": "2026-11-18T21:54:45Z",
+          "likes": 596,
+          "retweets": 27,
+          "replies": 42,
+          "views": 97984,
+          "bookmarks": 43
         }
       ]
     },
     "AMZN": {
       "ticker": "AMZN",
       "company": "Amazon",
-      "total_mentions": 19,
-      "bullish": 8,
+      "total_mentions": 21,
+      "bullish": 10,
       "bearish": 4,
       "neutral": 7,
       "posts": [
@@ -9003,16 +9315,42 @@
           "replies": 2,
           "views": 9051,
           "bookmarks": 5
+        },
+        {
+          "ticker": "AMZN",
+          "company": "Amazon",
+          "stance": "bullish",
+          "post_id": "2122519172664209692",
+          "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+          "created_at": "2026-11-17T02:36:19Z",
+          "likes": 973,
+          "retweets": 60,
+          "replies": 93,
+          "views": 211994,
+          "bookmarks": 181
+        },
+        {
+          "ticker": "AMZN",
+          "company": "Amazon",
+          "stance": "bullish",
+          "post_id": "2122660925488718046",
+          "text_preview": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooG",
+          "created_at": "2026-11-17T11:59:36Z",
+          "likes": 1448,
+          "retweets": 111,
+          "replies": 216,
+          "views": 455859,
+          "bookmarks": 269
         }
       ]
     },
     "NVDA": {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "total_mentions": 103,
-      "bullish": 18,
-      "bearish": 16,
-      "neutral": 69,
+      "total_mentions": 110,
+      "bullish": 20,
+      "bearish": 17,
+      "neutral": 73,
       "posts": [
         {
           "ticker": "NVDA",
@@ -10352,6 +10690,97 @@
           "replies": 97,
           "views": 133231,
           "bookmarks": 68
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "neutral",
+          "post_id": "2122791681405997440",
+          "text_preview": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI http",
+          "created_at": "2026-11-17T20:39:11Z",
+          "likes": 2378,
+          "retweets": 90,
+          "replies": 104,
+          "views": 238951,
+          "bookmarks": 57
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "bullish",
+          "post_id": "2122835908596846950",
+          "text_preview": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last qua",
+          "created_at": "2026-11-17T23:34:55Z",
+          "likes": 1117,
+          "retweets": 74,
+          "replies": 90,
+          "views": 226789,
+          "bookmarks": 211
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "neutral",
+          "post_id": "2123067177905643769",
+          "text_preview": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x",
+          "created_at": "2026-11-18T14:53:54Z",
+          "likes": 798,
+          "retweets": 45,
+          "replies": 104,
+          "views": 199011,
+          "bookmarks": 410
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "neutral",
+          "post_id": "2123080934362845437",
+          "text_preview": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZa",
+          "created_at": "2026-11-18T15:48:34Z",
+          "likes": 962,
+          "retweets": 31,
+          "replies": 114,
+          "views": 193410,
+          "bookmarks": 62
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "bullish",
+          "post_id": "2123084154757873815",
+          "text_preview": "@wockjones Just enough time for memory names to print operationally then do buybacks I guess.\n\nCompanies like $SNDK or Samsung can probably buy back a material part of their float over the next 2 year",
+          "created_at": "2026-11-18T16:01:22Z",
+          "likes": 86,
+          "retweets": 2,
+          "replies": 5,
+          "views": 15961,
+          "bookmarks": 8
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "neutral",
+          "post_id": "2123100162616951229",
+          "text_preview": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.",
+          "created_at": "2026-11-18T17:04:58Z",
+          "likes": 1214,
+          "retweets": 59,
+          "replies": 78,
+          "views": 145141,
+          "bookmarks": 50
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "stance": "bearish",
+          "post_id": "2123145041837527085",
+          "text_preview": "@Jaime21129601 Most of my commentary recently has been thematic since AI names are just indiscriminately moving up and down together now. \n\nFoci is heavily tied to CPO which hasn't reached volume yet.",
+          "created_at": "2026-11-18T20:03:18Z",
+          "likes": 29,
+          "retweets": 0,
+          "replies": 3,
+          "views": 7176,
+          "bookmarks": 6
         }
       ]
     },
@@ -10420,9 +10849,9 @@
     "NET": {
       "ticker": "NET",
       "company": "Cloudflare",
-      "total_mentions": 22,
-      "bullish": 7,
-      "bearish": 3,
+      "total_mentions": 24,
+      "bullish": 8,
+      "bearish": 4,
       "neutral": 12,
       "posts": [
         {
@@ -10710,16 +11139,42 @@
           "replies": 124,
           "views": 309864,
           "bookmarks": 436
+        },
+        {
+          "ticker": "NET",
+          "company": "Cloudflare",
+          "stance": "bullish",
+          "post_id": "2123119673864778076",
+          "text_preview": "@VENTOUXBLEU Bullish $SOI, I need to wait for management commentary to shed more light. So far on most material disclosures:  \n\n-> $1.2B new multi-year photonics SOI wafer reservations, which is proba",
+          "created_at": "2026-11-18T18:22:30Z",
+          "likes": 45,
+          "retweets": 0,
+          "replies": 3,
+          "views": 6964,
+          "bookmarks": 9
+        },
+        {
+          "ticker": "NET",
+          "company": "Cloudflare",
+          "stance": "bearish",
+          "post_id": "2123152181134234071",
+          "text_preview": "Woah, the charts mapping the recent AI crash is insane. \n\nNet momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.\n\nThe weeks before Nov 13 also saw the heaviest net selling o",
+          "created_at": "2026-11-18T20:31:40Z",
+          "likes": 934,
+          "retweets": 80,
+          "replies": 69,
+          "views": 144298,
+          "bookmarks": 269
         }
       ]
     },
     "MU": {
       "ticker": "MU",
       "company": "Micron",
-      "total_mentions": 33,
-      "bullish": 4,
-      "bearish": 9,
-      "neutral": 20,
+      "total_mentions": 36,
+      "bullish": 5,
+      "bearish": 10,
+      "neutral": 21,
       "posts": [
         {
           "ticker": "MU",
@@ -11149,15 +11604,54 @@
           "replies": 36,
           "views": 98404,
           "bookmarks": 90
+        },
+        {
+          "ticker": "MU",
+          "company": "Micron",
+          "stance": "bullish",
+          "post_id": "2122835908596846950",
+          "text_preview": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last qua",
+          "created_at": "2026-11-17T23:34:55Z",
+          "likes": 1117,
+          "retweets": 74,
+          "replies": 90,
+          "views": 226789,
+          "bookmarks": 211
+        },
+        {
+          "ticker": "MU",
+          "company": "Micron",
+          "stance": "neutral",
+          "post_id": "2123080934362845437",
+          "text_preview": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZa",
+          "created_at": "2026-11-18T15:48:34Z",
+          "likes": 962,
+          "retweets": 31,
+          "replies": 114,
+          "views": 193410,
+          "bookmarks": 62
+        },
+        {
+          "ticker": "MU",
+          "company": "Micron",
+          "stance": "bearish",
+          "post_id": "2123116246183088517",
+          "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+          "created_at": "2026-11-18T18:08:53Z",
+          "likes": 388,
+          "retweets": 21,
+          "replies": 43,
+          "views": 106198,
+          "bookmarks": 92
         }
       ]
     },
     "AVGO": {
       "ticker": "AVGO",
       "company": "Broadcom",
-      "total_mentions": 22,
+      "total_mentions": 23,
       "bullish": 4,
-      "bearish": 2,
+      "bearish": 3,
       "neutral": 16,
       "posts": [
         {
@@ -11445,6 +11939,19 @@
           "replies": 302,
           "views": 613556,
           "bookmarks": 0
+        },
+        {
+          "ticker": "AVGO",
+          "company": "Broadcom",
+          "stance": "bearish",
+          "post_id": "2123116246183088517",
+          "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+          "created_at": "2026-11-18T18:08:53Z",
+          "likes": 388,
+          "retweets": 21,
+          "replies": 43,
+          "views": 106198,
+          "bookmarks": 92
         }
       ]
     },
@@ -11822,10 +12329,10 @@
     "AAPL": {
       "ticker": "AAPL",
       "company": "Apple",
-      "total_mentions": 7,
+      "total_mentions": 8,
       "bullish": 3,
       "bearish": 1,
-      "neutral": 3,
+      "neutral": 4,
       "posts": [
         {
           "ticker": "AAPL",
@@ -11917,6 +12424,19 @@
           "replies": 73,
           "views": 134425,
           "bookmarks": 224
+        },
+        {
+          "ticker": "AAPL",
+          "company": "Apple",
+          "stance": "neutral",
+          "post_id": "2122628849657954454",
+          "text_preview": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-",
+          "created_at": "2026-11-17T09:52:08Z",
+          "likes": 1009,
+          "retweets": 77,
+          "replies": 75,
+          "views": 214149,
+          "bookmarks": 113
         }
       ]
     },
@@ -12184,6 +12704,29 @@
         }
       ]
     },
+    "3037": {
+      "ticker": "3037",
+      "company": "台達電",
+      "total_mentions": 1,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "posts": [
+        {
+          "ticker": "3037",
+          "company": "台達電",
+          "stance": "neutral",
+          "post_id": "2094704372831920324",
+          "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
+          "created_at": "2026-09-01T08:30:14+00:00",
+          "likes": 277,
+          "retweets": 18,
+          "replies": 51,
+          "views": 80815,
+          "bookmarks": 93
+        }
+      ]
+    },
     "STM": {
       "ticker": "STM",
       "company": "STMicroelectronics",
@@ -12230,29 +12773,6 @@
           "replies": 103,
           "views": 467729,
           "bookmarks": 778
-        }
-      ]
-    },
-    "3037": {
-      "ticker": "3037",
-      "company": "台達電",
-      "total_mentions": 1,
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "posts": [
-        {
-          "ticker": "3037",
-          "company": "台達電",
-          "stance": "neutral",
-          "post_id": "2094704372831920324",
-          "text_preview": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthr",
-          "created_at": "2026-09-01T08:30:14+00:00",
-          "likes": 277,
-          "retweets": 18,
-          "replies": 51,
-          "views": 80815,
-          "bookmarks": 93
         }
       ]
     },
@@ -12586,17 +13106,17 @@
         }
       ]
     },
-    "U": {
-      "ticker": "U",
-      "company": "Unity Software",
+    "UPWK": {
+      "ticker": "UPWK",
+      "company": "Upwork",
       "total_mentions": 1,
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "posts": [
         {
-          "ticker": "U",
-          "company": "Unity Software",
+          "ticker": "UPWK",
+          "company": "Upwork",
           "stance": "bullish",
           "post_id": "2102391630515110126",
           "text_preview": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n",
@@ -12609,17 +13129,17 @@
         }
       ]
     },
-    "UPWK": {
-      "ticker": "UPWK",
-      "company": "Upwork",
+    "U": {
+      "ticker": "U",
+      "company": "Unity Software",
       "total_mentions": 1,
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "posts": [
         {
-          "ticker": "UPWK",
-          "company": "Upwork",
+          "ticker": "U",
+          "company": "Unity Software",
           "stance": "bullish",
           "post_id": "2102391630515110126",
           "text_preview": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n",

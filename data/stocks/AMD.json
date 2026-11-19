@@ -1,9 +1,9 @@
 {
   "ticker": "AMD",
   "company": "AMD",
-  "total_mentions": 23,
+  "total_mentions": 24,
   "bullish": 8,
-  "bearish": 3,
+  "bearish": 4,
   "neutral": 12,
   "posts": [
     {
@@ -304,6 +304,19 @@
       "replies": 78,
       "views": 172723,
       "bookmarks": 0
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "stance": "bearish",
+      "post_id": "2123116246183088517",
+      "text_preview": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we ",
+      "created_at": "2026-11-18T18:08:53Z",
+      "likes": 388,
+      "retweets": 21,
+      "replies": 43,
+      "views": 106198,
+      "bookmarks": 92
     }
   ]
 }

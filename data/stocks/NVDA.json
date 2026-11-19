@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 103,
-  "bullish": 18,
-  "bearish": 16,
-  "neutral": 69,
+  "total_mentions": 110,
+  "bullish": 20,
+  "bearish": 17,
+  "neutral": 73,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1344,6 +1344,97 @@
       "replies": 97,
       "views": 133231,
       "bookmarks": 68
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2122791681405997440",
+      "text_preview": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI http",
+      "created_at": "2026-11-17T20:39:11Z",
+      "likes": 2378,
+      "retweets": 90,
+      "replies": 104,
+      "views": 238951,
+      "bookmarks": 57
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2122835908596846950",
+      "text_preview": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last qua",
+      "created_at": "2026-11-17T23:34:55Z",
+      "likes": 1117,
+      "retweets": 74,
+      "replies": 90,
+      "views": 226789,
+      "bookmarks": 211
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123067177905643769",
+      "text_preview": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x",
+      "created_at": "2026-11-18T14:53:54Z",
+      "likes": 798,
+      "retweets": 45,
+      "replies": 104,
+      "views": 199011,
+      "bookmarks": 410
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123080934362845437",
+      "text_preview": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZa",
+      "created_at": "2026-11-18T15:48:34Z",
+      "likes": 962,
+      "retweets": 31,
+      "replies": 114,
+      "views": 193410,
+      "bookmarks": 62
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2123084154757873815",
+      "text_preview": "@wockjones Just enough time for memory names to print operationally then do buybacks I guess.\n\nCompanies like $SNDK or Samsung can probably buy back a material part of their float over the next 2 year",
+      "created_at": "2026-11-18T16:01:22Z",
+      "likes": 86,
+      "retweets": 2,
+      "replies": 5,
+      "views": 15961,
+      "bookmarks": 8
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123100162616951229",
+      "text_preview": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.",
+      "created_at": "2026-11-18T17:04:58Z",
+      "likes": 1214,
+      "retweets": 59,
+      "replies": 78,
+      "views": 145141,
+      "bookmarks": 50
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2123145041837527085",
+      "text_preview": "@Jaime21129601 Most of my commentary recently has been thematic since AI names are just indiscriminately moving up and down together now. \n\nFoci is heavily tied to CPO which hasn't reached volume yet.",
+      "created_at": "2026-11-18T20:03:18Z",
+      "likes": 29,
+      "retweets": 0,
+      "replies": 3,
+      "views": 7176,
+      "bookmarks": 6
     }
   ]
 }

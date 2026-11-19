@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 77,
+  "total_mentions": 76,
   "bullish": 22,
-  "bearish": 18,
+  "bearish": 17,
   "neutral": 37,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2090490101260591481",
-      "text_preview": "Very positive. My opinion is that the optical sector underperformance recently from $AAOI to $SIVE has been absurd.\n\nThe demand visibility... is just way too stupidly high.\n\nAOI: “Even combined AOI, C",
-      "created_at": "2026-08-20T17:24:14+00:00",
-      "likes": 1252,
-      "retweets": 90,
-      "replies": 120,
-      "views": 251171,
-      "bookmarks": 295
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",

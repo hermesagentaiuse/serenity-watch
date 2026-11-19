@@ -1,8 +1,8 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 19,
-  "bullish": 8,
+  "total_mentions": 21,
+  "bullish": 10,
   "bearish": 4,
   "neutral": 7,
   "posts": [
@@ -252,6 +252,32 @@
       "replies": 2,
       "views": 9051,
       "bookmarks": 5
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2122519172664209692",
+      "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+      "created_at": "2026-11-17T02:36:19Z",
+      "likes": 973,
+      "retweets": 60,
+      "replies": 93,
+      "views": 211994,
+      "bookmarks": 181
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bullish",
+      "post_id": "2122660925488718046",
+      "text_preview": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooG",
+      "created_at": "2026-11-17T11:59:36Z",
+      "likes": 1448,
+      "retweets": 111,
+      "replies": 216,
+      "views": 455859,
+      "bookmarks": 269
     }
   ]
 }

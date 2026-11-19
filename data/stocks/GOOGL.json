@@ -1,10 +1,10 @@
 {
   "ticker": "GOOGL",
   "company": "Alphabet (Google)",
-  "total_mentions": 22,
-  "bullish": 2,
+  "total_mentions": 24,
+  "bullish": 3,
   "bearish": 7,
-  "neutral": 13,
+  "neutral": 14,
   "posts": [
     {
       "ticker": "GOOGL",
@@ -291,6 +291,32 @@
       "replies": 2,
       "views": 9051,
       "bookmarks": 5
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "bullish",
+      "post_id": "2122519172664209692",
+      "text_preview": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to de",
+      "created_at": "2026-11-17T02:36:19Z",
+      "likes": 973,
+      "retweets": 60,
+      "replies": 93,
+      "views": 211994,
+      "bookmarks": 181
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "neutral",
+      "post_id": "2123173088598938033",
+      "text_preview": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+      "created_at": "2026-11-18T21:54:45Z",
+      "likes": 596,
+      "retweets": 27,
+      "replies": 42,
+      "views": 97984,
+      "bookmarks": 43
     }
   ]
 }
