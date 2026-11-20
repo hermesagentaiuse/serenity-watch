@@ -1,24 +1,11 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 38,
+  "total_mentions": 37,
   "bullish": 8,
   "bearish": 3,
-  "neutral": 27,
+  "neutral": 26,
   "posts": [
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2090782670838231129",
-      "text_preview": "@tozzi21 $POET is supplying Lumilens, which is another top-2 hyperscaler supplier (with billions in customer agreements). \n\nLite-On is another major player. \n\nI'm just saying they got likely designed ",
-      "created_at": "2026-08-21T12:46:48+00:00",
-      "likes": 46,
-      "retweets": 0,
-      "replies": 4,
-      "views": 13072,
-      "bookmarks": 8
-    },
     {
       "ticker": "MRVL",
       "company": "Marvell",
