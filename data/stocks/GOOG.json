@@ -1,10 +1,10 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 24,
+  "total_mentions": 25,
   "bullish": 3,
   "bearish": 7,
-  "neutral": 14,
+  "neutral": 15,
   "posts": [
     {
       "ticker": "GOOG",
@@ -317,6 +317,19 @@
       "replies": 42,
       "views": 97984,
       "bookmarks": 43
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet (Google Class C)",
+      "stance": "neutral",
+      "post_id": "2123546035217928409",
+      "text_preview": "@RalphSardor John Ternus is a lot proactive than Tim Cook, so we'll see how he does. \n\nApparently he's the one that pressured $AAPL software team to accelerate Apple's AI roadmap.\n\nEspecially since Ap",
+      "created_at": "2026-11-19T22:36:43Z",
+      "likes": 43,
+      "retweets": 1,
+      "replies": 1,
+      "views": 8839,
+      "bookmarks": 3
     }
   ]
 }

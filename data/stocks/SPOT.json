@@ -1,10 +1,10 @@
 {
   "ticker": "SPOT",
   "company": "Spotify",
-  "total_mentions": 4,
-  "bullish": 1,
-  "bearish": 0,
-  "neutral": 3,
+  "total_mentions": 7,
+  "bullish": 2,
+  "bearish": 1,
+  "neutral": 4,
   "posts": [
     {
       "ticker": "SPOT",
@@ -57,6 +57,45 @@
       "replies": 119,
       "views": 381155,
       "bookmarks": 0
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "neutral",
+      "post_id": "2123607088773628330",
+      "text_preview": "@excelmonkey016 Recent Trendforce pricing revisions downward were for NAND, not DDR2/DDR3.\n\nTrendforce actually still expects upward revision on legacy DRAM in 2027, despite spot prices falling in lin",
+      "created_at": "2026-11-20T02:39:19Z",
+      "likes": 37,
+      "retweets": 0,
+      "replies": 2,
+      "views": 9068,
+      "bookmarks": 6
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "bearish",
+      "post_id": "2123633356969775107",
+      "text_preview": "Markets appear to be wrongly interpreting Chinese eSSD cuts as deteriorating demand and NAND oversupply.\n\nPhison CEO commentary today + more context behind $SNDK / Kioxia selloff regarding Trendforce ",
+      "created_at": "2026-11-20T04:23:42Z",
+      "likes": 569,
+      "retweets": 46,
+      "replies": 75,
+      "views": 192698,
+      "bookmarks": 146
+    },
+    {
+      "ticker": "SPOT",
+      "company": "Spotify",
+      "stance": "bullish",
+      "post_id": "2123647139385684060",
+      "text_preview": "@eleswarapu I don't have active positions in $SNDK or Kioxia, but I did see a lot of people panicking unfortunately. \n\nSo I'm just providing nuances regarding GPU bottlenecks and spot market volatilit",
+      "created_at": "2026-11-20T05:18:28Z",
+      "likes": 44,
+      "retweets": 2,
+      "replies": 5,
+      "views": 11330,
+      "bookmarks": 5
     }
   ]
 }

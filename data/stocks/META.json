@@ -1,10 +1,10 @@
 {
   "ticker": "META",
   "company": "Meta (Facebook)",
-  "total_mentions": 9,
+  "total_mentions": 11,
   "bullish": 1,
   "bearish": 4,
-  "neutral": 4,
+  "neutral": 6,
   "posts": [
     {
       "ticker": "META",
@@ -122,6 +122,32 @@
       "replies": 99,
       "views": 293922,
       "bookmarks": 383
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "neutral",
+      "post_id": "2123488317425820130",
+      "text_preview": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
+      "created_at": "2026-11-19T18:47:22Z",
+      "likes": 760,
+      "retweets": 18,
+      "replies": 150,
+      "views": 217559,
+      "bookmarks": 38
+    },
+    {
+      "ticker": "META",
+      "company": "Meta (Facebook)",
+      "stance": "neutral",
+      "post_id": "2123543880780132572",
+      "text_preview": "$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. \n\nGiven on-device inference isn't quite ready yet for complex workflows...\n\n+ Apple isn't ",
+      "created_at": "2026-11-19T22:28:09Z",
+      "likes": 583,
+      "retweets": 27,
+      "replies": 85,
+      "views": 169358,
+      "bookmarks": 63
     }
   ]
 }

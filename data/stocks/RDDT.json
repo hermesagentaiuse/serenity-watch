@@ -1,24 +1,11 @@
 {
   "ticker": "RDDT",
   "company": "Reddit",
-  "total_mentions": 8,
+  "total_mentions": 7,
   "bullish": 2,
   "bearish": 2,
-  "neutral": 4,
+  "neutral": 3,
   "posts": [
-    {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "stance": "neutral",
-      "post_id": "2091264273007960320",
-      "text_preview": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
-      "created_at": "2026-08-22T20:40:31+00:00",
-      "likes": 1157,
-      "retweets": 33,
-      "replies": 111,
-      "views": 142092,
-      "bookmarks": 99
-    },
     {
       "ticker": "RDDT",
       "company": "Reddit",

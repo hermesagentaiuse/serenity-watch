@@ -10,19 +10,6 @@
       "ticker": "MRVL",
       "company": "Marvell",
       "stance": "neutral",
-      "post_id": "2091264273007960320",
-      "text_preview": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
-      "created_at": "2026-08-22T20:40:31+00:00",
-      "likes": 1157,
-      "retweets": 33,
-      "replies": 111,
-      "views": 142092,
-      "bookmarks": 99
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
       "post_id": "2093230562261823905",
       "text_preview": "Here's the angle I'm looking at $SIVE at: \n\nCompanies/CSPs have been going out of their way way to lock up any qualified CW laser capacity for optical transceivers. \n\nSo now, Sivers is coming into the",
       "created_at": "2026-08-28T06:53:51+00:00",
@@ -486,6 +473,19 @@
       "replies": 65,
       "views": 170953,
       "bookmarks": 84
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "stance": "neutral",
+      "post_id": "2123588783753048553",
+      "text_preview": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquis",
+      "created_at": "2026-11-20T01:26:35Z",
+      "likes": 1000,
+      "retweets": 60,
+      "replies": 111,
+      "views": 223582,
+      "bookmarks": 451
     }
   ]
 }

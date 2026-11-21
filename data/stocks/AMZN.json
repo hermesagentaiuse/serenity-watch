@@ -1,9 +1,9 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 21,
+  "total_mentions": 22,
   "bullish": 10,
-  "bearish": 4,
+  "bearish": 5,
   "neutral": 7,
   "posts": [
     {
@@ -278,6 +278,19 @@
       "replies": 216,
       "views": 455859,
       "bookmarks": 269
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "stance": "bearish",
+      "post_id": "2123851594811011470",
+      "text_preview": "I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.\n\nBut as an update, it like other industries outside of AI are really starting to f",
+      "created_at": "2026-11-20T18:50:54Z",
+      "likes": 272,
+      "retweets": 11,
+      "replies": 31,
+      "views": 95411,
+      "bookmarks": 68
     }
   ]
 }

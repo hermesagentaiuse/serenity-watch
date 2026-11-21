@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 110,
-  "bullish": 20,
-  "bearish": 17,
-  "neutral": 73,
+  "total_mentions": 114,
+  "bullish": 21,
+  "bearish": 18,
+  "neutral": 75,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1435,6 +1435,58 @@
       "replies": 3,
       "views": 7176,
       "bookmarks": 6
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2123565807653552458",
+      "text_preview": "I'm hearing multiple things from industry executives:\n\n1. Potential $NVDA employee exodus if Jensen doesn't come back soon.\n\nMany senior management and engineers can easily retire after Nvidia stock a",
+      "created_at": "2026-11-19T23:55:17Z",
+      "likes": 6064,
+      "retweets": 495,
+      "replies": 300,
+      "views": 754198,
+      "bookmarks": 884
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bearish",
+      "post_id": "2123571428712931811",
+      "text_preview": "@UlricaW_ It also doesn’t help Nvidia has credit downgrades because Jensen left… \n\nNot saying it’s all over for $NVDA but there’s extreme uncertainty crowding around the company now https://t.co/32RiC",
+      "created_at": "2026-11-20T00:17:37Z",
+      "likes": 112,
+      "retweets": 1,
+      "replies": 6,
+      "views": 30002,
+      "bookmarks": 7
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123762482280055255",
+      "text_preview": "$P earnings were actually interesting, not really in terms actionable investments. \n\nBut more on AI capex broadening, where deployments are happening, and what Jensen at $NVDA might envisioned with op",
+      "created_at": "2026-11-20T12:56:48Z",
+      "likes": 226,
+      "retweets": 11,
+      "replies": 35,
+      "views": 138576,
+      "bookmarks": 50
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2123878986686333308",
+      "text_preview": "$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.\n\nAt this point, the collateral damage is starting to hit major indexes and retirement portfolio",
+      "created_at": "2026-11-20T20:39:44Z",
+      "likes": 1326,
+      "retweets": 56,
+      "replies": 111,
+      "views": 173311,
+      "bookmarks": 113
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 75,
+  "total_mentions": 76,
   "bullish": 22,
   "bearish": 17,
-  "neutral": 36,
+  "neutral": 37,
   "posts": [
     {
       "ticker": "LITE",
@@ -980,6 +980,19 @@
       "replies": 36,
       "views": 98404,
       "bookmarks": 90
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum",
+      "stance": "neutral",
+      "post_id": "2123588783753048553",
+      "text_preview": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquis",
+      "created_at": "2026-11-20T01:26:35Z",
+      "likes": 1000,
+      "retweets": 60,
+      "replies": 111,
+      "views": 223582,
+      "bookmarks": 451
     }
   ]
 }

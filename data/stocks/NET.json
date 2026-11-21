@@ -1,10 +1,10 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 24,
+  "total_mentions": 25,
   "bullish": 8,
   "bearish": 4,
-  "neutral": 12,
+  "neutral": 13,
   "posts": [
     {
       "ticker": "NET",
@@ -317,6 +317,19 @@
       "replies": 69,
       "views": 144298,
       "bookmarks": 269
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "stance": "neutral",
+      "post_id": "2123598186065559858",
+      "text_preview": "I'm actually very impressed with market-chan. If we look at ESMT numbers today: \n\n> $1.58B MC\n> $747M net cash, $274.7M net inventory from Q3\n> $349.5M in Q3 free cash flow\nAdjusted EV: $559.3M\n\n> Q3 ",
+      "created_at": "2026-11-20T02:03:56Z",
+      "likes": 344,
+      "retweets": 12,
+      "replies": 39,
+      "views": 150395,
+      "bookmarks": 92
     }
   ]
 }
