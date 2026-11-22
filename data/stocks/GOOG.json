@@ -1,24 +1,11 @@
 {
   "ticker": "GOOG",
   "company": "Alphabet (Google Class C)",
-  "total_mentions": 25,
+  "total_mentions": 24,
   "bullish": 3,
   "bearish": 7,
-  "neutral": 15,
+  "neutral": 14,
   "posts": [
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "stance": "neutral",
-      "post_id": "2091612406900564407",
-      "text_preview": "After watching clips of China's humanoid Olympics... \n\nI think we're cooked chat. \n\nStill can't believe $GOOGL sold Boston Dynamics, don't think we have another humanoid that can backflip. https://t.c",
-      "created_at": "2026-08-23T19:43:52+00:00",
-      "likes": 871,
-      "retweets": 36,
-      "replies": 191,
-      "views": 165802,
-      "bookmarks": 65
-    },
     {
       "ticker": "GOOG",
       "company": "Alphabet (Google Class C)",
