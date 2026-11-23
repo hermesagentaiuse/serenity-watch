@@ -1,63 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 114,
-  "bullish": 21,
-  "bearish": 18,
-  "neutral": 75,
+  "total_mentions": 111,
+  "bullish": 22,
+  "bearish": 17,
+  "neutral": 72,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2091851831718879660",
-      "text_preview": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premon",
-      "created_at": "2026-08-24T11:35:16+00:00",
-      "likes": 634,
-      "retweets": 34,
-      "replies": 101,
-      "views": 183968,
-      "bookmarks": 170
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2091909391238979970",
-      "text_preview": "$NVDA, following their $20B deal... Announces Groq3 LPX now in full production.\n\nWith $NBIS the first to adopt through Nebius token factory.\n\n- 3,400 tok/s in Artificial Analysis benchmarking running ",
-      "created_at": "2026-08-24T15:23:59+00:00",
-      "likes": 858,
-      "retweets": 40,
-      "replies": 106,
-      "views": 166501,
-      "bookmarks": 83
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bearish",
-      "post_id": "2091935022005776661",
-      "text_preview": "@siflower Not exactly, I think $AAOI stated they avoided LTAs so they wouldn't have too much capacity committed to one customer and have to turn away others.\n\nIf they signed LTAs with prepayments, the",
-      "created_at": "2026-08-24T17:05:50+00:00",
-      "likes": 44,
-      "retweets": 0,
-      "replies": 6,
-      "views": 9960,
-      "bookmarks": 1
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2091955482613486028",
-      "text_preview": "I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... \n\nBut you know what else is cool? \n\nFAU bottlenecks for CPO. \n\nI remember saying earlier this year FAU/Foci mig",
-      "created_at": "2026-08-24T18:27:08+00:00",
-      "likes": 612,
-      "retweets": 28,
-      "replies": 98,
-      "views": 170757,
-      "bookmarks": 209
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
@@ -1487,6 +1435,19 @@
       "replies": 111,
       "views": 173311,
       "bookmarks": 113
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "bullish",
+      "post_id": "2124582975455318147",
+      "text_preview": "Treasury Secretary Bessent on $NVDA, AI crash, and circular financing:\n\nQ: On Trump wanting Jensen Huang back.\nA: \"Well, I said they should go to the outside, but he's on the outside now\"\n\nQ: On AI ma",
+      "created_at": "2026-11-22T19:17:08Z",
+      "likes": 893,
+      "retweets": 65,
+      "replies": 73,
+      "views": 146438,
+      "bookmarks": 130
     }
   ]
 }

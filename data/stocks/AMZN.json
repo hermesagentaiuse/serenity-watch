@@ -1,24 +1,11 @@
 {
   "ticker": "AMZN",
   "company": "Amazon",
-  "total_mentions": 22,
+  "total_mentions": 21,
   "bullish": 10,
   "bearish": 5,
-  "neutral": 7,
+  "neutral": 6,
   "posts": [
-    {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "stance": "neutral",
-      "post_id": "2091851831718879660",
-      "text_preview": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premon",
-      "created_at": "2026-08-24T11:35:16+00:00",
-      "likes": 634,
-      "retweets": 34,
-      "replies": 101,
-      "views": 183968,
-      "bookmarks": 170
-    },
     {
       "ticker": "AMZN",
       "company": "Amazon",

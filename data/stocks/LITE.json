@@ -1,37 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 76,
+  "total_mentions": 74,
   "bullish": 22,
-  "bearish": 17,
-  "neutral": 37,
+  "bearish": 16,
+  "neutral": 36,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "bearish",
-      "post_id": "2091935022005776661",
-      "text_preview": "@siflower Not exactly, I think $AAOI stated they avoided LTAs so they wouldn't have too much capacity committed to one customer and have to turn away others.\n\nIf they signed LTAs with prepayments, the",
-      "created_at": "2026-08-24T17:05:50+00:00",
-      "likes": 44,
-      "retweets": 0,
-      "replies": 6,
-      "views": 9960,
-      "bookmarks": 1
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2091967826764632087",
-      "text_preview": "@Meatusmax @adiradir734145 Good question, it's mainly third party commentary + actions around $SIVE. \n\nAyar probably speaks volumes to me most removing $LITE / $MTSI from their supply chain section of",
-      "created_at": "2026-08-24T19:16:11+00:00",
-      "likes": 129,
-      "retweets": 7,
-      "replies": 7,
-      "views": 18033,
-      "bookmarks": 18
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",
