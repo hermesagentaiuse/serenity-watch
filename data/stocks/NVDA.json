@@ -1,10 +1,10 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 111,
+  "total_mentions": 113,
   "bullish": 22,
   "bearish": 17,
-  "neutral": 72,
+  "neutral": 74,
   "posts": [
     {
       "ticker": "NVDA",
@@ -1448,6 +1448,32 @@
       "replies": 73,
       "views": 146438,
       "bookmarks": 130
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2124715837533859857",
+      "text_preview": "President Trump: \"I hope the Board of Nvidia rehires Jensen Huang\"\n\nJensen's return to $NVDA is looking a lot more likely. \n\nEspecially with the support from the US president. https://t.co/0J9GEmGSJD ",
+      "created_at": "2026-11-23T04:05:05Z",
+      "likes": 1720,
+      "retweets": 83,
+      "replies": 136,
+      "views": 247518,
+      "bookmarks": 68
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "stance": "neutral",
+      "post_id": "2124865722342085117",
+      "text_preview": "THE AI TRADE IS BACK \n\n$NVDA Board Reinstates Jensen Huang as CEO https://t.co/8s5s4AdkL2",
+      "created_at": "2026-11-23T14:00:40Z",
+      "likes": 3614,
+      "retweets": 209,
+      "replies": 177,
+      "views": 318974,
+      "bookmarks": 89
     }
   ]
 }

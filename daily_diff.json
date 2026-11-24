@@ -1,17 +1,18 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T09:00:47.014482+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T09:01:09.662603+00:00",
   "has_baseline": true,
-  "new_mention_count": 1,
+  "new_mention_count": 2,
   "new_posts": [
-    "2124582975455318147"
+    "2124715837533859857",
+    "2124865722342085117"
   ],
   "by_ticker": [
     {
       "ticker": "NVDA",
       "company": "NVIDIA",
-      "new": 1,
-      "bullish": 1,
+      "new": 2,
+      "bullish": 0,
       "bearish": 0
     }
   ]
