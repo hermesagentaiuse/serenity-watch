@@ -1,24 +1,11 @@
 {
   "ticker": "SPOT",
   "company": "Spotify",
-  "total_mentions": 7,
+  "total_mentions": 6,
   "bullish": 2,
   "bearish": 1,
-  "neutral": 4,
+  "neutral": 3,
   "posts": [
-    {
-      "ticker": "SPOT",
-      "company": "Spotify",
-      "stance": "neutral",
-      "post_id": "2092718416683819292",
-      "text_preview": "$NVDA earnings TLDR:\n\nRevenue: $96.22B vs. ~$92.17B (beat)\nAdj. EPS: $2.22 vs. $2.09-$2.10 (beat)\nDC: $89.0B vs. ~$86.3B (beat)\nAdj. gross margin: 75% vs. 75%\n\nHyperscaler Revenue: $48.71B from $43.05",
-      "created_at": "2026-08-26T20:58:46+00:00",
-      "likes": 992,
-      "retweets": 53,
-      "replies": 70,
-      "views": 379109,
-      "bookmarks": 143
-    },
     {
       "ticker": "SPOT",
       "company": "Spotify",

@@ -1,24 +1,11 @@
 {
   "ticker": "LITE",
   "company": "Lumentum",
-  "total_mentions": 74,
+  "total_mentions": 73,
   "bullish": 22,
   "bearish": 16,
-  "neutral": 36,
+  "neutral": 35,
   "posts": [
-    {
-      "ticker": "LITE",
-      "company": "Lumentum",
-      "stance": "neutral",
-      "post_id": "2092710854290764161",
-      "text_preview": "I know everyone’s watching $NVDA earnings right now…\n\nBut did you know Landmark signed a 4 year CW agreement with US customer to ensure “sufficient supply”?\n\nSo now you have:\n\n- $LITE (capacity gone)\n",
-      "created_at": "2026-08-26T20:28:43+00:00",
-      "likes": 800,
-      "retweets": 68,
-      "replies": 49,
-      "views": 154062,
-      "bookmarks": 243
-    },
     {
       "ticker": "LITE",
       "company": "Lumentum",

@@ -1,24 +1,11 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 25,
-  "bullish": 8,
+  "total_mentions": 24,
+  "bullish": 7,
   "bearish": 4,
   "neutral": 13,
   "posts": [
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "bullish",
-      "post_id": "2092789800428622128",
-      "text_preview": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). \n\nA $2.5B MC fabless company with PSMC wafer allocation (esp. focused on DDR2). \n\nLast month's net income was: $109.5M (July mo",
-      "created_at": "2026-08-27T01:42:25+00:00",
-      "likes": 777,
-      "retweets": 39,
-      "replies": 69,
-      "views": 247342,
-      "bookmarks": 479
-    },
     {
       "ticker": "NET",
       "company": "Cloudflare",

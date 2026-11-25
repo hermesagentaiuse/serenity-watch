@@ -1,10 +1,10 @@
 {
   "ticker": "GOOGL",
   "company": "Alphabet (Google)",
-  "total_mentions": 24,
+  "total_mentions": 26,
   "bullish": 3,
-  "bearish": 7,
-  "neutral": 14,
+  "bearish": 8,
+  "neutral": 15,
   "posts": [
     {
       "ticker": "GOOGL",
@@ -317,6 +317,32 @@
       "replies": 1,
       "views": 8839,
       "bookmarks": 3
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "neutral",
+      "post_id": "2125058643154632845",
+      "text_preview": "I'd personally revise AI capex estimates back up (beyond accelerators), after Jensen's return to $NVDA. \n\nA lot of revised forecasts where made off him leaving, but his return, can be a lot more confi",
+      "created_at": "2026-11-24T02:47:16Z",
+      "likes": 876,
+      "retweets": 34,
+      "replies": 80,
+      "views": 216638,
+      "bookmarks": 99
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet (Google)",
+      "stance": "bearish",
+      "post_id": "2125276382909566982",
+      "text_preview": "I wonder if we'll see an AI quantum discovery theme emerge in the future, following biotech discovery. \n\n$GOOGL Deepmind: \"Finding faster quantum algorithms with agents\":\n\n1. The timeline by which qua",
+      "created_at": "2026-11-24T17:12:30Z",
+      "likes": 347,
+      "retweets": 9,
+      "replies": 44,
+      "views": 98370,
+      "bookmarks": 61
     }
   ]
 }

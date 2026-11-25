@@ -1,24 +1,11 @@
 {
   "ticker": "MU",
   "company": "Micron",
-  "total_mentions": 36,
-  "bullish": 5,
+  "total_mentions": 35,
+  "bullish": 4,
   "bearish": 10,
   "neutral": 21,
   "posts": [
-    {
-      "ticker": "MU",
-      "company": "Micron",
-      "stance": "bullish",
-      "post_id": "2092851118233764178",
-      "text_preview": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently d",
-      "created_at": "2026-08-27T05:46:04+00:00",
-      "likes": 1169,
-      "retweets": 46,
-      "replies": 93,
-      "views": 467865,
-      "bookmarks": 410
-    },
     {
       "ticker": "MU",
       "company": "Micron",
