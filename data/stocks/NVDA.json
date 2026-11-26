@@ -1,50 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 108,
+  "total_mentions": 105,
   "bullish": 21,
-  "bearish": 18,
-  "neutral": 69,
+  "bearish": 17,
+  "neutral": 67,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2093043338882805767",
-      "text_preview": "@Ingeltun Maybe because $NVDA is a $5+ trillion dollar company.\n\nAnd then you're comparing that to a qualification stage $1B photonics company where all their ramps happen 2027/2028.",
-      "created_at": "2026-08-27T18:29:53+00:00",
-      "likes": 64,
-      "retweets": 0,
-      "replies": 5,
-      "views": 9639,
-      "bookmarks": 2
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bearish",
-      "post_id": "2093087267594314182",
-      "text_preview": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as pr",
-      "created_at": "2026-08-27T21:24:26+00:00",
-      "likes": 667,
-      "retweets": 44,
-      "replies": 71,
-      "views": 159240,
-      "bookmarks": 138
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2093252439973777674",
-      "text_preview": "所以… 回到存储这边我们现在有：\n\n$SKHY CEO 表示: “我们预计[存储]短缺将持续到 2030 年底”\n\n$SNDK 表示: “我们看到直到 2030 年，NAND 都存在结构性的巨大需求”非 GAAP 毛利率将维持在约 80%.\n\n$NVDA 表示 供应承诺从 1,190 亿美元增加到 2,790 亿美元，主要由存储采购推动…与此同时, 存储定价处于“极端”水平 而且还在继续上涨.\n\n",
-      "created_at": "2026-08-28T08:20:47+00:00",
-      "likes": 1202,
-      "retweets": 72,
-      "replies": 183,
-      "views": 325768,
-      "bookmarks": 229
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",

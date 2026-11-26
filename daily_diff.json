@@ -1,41 +1,8 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T09:00:32.085482+00:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T09:00:54.062633+00:00",
   "has_baseline": true,
-  "new_mention_count": 7,
-  "new_posts": [
-    "2125058643154632845",
-    "2125071113470595535",
-    "2125276382909566982"
-  ],
-  "by_ticker": [
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet (Google Class C)",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "GOOGL",
-      "company": "Alphabet (Google)",
-      "new": 2,
-      "bullish": 0,
-      "bearish": 1
-    },
-    {
-      "ticker": "AMD",
-      "company": "AMD",
-      "new": 1,
-      "bullish": 0,
-      "bearish": 1
-    }
-  ]
+  "new_mention_count": 0,
+  "new_posts": [],
+  "by_ticker": []
 }

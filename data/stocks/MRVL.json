@@ -1,24 +1,11 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 37,
+  "total_mentions": 36,
   "bullish": 8,
   "bearish": 3,
-  "neutral": 26,
+  "neutral": 25,
   "posts": [
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2093230562261823905",
-      "text_preview": "Here's the angle I'm looking at $SIVE at: \n\nCompanies/CSPs have been going out of their way way to lock up any qualified CW laser capacity for optical transceivers. \n\nSo now, Sivers is coming into the",
-      "created_at": "2026-08-28T06:53:51+00:00",
-      "likes": 896,
-      "retweets": 52,
-      "replies": 40,
-      "views": 309283,
-      "bookmarks": 205
-    },
     {
       "ticker": "MRVL",
       "company": "Marvell",
