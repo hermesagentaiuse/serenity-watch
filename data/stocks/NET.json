@@ -1,24 +1,11 @@
 {
   "ticker": "NET",
   "company": "Cloudflare",
-  "total_mentions": 23,
+  "total_mentions": 22,
   "bullish": 7,
   "bearish": 3,
-  "neutral": 13,
+  "neutral": 12,
   "posts": [
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "stance": "neutral",
-      "post_id": "2093678493335011831",
-      "text_preview": "Yes. I genuinely don't have a clue why $SIVE still focuses on local Swedish markets for communication/private fundraising. \n\nOver the US. \n\nThe questions you get from Swedish heavy audiences include:\n",
-      "created_at": "2026-08-29T12:33:46+00:00",
-      "likes": 722,
-      "retweets": 26,
-      "replies": 73,
-      "views": 219379,
-      "bookmarks": 101
-    },
     {
       "ticker": "NET",
       "company": "Cloudflare",

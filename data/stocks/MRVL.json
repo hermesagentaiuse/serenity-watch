@@ -1,37 +1,11 @@
 {
   "ticker": "MRVL",
   "company": "Marvell",
-  "total_mentions": 36,
-  "bullish": 8,
+  "total_mentions": 34,
+  "bullish": 7,
   "bearish": 3,
-  "neutral": 25,
+  "neutral": 24,
   "posts": [
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "bullish",
-      "post_id": "2093655580787564803",
-      "text_preview": "@NieMehrKrieg Operationally, Sivers has been doing amazing. Communication wise, it's been subpar and atrocious from the CFO.\n\nJust to give you a sense of valuations:\n\n$SIVE is cheap enough now that $M",
-      "created_at": "2026-08-29T11:02:43+00:00",
-      "likes": 144,
-      "retweets": 2,
-      "replies": 2,
-      "views": 12861,
-      "bookmarks": 4
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell",
-      "stance": "neutral",
-      "post_id": "2093947848580858123",
-      "text_preview": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get ups",
-      "created_at": "2026-08-30T06:24:05+00:00",
-      "likes": 2067,
-      "retweets": 54,
-      "replies": 210,
-      "views": 207263,
-      "bookmarks": 276
-    },
     {
       "ticker": "MRVL",
       "company": "Marvell",

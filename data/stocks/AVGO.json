@@ -1,24 +1,11 @@
 {
   "ticker": "AVGO",
   "company": "Broadcom",
-  "total_mentions": 23,
-  "bullish": 4,
+  "total_mentions": 22,
+  "bullish": 3,
   "bearish": 3,
   "neutral": 16,
   "posts": [
-    {
-      "ticker": "AVGO",
-      "company": "Broadcom",
-      "stance": "bullish",
-      "post_id": "2093652781928448279",
-      "text_preview": "If I had to be critical of $SIVE earnings:\n\n1. Management underweighted the two disclosures that matter most.\n\n-> 6 pluggable engagements \n-> Foundry capacity (during an industry bottleneck)\n\nThat's t",
-      "created_at": "2026-08-29T10:51:36+00:00",
-      "likes": 956,
-      "retweets": 46,
-      "replies": 125,
-      "views": 290460,
-      "bookmarks": 216
-    },
     {
       "ticker": "AVGO",
       "company": "Broadcom",

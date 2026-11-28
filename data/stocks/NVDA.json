@@ -1,37 +1,11 @@
 {
   "ticker": "NVDA",
   "company": "NVIDIA",
-  "total_mentions": 105,
+  "total_mentions": 103,
   "bullish": 21,
-  "bearish": 17,
-  "neutral": 67,
+  "bearish": 16,
+  "neutral": 66,
   "posts": [
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "neutral",
-      "post_id": "2093721035673923743",
-      "text_preview": "@piyush1337 $AMKR has existing traditional packaging capacity underutilized (like in Philippines), so if that 20%+ deficit is true\n\nProbably fills that up at higher prices so that's brrr to nearer ter",
-      "created_at": "2026-08-29T15:22:49+00:00",
-      "likes": 24,
-      "retweets": 0,
-      "replies": 1,
-      "views": 9157,
-      "bookmarks": 6
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "stance": "bearish",
-      "post_id": "2093811019823132903",
-      "text_preview": "Okay just to simplify this:\n\nThere is a guy who eats a lot called $NVDA. Nvidia only wants to buy high-priced potatos off the farmers.\n\nA potato farmer $MU, that was selling carrots... now shifted far",
-      "created_at": "2026-08-29T21:20:22+00:00",
-      "likes": 544,
-      "retweets": 28,
-      "replies": 52,
-      "views": 146559,
-      "bookmarks": 250
-    },
     {
       "ticker": "NVDA",
       "company": "NVIDIA",

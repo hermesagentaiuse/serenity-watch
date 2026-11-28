@@ -1,24 +1,11 @@
 {
   "ticker": "TSLA",
   "company": "Tesla",
-  "total_mentions": 11,
+  "total_mentions": 10,
   "bullish": 2,
   "bearish": 0,
-  "neutral": 9,
+  "neutral": 8,
   "posts": [
-    {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "stance": "neutral",
-      "post_id": "2093661559503679598",
-      "text_preview": "@sebiisb Look at the contrast of how Elon Musk communicates in his transcripts. Very forward looking and visionary. \n\nAnd focuses around economic implications of GROWTH areas (eg. humanoids), not weak",
-      "created_at": "2026-08-29T11:26:28+00:00",
-      "likes": 106,
-      "retweets": 1,
-      "replies": 7,
-      "views": 11284,
-      "bookmarks": 5
-    },
     {
       "ticker": "TSLA",
       "company": "Tesla",

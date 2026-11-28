@@ -1,24 +1,11 @@
 {
   "ticker": "INTC",
   "company": "Intel",
-  "total_mentions": 16,
+  "total_mentions": 15,
   "bullish": 4,
   "bearish": 1,
-  "neutral": 11,
+  "neutral": 10,
   "posts": [
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "stance": "neutral",
-      "post_id": "2093947848580858123",
-      "text_preview": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get ups",
-      "created_at": "2026-08-30T06:24:05+00:00",
-      "likes": 2067,
-      "retweets": 54,
-      "replies": 210,
-      "views": 207263,
-      "bookmarks": 276
-    },
     {
       "ticker": "INTC",
       "company": "Intel",
